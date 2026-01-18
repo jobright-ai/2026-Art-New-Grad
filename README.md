@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696cf299db26b61895102aa8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Jan 18 |
+| ↳ | **[Automotive Detailer  / Lot Attendant - Entry Level](https://jobright.ai/jobs/info/696cf05c5fc86241853c0167?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Jan 18 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/68df27395ab4977c2e951016?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 18 |
 | ↳ | **[Production Associate - Garment Fulfillment Associate](https://jobright.ai/jobs/info/694fccd2ce13cd105657da41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Justice, IL | On Site | Jan 18 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - Cleanroom](https://jobright.ai/jobs/info/691a9017bcdbf3560c9d895d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Jan 18 |
@@ -184,7 +186,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Assistant Editor](https://jobright.ai/jobs/info/696861f01703f05405aa147f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 14 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Apparel Fit Assistant - Toronto](https://jobright.ai/jobs/info/69685222639b452fb57df2e3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jan 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Events Coordinator/Service Team Member](https://jobright.ai/jobs/info/696835d4f25a3800669698c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burnsville-13901 Aldrich Ave S | On Site | Jan 14 |
-| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/69685b92f25a38006696c3c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hendersonville, NC | On Site | Jan 14 |
+| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/696832371703f05405a9db50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hendersonville, NC | On Site | Jan 14 |
 | **[VICTORY RANCH CLUB](https://victoryranchutah.com)** | **[Golf Operations Team Member](https://jobright.ai/jobs/info/696840a5639b452fb57de5d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KAMAS, Utah, United States | On Site | Jan 14 |
 | **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Bras)](https://jobright.ai/jobs/info/67a0803d2e58f08408f280f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Jan 14 |
 | **[The George Washington University](http://www.gwu.edu)** | **[Museum Digital Communications & Visitor Experience Specialist](https://jobright.ai/jobs/info/6967ffd2639b452fb57d8d59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 14 |
@@ -255,8 +257,8 @@ For a complete list, click the following sortable link below:
 | **[Olive Branch Studios](https://theolivebranchstudioss.com)** | **[Floral Color Correction Specialist](https://jobright.ai/jobs/info/696a5077350cf43803113f53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Myers, FL | On Site | Jan 13 |
 | **[Florida Window and Door](http://www.floridawindowanddoor.com/)** | **[Part Time Week-Ends Events Character Costume Performer](https://jobright.ai/jobs/info/6966b586a112b4026614ab5e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Palm Beach, Florida, United States | Hybrid | Jan 13 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Line Worker, AM, Fresh Kitchen - Lakeland](https://jobright.ai/jobs/info/6966a5c3a112b40266149914?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lakeland Florida | On Site | Jan 13 |
-| ↳ | **[Line Worker, AM, Fresh Kitchen - Lakeland](https://jobright.ai/jobs/info/6966ada85ad3a93f8231fe77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 3045 New Tampa Hwy | On Site | Jan 13 |
 | ↳ | **[Line Worker, AM, Fresh Kitchen - Lakeland](https://jobright.ai/jobs/info/6966a99c7a34f5392055270f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lakeland, FL | On Site | Jan 13 |
+| ↳ | **[Line Worker, AM, Fresh Kitchen - Lakeland](https://jobright.ai/jobs/info/6966ada85ad3a93f8231fe77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 3045 New Tampa Hwy | On Site | Jan 13 |
 | ↳ | **[Line Worker, Overnight, Fresh Kitchen - Lakeland](https://jobright.ai/jobs/info/6966b7667a34f539205537a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 3045 New Tampa Hwy | On Site | Jan 13 |
 | **[Radiological Society of North America (RSNA)](http://rsna.org/)** | **[Editorial Coordinator: Radiology](https://jobright.ai/jobs/info/6966882e5ad3a93f8231d70b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oak Brook, IL, US | On Site | Jan 13 |
 | **[7xContent](http://www.7xcontent.com)** | **[Podcast Producer - Video First](https://jobright.ai/jobs/info/6966bd97a112b4026614b6d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 13 |
@@ -322,5 +324,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - Swing Shift](https://jobright.ai/jobs/info/690eae8fd046ab6061d00157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Jan 12 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commerical Producer](https://jobright.ai/jobs/info/68d7701f61a175619f8cd557?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Jan 12 |
 | ↳ | **[Digital Producer](https://jobright.ai/jobs/info/6933a546f131d96e48465553?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 12 |
-| **[TEGNA](http://www.tegna.com)** | **[Prep Sports Journalist/Anchor](https://jobright.ai/jobs/info/691e09d5a49a885af9a23f73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Jan 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
