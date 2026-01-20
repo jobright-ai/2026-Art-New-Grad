@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/696ff9d73ed06875134af833?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oregon House, CA | On Site | Jan 20 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/696fe80882817106e976edaf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 20 |
+| **[The State University of New York](http://www.suny.edu/)** | **[Video Creator](https://jobright.ai/jobs/info/696fe6150f4e0f657ea42c8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Jan 20 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/696fe5aa3ed06875134acf47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Berlin, VT | On Site | Jan 20 |
+| **[Premier Aquatics](https://www.premieraquatics.com)** | **[Content Creator](https://jobright.ai/jobs/info/696ff9bc0f4e0f657ea45145?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 20 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Tuesday & Wednesday](https://jobright.ai/jobs/info/696fd32a3ed06875134abb47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 20 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Events Coordinator-5](https://jobright.ai/jobs/info/696fcaef0f4e0f657ea41661?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 4601 Roosevelt Blvd | On Site | Jan 20 |
+| **[Bent Pixels](http://www.bentpixels.com)** | **[Youtube Editor, Junior Strategist](https://jobright.ai/jobs/info/696ff2ac0f4e0f657ea43fb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Remote | Jan 20 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/69685b92f25a38006696c3c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hendersonville, NC | On Site | Jan 20 |
 | **[Pearce Bespoke Indianapolis](https://pearcebespokeindy.com/)** | **[Custom Clothier](https://jobright.ai/jobs/info/696fb85c0f4e0f657ea40b53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | Hybrid | Jan 20 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6917a9db15b415636717a38a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Jan 20 |
@@ -285,5 +291,4 @@ For a complete list, click the following sortable link below:
 | **[MCC Label](https://www.mcclabel.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/696793a0f25a38006695e906?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesapeake, VA | On Site | Jan 14 |
 | **[Ranew's Companies](https://www.ranews.com)** | **[Production Associate - Griffin, GA 1st Shift](https://jobright.ai/jobs/info/6969fa0c639b452fb57ff315?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Griffin, GA | On Site | Jan 14 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/690dbc50221b890c278092f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Jan 13 |
-| **[Orbit Marketing](https://orbitmarketing.io)** | **[Issue Writer](https://jobright.ai/jobs/info/696752821703f05405a8fb7f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
