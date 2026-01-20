@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goldman Properties](http://goldmanproperties.com)** | **[Artist Research Associate / Executive Assistant](https://jobright.ai/jobs/info/696ededc350cf4380315d714?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami,FL,US | On Site | Jan 19 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/696ed87fdb26b6189511f6d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troy, OH | On Site | Jan 19 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/696ed46bdb26b6189511f3a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Jan 19 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Production Coordinator, Dome Prod](https://jobright.ai/jobs/info/696ed1675fc86241853dcd9a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6944a55250bbaf765056beeb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | On Site | Jan 19 |
 | **[eko](https://eko.com)** | **[Props Purchasing Associate](https://jobright.ai/jobs/info/696e5eabdb26b61895113fbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 19 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/696e5dcd350cf438031521ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmond, OK | On Site | Jan 19 |
-| **[eko](https://eko.com)** | **[Props Purchasing Associate](https://jobright.ai/jobs/info/696e5da15fc86241853d140a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, AR | On Site | Jan 19 |
 | **[Vacatia](https://vacatia.com)** | **[Groundskeeper - The Grandview Resort](https://jobright.ai/jobs/info/696e5accdb26b6189511398a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Jan 19 |
 | **[Douglas Machine Inc.](http://www.douglas-machine.com)** | **[Content Specialist - Written Content](https://jobright.ai/jobs/info/696e39a5350cf4380315042e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Alexandria, MN | On Site | Jan 19 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6944a20094730b739877d150?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Jan 19 |
@@ -220,8 +220,8 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Assistant Editor](https://jobright.ai/jobs/info/69686c0df25a38006696d93c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, California, United States | On Site | Jan 14 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Thursday & Friday](https://jobright.ai/jobs/info/695bf5c122c9dc0d3d53dd7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 14 |
 | **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent](https://jobright.ai/jobs/info/69694775639b452fb57f123c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
-| ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
+| **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
+| ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
 | **[Gray Media](https://graymedia.com)** | **[MEDIA EXECUTIVE/CREATIVE SERVICES HOST - KKTV](https://jobright.ai/jobs/info/69686dadf25a38006696db2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 14 |
 | **[Bardel Entertainment](http://bardel.ca)** | **[3D Animator - Featurette](https://jobright.ai/jobs/info/696871131703f05405aa2977?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 14 |
 | ↳ | **[3D Animator - Featurette](https://jobright.ai/jobs/info/69688f49639b452fb57e48b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
