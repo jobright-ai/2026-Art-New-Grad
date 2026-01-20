@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Cancer Society](http://www.cancer.ca#)** | **[Media Specialist](https://jobright.ai/jobs/info/6942b6b094730b739875c4d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 20 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cc93fbcdbf3560c9e9b63?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Jan 20 |
+| **[SiriusXM](http://siriusxm.com)** | **[Associate Producer, Music Imaging](https://jobright.ai/jobs/info/69530ce3935649778e20cd65?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Jan 20 |
 | **[MCC Label](https://www.mcclabel.com/)** | **[Press Assistant, 3rd Shift](https://jobright.ai/jobs/info/696f656f0f4e0f657ea3b6c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | York Springs, PA | On Site | Jan 20 |
 | **[RealTruck, Inc.](http://www.realtruck.com)** | **[Production Associate - 1st Shift](https://jobright.ai/jobs/info/696b07ea350cf43803124b25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Navarre, OH | On Site | Jan 20 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/696f4f1b9c3c52633456084f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, CA | On Site | Jan 20 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68f8006aec6dbe7073fd01c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Jan 17 |
 | **[Roofing Insights](https://roofinginsights.com/)** | **[Videographer](https://jobright.ai/jobs/info/696c2255350cf438031344a5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | Hybrid | Jan 17 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d776e061a175619f8ce7e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Southfield, MI | On Site | Jan 17 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cc93fbcdbf3560c9e9b63?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Jan 17 |
 | **[SEMAFOR](https://www.semafor.com)** | **[Newsroom Fellow](https://jobright.ai/jobs/info/696bfb9b5fc86241853b48a5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 17 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[Production Associate (Packaging)](https://jobright.ai/jobs/info/696bebb65fc86241853b2c3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elk River, MN | On Site | Jan 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Groom Artist (All Levels) - Expression of Interest](https://jobright.ai/jobs/info/69679d56f25a38006695f5cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Jan 17 |
@@ -291,7 +293,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Lead Event Specialist Part Time - 4996](https://jobright.ai/jobs/info/6966dff65ad3a93f82324d28?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Danville, VA, United States | On Site | Jan 13 |
 | **[Little Rapids Corporation](https://www.littlerapids.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/69670152639b452fb57c9196?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Green Bay, WI | On Site | Jan 13 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper - Seven West at the Trails](https://jobright.ai/jobs/info/6966dcf5a112b4026614effd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seven West at the Trails, Beaverton, OR | On Site | Jan 13 |
-| **[TelevisaUnivision](https://www.corporate.televisaunivision.com)** | **[Talent Usher - Seasonal](https://jobright.ai/jobs/info/6966e3e05ad3a93f823250a3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | On Site | Jan 13 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/696e9357350cf43803154a36?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA, US | On Site | Jan 13 |
-| **[SitePartners](https://sitepartners.ca)** | **[Junior Videographer](https://jobright.ai/jobs/info/696705e66f782b4e8d52b37d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Abbotsford, British Columbia, Canada | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
