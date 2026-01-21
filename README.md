@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent - Weekend Days](https://jobright.ai/jobs/info/6970fcfb333b6343a14d6802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 21 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/6970f1ab587dfa0bb55e7980?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Helena, MT | On Site | Jan 21 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/691be7d622a2cb4b9bd174e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 21 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/6933e8cb764507023d1ba8e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Jan 21 |
@@ -219,7 +220,6 @@ For a complete list, click the following sortable link below:
 | **[The Wine Group](http://thewinegroup.com/)** | **[Cellar Crew 1 (Swing) - Woodbridge](https://jobright.ai/jobs/info/69321e534c474121999f71fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Acampo, CA | On Site | Jan 16 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3f8bcb99ec3563b0e437a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Jan 16 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Massage Therapist](https://jobright.ai/jobs/info/68db3bcf9f13662d20e48c85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kapolei, HI | Hybrid | Jan 16 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Morning Associate Producer](https://jobright.ai/jobs/info/695b6acbaa05c26e7ab4c2c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hunt Valley, MD | On Site | Jan 16 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6970587f333b6343a14ccca2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 | **[Dinamic AS Group](https://dinamicasgroup.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/6969d3a9f25a380066989bf6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Orleans, LA | On Site | Jan 15 |
 | **[Wasserman](http://www.teamwass.com)** | **[Music Settlement Staff](https://jobright.ai/jobs/info/6969c9e5639b452fb57fcd8f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | Hybrid | Jan 15 |
@@ -273,7 +273,4 @@ For a complete list, click the following sortable link below:
 | **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent](https://jobright.ai/jobs/info/69694775639b452fb57f123c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
 | ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
-| **[Gray Media](https://graymedia.com)** | **[MEDIA EXECUTIVE/CREATIVE SERVICES HOST - KKTV](https://jobright.ai/jobs/info/69686dadf25a38006696db2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 14 |
-| **[Bardel Entertainment](http://bardel.ca)** | **[3D Animator - Featurette](https://jobright.ai/jobs/info/696871131703f05405aa2977?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 14 |
-| ↳ | **[3D Animator - Featurette](https://jobright.ai/jobs/info/69688f49639b452fb57e48b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
