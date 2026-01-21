@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cambridge Public Schools](http://www.cpsd.us)** | **[CRLS Club Advisor: Visual Arts](https://jobright.ai/jobs/info/6970903a333b6343a14d0c2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cambridge, MA | On Site | Jan 20 |
 | **[American Public Health Association](https://www.apha.org)** | **[Journal Production Coordinator](https://jobright.ai/jobs/info/69706a47587dfa0bb55e1315?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 20 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696157e0f3f4cd1325064f2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Jan 20 |
 | **[Elevare Branding](https://www.elevarebranding.com)** | **[Production Assistant](https://jobright.ai/jobs/info/697049b6333b6343a14cb95e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Jan 20 |
@@ -156,7 +157,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696cf299db26b61895102aa8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Jan 18 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/68df27395ab4977c2e951016?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 18 |
 | ↳ | **[Production Associate - Garment Fulfillment Associate](https://jobright.ai/jobs/info/694fccd2ce13cd105657da41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Justice, IL | On Site | Jan 18 |
-| **[Rice University](http://www.rice.edu)** | **[Post-MFA Fellow](https://jobright.ai/jobs/info/693381bd764507023d1b64a1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Jan 18 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Freelance Production Assistant](https://jobright.ai/jobs/info/694fde1fa2668b7f5452f9b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Jan 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb70658369791ef7827010?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Jan 18 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Storytelling Production Coordinator](https://jobright.ai/jobs/info/693352eca0dde7020e2eca29?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote (Woodland Hills, CA) | Remote | Jan 17 |
@@ -268,8 +268,8 @@ For a complete list, click the following sortable link below:
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
 | ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
 | **[Gray Media](https://graymedia.com)** | **[MEDIA EXECUTIVE/CREATIVE SERVICES HOST - KKTV](https://jobright.ai/jobs/info/69686dadf25a38006696db2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 14 |
-| **[Bardel Entertainment](http://bardel.ca)** | **[3D Animator - Featurette](https://jobright.ai/jobs/info/696871131703f05405aa2977?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 14 |
-| ↳ | **[3D Animator - Featurette](https://jobright.ai/jobs/info/69688f49639b452fb57e48b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
+| **[Bardel Entertainment](http://bardel.ca)** | **[3D Animator - Featurette](https://jobright.ai/jobs/info/69688f49639b452fb57e48b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
+| ↳ | **[3D Animator - Featurette](https://jobright.ai/jobs/info/696871131703f05405aa2977?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 14 |
 | **[Angel Of The Winds Casino Resort](http://www.AngelOfTheWinds.com)** | **[Production Assistant](https://jobright.ai/jobs/info/6968bbe5f25a380066974b34?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, WA | On Site | Jan 14 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Production Assistant 2nd and 3rd Shift](https://jobright.ai/jobs/info/69685739f25a38006696be25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Asheboro, NC | On Site | Jan 14 |
 | **[Ozaukee County](https://www.co.ozaukee.wi.us)** | **[Seasonal Golf Course Positions- Hawthorne Hills](https://jobright.ai/jobs/info/696947dd639b452fb57f12a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saukville, WI | On Site | Jan 14 |
@@ -293,6 +293,4 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Events Coordinator-PT weekends](https://jobright.ai/jobs/info/69680731f25a380066965c16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canton-4321 Whipple Ave NW | On Site | Jan 14 |
 | ↳ | **[Framer PT nights/weekends](https://jobright.ai/jobs/info/69680c4a639b452fb57d9a58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canton-4321 Whipple Ave NW | On Site | Jan 14 |
 | **[Charter Next Generation](https://cnginc.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/69680f38639b452fb57d9d67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Green Bay, WI | On Site | Jan 14 |
-| **[Pretzel Logic Productions](https://pretzellogicproductions.com/)** | **[Producer & Talent Coordinator](https://jobright.ai/jobs/info/69681849639b452fb57da721?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Jan 14 |
-| **[DTN](https://www.weatherops.com)** | **[Content Editor](https://jobright.ai/jobs/info/6967f35ff25a380066964a4c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, Nebraska | Hybrid | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
