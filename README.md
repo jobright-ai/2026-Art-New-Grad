@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/691be7d622a2cb4b9bd174e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 21 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/6933e8cb764507023d1ba8e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Jan 21 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Content Creator](https://jobright.ai/jobs/info/68ce7d74846f0b04af67a5a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Jan 21 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/6938afcfaabec14a727d9f94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | On Site | Jan 21 |
 | **[Think Tell Junction](https://www.thinktelljunction.com/)** | **[Entry  Level Production Assistant](https://jobright.ai/jobs/info/6970a140587dfa0bb55e4305?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Orleans, LA | On Site | Jan 21 |
@@ -266,8 +268,8 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Assistant Editor](https://jobright.ai/jobs/info/69686c0df25a38006696d93c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, California, United States | On Site | Jan 14 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Thursday & Friday](https://jobright.ai/jobs/info/695bf5c122c9dc0d3d53dd7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 14 |
 | **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent](https://jobright.ai/jobs/info/69694775639b452fb57f123c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
-| ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
+| **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
+| ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
 | **[Gray Media](https://graymedia.com)** | **[MEDIA EXECUTIVE/CREATIVE SERVICES HOST - KKTV](https://jobright.ai/jobs/info/69686dadf25a38006696db2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 14 |
 | **[Bardel Entertainment](http://bardel.ca)** | **[3D Animator - Featurette](https://jobright.ai/jobs/info/696871131703f05405aa2977?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 14 |
 | ↳ | **[3D Animator - Featurette](https://jobright.ai/jobs/info/69688f49639b452fb57e48b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
@@ -278,6 +280,4 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Assistant Editor](https://jobright.ai/jobs/info/696861f01703f05405aa147f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 14 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Apparel Fit Assistant - Toronto](https://jobright.ai/jobs/info/69685222639b452fb57df2e3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jan 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Events Coordinator/Service Team Member](https://jobright.ai/jobs/info/696835d4f25a3800669698c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burnsville-13901 Aldrich Ave S | On Site | Jan 14 |
-| **[VICTORY RANCH CLUB](https://victoryranchutah.com)** | **[Golf Operations Team Member](https://jobright.ai/jobs/info/696840a5639b452fb57de5d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KAMAS, Utah, United States | On Site | Jan 14 |
-| **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Bras)](https://jobright.ai/jobs/info/67a0803d2e58f08408f280f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
