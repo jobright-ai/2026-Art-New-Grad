@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Event Coordinator - weekends](https://jobright.ai/jobs/info/69710d26333b6343a14d895b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington-34 Cambridge St, Ste 150 | On Site | Jan 21 |
+| **[Flowers Foods & Subsidiaries](https://flowersfoods.com/)** | **[Production Associate - 1pm - 9pm](https://jobright.ai/jobs/info/69710652587dfa0bb55e90d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bradenton, FL | On Site | Jan 21 |
 | **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent - Weekend Days](https://jobright.ai/jobs/info/6970fcfb333b6343a14d6802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 21 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/6970f1ab587dfa0bb55e7980?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Helena, MT | On Site | Jan 21 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/691be7d622a2cb4b9bd174e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 21 |
@@ -270,7 +272,4 @@ For a complete list, click the following sortable link below:
 | **[ACV Auctions](https://www.acvauctions.com/)** | **[Detailer](https://jobright.ai/jobs/info/6968cd22f25a380066975c4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO, USA | On Site | Jan 14 |
 | **[ALO](https://www.aloyoga.com/)** | **[Assistant Editor](https://jobright.ai/jobs/info/69686c0df25a38006696d93c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, California, United States | On Site | Jan 14 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Thursday & Friday](https://jobright.ai/jobs/info/695bf5c122c9dc0d3d53dd7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 14 |
-| **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent](https://jobright.ai/jobs/info/69694775639b452fb57f123c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 14 |
-| **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688f1a1703f05405aa5629?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chino Hills, CA | On Site | Jan 14 |
-| ↳ | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69688193f25a38006696f61d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
