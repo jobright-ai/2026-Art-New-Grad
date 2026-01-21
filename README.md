@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[American Public Health Association](https://www.apha.org)** | **[Journal Production Coordinator](https://jobright.ai/jobs/info/69706a47587dfa0bb55e1315?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 20 |
-| **[Acquire Weekly](https://www.acquireweekly.com/subscribe)** | **[Organic Video Editor](https://jobright.ai/jobs/info/69705bc8333b6343a14ce88f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 20 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696157e0f3f4cd1325064f2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Jan 20 |
 | **[Elevare Branding](https://www.elevarebranding.com)** | **[Production Assistant](https://jobright.ai/jobs/info/697049b6333b6343a14cb95e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Jan 20 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Belt Coordinator - 2nd Shift - $17.00/Hour](https://jobright.ai/jobs/info/69703c7251f7264771826d51?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Jan 20 |
