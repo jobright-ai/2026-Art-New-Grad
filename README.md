@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cal Spas](https://calspas.com/)** | **[Videographer / Video Content Producer (Marketing)](https://jobright.ai/jobs/info/69711e7451f7264771835653?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pomona, CA | On Site | Jan 21 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69711e2851f726477183562e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Jan 21 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6971130d333b6343a14d8cf3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 21 |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Management and Marketing Assistant (Chautauqua Opera Company & Conservatory)/Seasonal Employment](https://jobright.ai/jobs/info/6971118a587dfa0bb55ea3fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chautauqua, NY | Hybrid | Jan 21 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Event Coordinator - weekends](https://jobright.ai/jobs/info/69710d26333b6343a14d895b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington-34 Cambridge St, Ste 150 | On Site | Jan 21 |
 | **[Flowers Foods & Subsidiaries](https://flowersfoods.com/)** | **[Production Associate - 1pm - 9pm](https://jobright.ai/jobs/info/69710652587dfa0bb55e90d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bradenton, FL | On Site | Jan 21 |
 | **[eko](https://eko.com)** | **[Props Assistant / On-Camera Hand Talent - Weekend Days](https://jobright.ai/jobs/info/6970fcfb333b6343a14d6802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | Jan 21 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/6970f1ab587dfa0bb55e7980?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Helena, MT | On Site | Jan 21 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/691be7d622a2cb4b9bd174e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 21 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/6933e8cb764507023d1ba8e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Jan 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital News Producer](https://jobright.ai/jobs/info/6938804da0dde7020e3113cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | East Syracuse, NY | On Site | Jan 21 |
