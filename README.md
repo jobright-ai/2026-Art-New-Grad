@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Retail - Event coordinator Team Member](https://jobright.ai/jobs/info/69727c9f4ccbf64f8df26edc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 410 Oyster Bay Rd | On Site | Jan 22 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/68e468e8f758fe1f97e67ff0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Jan 22 |
+| **[First Onsite Property Restoration](https://firstonsite.com)** | **[Contents Crew Lead](https://jobright.ai/jobs/info/69727baa4ccbf64f8df26dc0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Surrey, British Columbia, Canada | On Site | Jan 22 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69724e994ccbf64f8df23989?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake George, NY | On Site | Jan 22 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/69726da34ccbf64f8df26364?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Jan 22 |
 | **[Pace](http://www.paceco.com/)** | **[Associate Editor](https://jobright.ai/jobs/info/697264fe9b83b424830e5b66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensboro, NC | Hybrid | Jan 22 |
@@ -279,5 +281,4 @@ For a complete list, click the following sortable link below:
 | **[The Wine Group](http://thewinegroup.com/)** | **[Cellar Crew 1 (Swing) - Woodbridge](https://jobright.ai/jobs/info/69321e534c474121999f71fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Acampo, CA | On Site | Jan 16 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3f8bcb99ec3563b0e437a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Jan 16 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Massage Therapist](https://jobright.ai/jobs/info/68db3bcf9f13662d20e48c85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kapolei, HI | Hybrid | Jan 16 |
-| **[Centric Brands](https://centricbrands.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6970587f333b6343a14ccca2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
