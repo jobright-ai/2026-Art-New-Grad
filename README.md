@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Multimedia Journalist (MMJ)](https://jobright.ai/jobs/info/693a6301ac80bb5492bcef67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pasco, WA | On Site | Jan 22 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - Up to $19.25/Hour](https://jobright.ai/jobs/info/6971f43447b64f4e963e386e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Jan 21 |
 | **[Foster Poultry Farms](https://www.linkedin.com/company/6766724)** | **[Cutter Packer/Fillet Dept 324 - Cherry (Nights)](https://jobright.ai/jobs/info/6971e482cda45e695358102e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fresno, CA | On Site | Jan 21 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Management and Marketing Assistant (Chautauqua Opera Company & Conservatory)/Seasonal Employment](https://jobright.ai/jobs/info/69719c1e51f726477183f5fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chautauqua, NY | On Site | Jan 21 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Tine Frame Shop Team Member](https://jobright.ai/jobs/info/69719a53587dfa0bb55f498f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 17 Digital Way, Suite 6 | On Site | Jan 21 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[C-MAP Africa Fellow / International Program](https://jobright.ai/jobs/info/69714d9f587dfa0bb55eeaa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/690dbc50221b890c278092f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Jan 21 |
 | **[Gray Media](https://graymedia.com)** | **[NEWSCAST PRODUCER - KBJR](https://jobright.ai/jobs/info/6971479e333b6343a14dc4e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Duluth, MN | On Site | Jan 21 |
-| **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69714ac8587dfa0bb55ee3b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 21 |
-| ↳ | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/697142ce51f7264771837cf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westfield, NJ | On Site | Jan 21 |
+| **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/697142ce51f7264771837cf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westfield, NJ | On Site | Jan 21 |
+| ↳ | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69714ac8587dfa0bb55ee3b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Playtech](http://www.playtech.com)** | **[Live Dealer - Night Shift ( 11PM- 7AM ) - Bensalem, PA](https://jobright.ai/jobs/info/69713e50587dfa0bb55ec7c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 2999 Street Rd, Bensalem | On Site | Jan 21 |
 | **[Cal Spas](https://calspas.com/)** | **[Videographer / Video Content Producer (Marketing)](https://jobright.ai/jobs/info/69711e7451f7264771835653?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pomona, CA | On Site | Jan 21 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69711e2851f726477183562e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Jan 21 |
@@ -289,7 +291,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Showcase Presenter](https://jobright.ai/jobs/info/696987d5f25a380066982d1d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lahaina, HI | On Site | Jan 15 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Mender - 1st Shift - $16.00/Hour](https://jobright.ai/jobs/info/69698546639b452fb57f6260?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Jan 15 |
 | **[VettaFi](https://vettafi.com/)** | **[Line Editor](https://jobright.ai/jobs/info/696949a4f25a38006697db47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liberty, NY | Hybrid | Jan 15 |
-| **[Arizona State University](http://www.asu.edu)** | **[Football Director of Video](https://jobright.ai/jobs/info/69697e30639b452fb57f5d7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tempe, AZ | On Site | Jan 15 |
-| **[Performance Auto Group](https://www.performance.ca/)** | **[Detailer (AutoPlanet Brampton)](https://jobright.ai/jobs/info/696964191703f05405ab3f50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brampton, Ontario, Canada | On Site | Jan 15 |
-| **[VettaFi](https://vettafi.com/)** | **[Line Editor](https://jobright.ai/jobs/info/69693d711703f05405ab1731?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | California, United States | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
