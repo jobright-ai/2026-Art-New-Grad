@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bobyard](https://bobyard.com)** | **[Video Content Creator & Editor](https://jobright.ai/jobs/info/69734b82206da320f49d579e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Jan 23 |
+| **[Ohlone College](http://www.ohlone.edu/)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/69734b18206da320f49d576e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, CA | On Site | Jan 23 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Assistant Lifestyle Video Editor](https://jobright.ai/jobs/info/69733570206da320f49d344f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Jan 23 |
 | **[Vacatia](https://vacatia.com)** | **[Groundskeeper - The Grandview Resort](https://jobright.ai/jobs/info/696e5accdb26b6189511398a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Jan 23 |
 | **[Dotdash](https://www.people.inc/)** | **[Assistant Lifestyle Video Editor](https://jobright.ai/jobs/info/697327cb694e99351d147e26?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, Alabama | On Site | Jan 22 |
@@ -76,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Quanex](http://www.quanex.com/)** | **[Production Associate - Night Shift](https://jobright.ai/jobs/info/697298269b83b424830e925c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bowling Green, KY | On Site | Jan 22 |
 | **[Maxwell Social](https://www.maxwellsocial.com)** | **[Tours & Daytime Production Coordinator](https://jobright.ai/jobs/info/6972b31c4ccbf64f8df2be8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[Biztek Apps](www.biztekapps.com)** | **[Videographer / Video Editor](https://jobright.ai/jobs/info/6972b751584a1c1ef6fdc997?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 22 |
+| **[The Aesthetic Syndicate](https://www.linkedin.com/company/103483632)** | **[Aesthetic Nurse](https://jobright.ai/jobs/info/69734ac2206da320f49d5746?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spring Hill, Tennessee | On Site | Jan 22 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/6972ca559b83b424830ed8a2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, MD | Hybrid | Jan 22 |
 | **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Show & Event Coordinator](https://jobright.ai/jobs/info/69728e81584a1c1ef6fd895e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Haddonfield, NJ | On Site | Jan 22 |
 | **[Pactiv Evergreen Inc.](https://www.pactivevergreen.com)** | **[Packaging Associate Days-Nights](https://jobright.ai/jobs/info/697289a74ccbf64f8df27cd2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 22 |
@@ -301,7 +304,4 @@ For a complete list, click the following sortable link below:
 | **[Ranew's Companies](https://www.ranews.com)** | **[Production Associate- Milner, GA 2nd Shift](https://jobright.ai/jobs/info/696abe1f5fc862418539d2e2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milner, GA | On Site | Jan 16 |
 | **[Monroe Group Ltd.](https://www.monroegroup.com)** | **[Groundskeeper - Summit Ridge Apartments](https://jobright.ai/jobs/info/696a9a965fc86241853994fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham,AL,US | On Site | Jan 16 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Assistant Digital Producer](https://jobright.ai/jobs/info/695c8d829a87b95a9397e174?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Jan 16 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/696a96d3db26b618950dc0f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jan 16 |
-| **[LexisNexis](http://www.lexisnexis.com)** | **[Legal Editor, Practice Area Content](https://jobright.ai/jobs/info/696aacf4db26b618950ddb6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Forest Home, NY | Remote | Jan 16 |
-| **[Symphonic Distribution](https://symphonic.com/)** | **[Video Encoding Assistant](https://jobright.ai/jobs/info/696a8e295fc8624185398677?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
