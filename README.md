@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Seasonal Golf Course Attendant (Early March Start)](https://jobright.ai/jobs/info/6972cff70488fd59f7d5c6f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Orchard, WA | On Site | Jan 22 |
+| **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Wire Hanger Sorter - Temporary](https://jobright.ai/jobs/info/6972ea931d55d64a20534c19?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Event Coordinater](https://jobright.ai/jobs/info/6972c5d5584a1c1ef6fdd807?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flanders-30 International Dr Ste J | On Site | Jan 22 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6972dada0488fd59f7d5d5dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, NM | On Site | Jan 22 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Creator In-Residence Program](https://jobright.ai/jobs/info/6972da4a0488fd59f7d5d51c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 22 |
@@ -301,6 +302,4 @@ For a complete list, click the following sortable link below:
 | **[BeloForm Craft](https://www.beloformcraft.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/696aa4e5db26b618950dcce5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jan 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[MultiMedia Journalist](https://jobright.ai/jobs/info/68bf85b38e65e77df55bb195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Jan 16 |
 | **[Mark Anthony Group](http://www.markanthony.com)** | **[Dillon's Spirits Development Program - May 2026 (New Graduates)](https://jobright.ai/jobs/info/6918289abcdbf3560c9cf178?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lincoln, Ontario, Canada | On Site | Jan 16 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Events Coordinator PT](https://jobright.ai/jobs/info/696e018c350cf4380314d405?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ellicott City-4360 Montgomery Rd | On Site | Jan 16 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - $17.50/Hour - Temporary](https://jobright.ai/jobs/info/69319c15d0010831497baa64?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
