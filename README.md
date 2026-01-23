@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 3rd Shift](https://jobright.ai/jobs/info/691e2ecb3f782d2f1afb1f5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Jan 23 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Seasonal Golf Attendant: Starter - Westfield Country Club](https://jobright.ai/jobs/info/6957b9e0aa05c26e7ab1aade?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westfield Center, OH | On Site | Jan 23 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - Up to $21.00/Hour](https://jobright.ai/jobs/info/69534e43935649778e210ae9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH | On Site | Jan 23 |
 | **[Bobyard](https://bobyard.com)** | **[Video Content Creator & Editor](https://jobright.ai/jobs/info/69734b82206da320f49d579e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Jan 23 |
 | **[Ohlone College](http://www.ohlone.edu/)** | **[Theater Arts Technical Designer (Temporary)](https://jobright.ai/jobs/info/69734b18206da320f49d576e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, CA | On Site | Jan 23 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Assistant Lifestyle Video Editor](https://jobright.ai/jobs/info/69733570206da320f49d344f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Jan 23 |
@@ -150,8 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[C-MAP Africa Fellow / International Program](https://jobright.ai/jobs/info/69714d9f587dfa0bb55eeaa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/690dbc50221b890c278092f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Jan 21 |
 | **[Gray Media](https://graymedia.com)** | **[NEWSCAST PRODUCER - KBJR](https://jobright.ai/jobs/info/6971479e333b6343a14dc4e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Duluth, MN | On Site | Jan 21 |
-| **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69714ac8587dfa0bb55ee3b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 21 |
-| ↳ | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/697142ce51f7264771837cf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westfield, NJ | On Site | Jan 21 |
+| **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/697142ce51f7264771837cf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westfield, NJ | On Site | Jan 21 |
+| ↳ | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69714ac8587dfa0bb55ee3b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Playtech](http://www.playtech.com)** | **[Live Dealer - Night Shift ( 11PM- 7AM ) - Bensalem, PA](https://jobright.ai/jobs/info/69713e50587dfa0bb55ec7c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 2999 Street Rd, Bensalem | On Site | Jan 21 |
 | **[Cal Spas](https://calspas.com/)** | **[Videographer / Video Content Producer (Marketing)](https://jobright.ai/jobs/info/69711e7451f7264771835653?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pomona, CA | On Site | Jan 21 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69711e2851f726477183562e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Jan 21 |
@@ -297,8 +300,4 @@ For a complete list, click the following sortable link below:
 | **[NoGood](https://nogood.io)** | **[Associate Social Video Creator](https://jobright.ai/jobs/info/696acf915fc862418539f076?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 16 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Producer, Fantasy Sports - Part Time](https://jobright.ai/jobs/info/696ab89f350cf4380311bff4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 16 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Trending Content Writer/Editor (Seasonal)](https://jobright.ai/jobs/info/696ab611db26b618950df3bb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 16 |
-| **[Enveda](https://enveda.com)** | **[Animator](https://jobright.ai/jobs/info/696ab287db26b618950decb1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boulder County, CO | Remote | Jan 16 |
-| **[The Atlantic](http://www.theatlantic.com)** | **[Assistant Editor](https://jobright.ai/jobs/info/696ace3edb26b618950e1c6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 16 |
-| ↳ | **[Assistant Editor](https://jobright.ai/jobs/info/696ad046db26b618950e1ff6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jan 16 |
-| **[M&M Food Market](https://www.mmfoodmarket.com)** | **[Bilingual Proofreader (12 Month Term)](https://jobright.ai/jobs/info/696acd1c5fc862418539ec1e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
