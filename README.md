@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LTP](https://ltp.org)** | **[Editor](https://jobright.ai/jobs/info/69753ad3bc8e722e7b1a2872?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Jan 24 |
+| **[Acosta](https://www.acosta.com)** | **[Lead Event Specialist Part Time - 6331](https://jobright.ai/jobs/info/69753601206da320f49f569a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kenosha, WI, United States | On Site | Jan 24 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Customer Framer - Part Time - Yorktown Hts](https://jobright.ai/jobs/info/6974f69dbc8e722e7b19fc5f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 335 Downing Dr. | On Site | Jan 24 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 2nd Shift - Days Off: Saturday & Sunday](https://jobright.ai/jobs/info/6944682250bbaf7650566576?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 24 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Distribution/Packaging Associate](https://jobright.ai/jobs/info/693c2c5650bbaf76504f7acd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mishawaka, IN | On Site | Jan 24 |
@@ -216,8 +218,8 @@ For a complete list, click the following sortable link below:
 | **[Cal Spas](https://calspas.com/)** | **[Videographer / Video Content Producer (Marketing)](https://jobright.ai/jobs/info/69711e7451f7264771835653?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pomona, CA | On Site | Jan 21 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69711e2851f726477183562e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Jan 21 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Press Assistant 1 -3rd shift](https://jobright.ai/jobs/info/69714996333b6343a14dc998?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quakertown, PA | On Site | Jan 21 |
-| ↳ | **[Press Assistant 2 - Flexographic Press - 12-hr Rotating Day Shift](https://jobright.ai/jobs/info/69714b49333b6343a14dcd6e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakdale, MN | On Site | Jan 21 |
 | ↳ | **[Press Assistant 2 - Flexographic Press - 12-hr Rotating Night Shift](https://jobright.ai/jobs/info/697147c351f7264771838811?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakdale, MN, USA | On Site | Jan 21 |
+| ↳ | **[Press Assistant 2 - Flexographic Press - 12-hr Rotating Day Shift](https://jobright.ai/jobs/info/69714b49333b6343a14dcd6e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakdale, MN | On Site | Jan 21 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cc868ff7024498416a511?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Jan 21 |
 | **[Don "K" Chevrolet, Inc.](http://donkchevy.com)** | **[Automotive Detailer](https://jobright.ai/jobs/info/6971389a333b6343a14daad3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Whitefish, MT, 59937, US | On Site | Jan 21 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6971130d333b6343a14d8cf3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Jan 21 |
