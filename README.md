@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Endeavor](http://www.endeavorco.com)** | **[Rotational Assistant, The Wall Group](https://jobright.ai/jobs/info/693cd82baa598a08c3eda1a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LA Metro Area | On Site | Jan 25 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Rotational Assistant, The Wall Group](https://jobright.ai/jobs/info/693ca34daa598a08c3ed87ad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LA Metro Area | On Site | Jan 25 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68cd31ceb2a74e1837ed3bc6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Jan 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68ee980be0db924225808139?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Jan 25 |
 | ↳ | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/69726da34ccbf64f8df26364?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Jan 25 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - $19.00/Hour](https://jobright.ai/jobs/info/6975c90ebc8e722e7b1a997b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Jan 24 |
@@ -174,8 +177,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6945aad063141d1884553849?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jan 22 |
 | **[White Lodging](http://www.whitelodging.com/)** | **[Stager](https://jobright.ai/jobs/info/69729b7f9b83b424830e9a02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saratoga, WY | On Site | Jan 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Event coordinator Team Member](https://jobright.ai/jobs/info/69727c9f4ccbf64f8df26edc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 410 Oyster Bay Rd | On Site | Jan 22 |
-| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Show & Event Coordinator](https://jobright.ai/jobs/info/697297c54ccbf64f8df29354?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Allentown, PA | On Site | Jan 22 |
-| ↳ | **[Show & Event Coordinator](https://jobright.ai/jobs/info/6972a1a64ccbf64f8df2a995?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Township of Cherry Hill, NJ | On Site | Jan 22 |
+| **[Bath Concepts Independent Dealers](https://www.bathconcepts.com/)** | **[Show & Event Coordinator](https://jobright.ai/jobs/info/6972a1a64ccbf64f8df2a995?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Township of Cherry Hill, NJ | On Site | Jan 22 |
+| ↳ | **[Show & Event Coordinator](https://jobright.ai/jobs/info/697297c54ccbf64f8df29354?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Allentown, PA | On Site | Jan 22 |
 | ↳ | **[Show & Event Coordinator](https://jobright.ai/jobs/info/6972a2e74ccbf64f8df2ac34?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bensalem, PA | On Site | Jan 22 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/68e468e8f758fe1f97e67ff0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Jan 22 |
 | **[Novolex](http://www.novolex.com/)** | **[Packaging Associate Days-Nights](https://jobright.ai/jobs/info/6975c4f4206da320f49fc611?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 22 |
