@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The RealReal](http://www.therealreal.com)** | **[Assistant Digital Producer](https://jobright.ai/jobs/info/696062d47ebc25398eb65cb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/6960682ca1bbea1d9a7b4241?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Jan 30 |
 | **[Knott's Berry Farm](http://www.knotts.com)** | **[Park Decor Tech](https://jobright.ai/jobs/info/6960a4cfa1bbea1d9a7b6630?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buena Park, CA | On Site | Jan 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - $15.00 - $18.00/Hour](https://jobright.ai/jobs/info/69446a2d94730b7398779324?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portsmouth, VA | On Site | Jan 30 |
@@ -324,5 +325,4 @@ For a complete list, click the following sortable link below:
 | **[Media Tune](https://themediatune.com/)** | **[Pre-Production Coordinator](https://jobright.ai/jobs/info/69777cbe52f3c27ec6438479?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 23 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Operations Coordinator - Freelance](https://jobright.ai/jobs/info/69758fd637785856350f6461?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | Remote | Jan 23 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Booker/Researcher, The Big Money Show](https://jobright.ai/jobs/info/6974013bbc8e722e7b18e578?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, USA | On Site | Jan 23 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696cf102350cf4380313fd20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
