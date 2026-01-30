@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/697ccc74137a05102565c1dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Jan 30 |
 | **[The RealReal](http://www.therealreal.com)** | **[Assistant Digital Producer](https://jobright.ai/jobs/info/696062d47ebc25398eb65cb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/6960682ca1bbea1d9a7b4241?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Jan 30 |
 | **[Knott's Berry Farm](http://www.knotts.com)** | **[Park Decor Tech](https://jobright.ai/jobs/info/6960a4cfa1bbea1d9a7b6630?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buena Park, CA | On Site | Jan 30 |
@@ -323,5 +324,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Proofreader-Revisor](https://jobright.ai/jobs/info/69743230206da320f49e5340?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, Quebec, Canada | Hybrid | Jan 23 |
 | **[American Public Health Association](https://www.apha.org)** | **[Journal Production Coordinator](https://jobright.ai/jobs/info/697461af206da320f49e9fd4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Jan 23 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Booker/Researcher, The Big Money Show](https://jobright.ai/jobs/info/69742ac4bc8e722e7b19208d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 23 |
-| **[Media Tune](https://themediatune.com/)** | **[Pre-Production Coordinator](https://jobright.ai/jobs/info/69777cbe52f3c27ec6438479?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
