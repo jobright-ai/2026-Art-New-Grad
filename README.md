@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696cf299db26b61895102aa8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Feb 01 |
 | **[StandWithUs](https://www.standwithus.com)** | **[Videographer in Las Vegas](https://jobright.ai/jobs/info/697f4a60ce48107c05435f5e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LV Metro Area | On Site | Feb 01 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/697f49a0ce48107c05435f0c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hillsboro, OR | On Site | Feb 01 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Creative Services Producer](https://jobright.ai/jobs/info/6910452e988c2b7b4ec50c3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yakima, WA | On Site | Feb 01 |
@@ -146,9 +147,9 @@ For a complete list, click the following sortable link below:
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Content Creator](https://jobright.ai/jobs/info/697d0888137a05102565fd1f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morristown, NJ | Hybrid | Jan 30 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
-| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
+| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Production Coordinator, Dome Prod](https://jobright.ai/jobs/info/697cf786727747250d57b381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -369,5 +370,4 @@ For a complete list, click the following sortable link below:
 | **[Park 6 Logistics](https://elevation.ac)** | **[Production Assistant](https://jobright.ai/jobs/info/6977402152f3c27ec6434518?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverside, CA | On Site | Jan 26 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/697c41091136d179eef01217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Jan 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/696157e0f3f4cd1325064f2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Jan 25 |
-| **[Mundelein Park & Recreation District](https://mundeleinparks.org/)** | **[Golf Operations - Starter/Ranger](https://jobright.ai/jobs/info/69772431fdeb8243a279f39d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mundelein, IL | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
