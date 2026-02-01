@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/697eaf32abff4c399a9d5cb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia City, IN | On Site | Jan 31 |
 | **[Springfield Jewish Community Center](https://www.springfieldjcc.org)** | **[Camp Art Specialist](https://jobright.ai/jobs/info/697e71dbabff4c399a9d3294?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MA | On Site | Jan 31 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part-Time Event Coordinator](https://jobright.ai/jobs/info/697e6b69abff4c399a9d310b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saanich-3501 Blanshard St, Unit 111 | On Site | Jan 31 |
 | **[Nashville Record Pressing](http://www.nashvillepressing.com)** | **[Production Associate](https://jobright.ai/jobs/info/697e5cc5abff4c399a9d1418?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Jan 31 |
@@ -104,9 +105,9 @@ For a complete list, click the following sortable link below:
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Content Creator](https://jobright.ai/jobs/info/697d0888137a05102565fd1f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morristown, NJ | Hybrid | Jan 30 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
-| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
+| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Production Coordinator, Dome Prod](https://jobright.ai/jobs/info/697cf786727747250d57b381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -321,8 +322,8 @@ For a complete list, click the following sortable link below:
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Digital Content Editor - Writer](https://jobright.ai/jobs/info/6977ea8f52f3c27ec644173e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle | On Site | Jan 26 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6973db16206da320f49dd4cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Longmont, CO | On Site | Jan 26 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6977dba288e2b47213bbd687?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oxnard, CA | On Site | Jan 26 |
-| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6977cacefdeb8243a27ab778?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 233 Main St., PO Box 711 | On Site | Jan 26 |
-| ↳ | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6977d97c52f3c27ec643ffec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Preston, MD, US | On Site | Jan 26 |
+| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6977d97c52f3c27ec643ffec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Preston, MD, US | On Site | Jan 26 |
+| ↳ | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6977cacefdeb8243a27ab778?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 233 Main St., PO Box 711 | On Site | Jan 26 |
 | **[CarMax](http://www.carmax.com)** | **[Detailer - Night Shift](https://jobright.ai/jobs/info/6977a99c52f3c27ec643bfdf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hillside, IL | On Site | Jan 26 |
 | **[Palmetto Bluff](https://www.palmettobluff.com)** | **[Golf Course Starter/Player Assistant - May River Golf Course](https://jobright.ai/jobs/info/6977dbf652f3c27ec64402e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bluffton, SC, US | On Site | Jan 26 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69777c77fdeb8243a27a51b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Latta, SC | On Site | Jan 26 |
@@ -339,5 +340,4 @@ For a complete list, click the following sortable link below:
 | **[Endeavor](http://www.endeavorco.com)** | **[Rotational Assistant, The Wall Group](https://jobright.ai/jobs/info/693cd82baa598a08c3eda1a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LA Metro Area | On Site | Jan 25 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Rotational Assistant, The Wall Group](https://jobright.ai/jobs/info/693ca34daa598a08c3ed87ad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LA Metro Area | On Site | Jan 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney's Hilton Head Island Resort- Seasonal Position -Hiring Bonus](https://jobright.ai/jobs/info/69722491cda18b7438648584?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hilton Head Island, SC | On Site | Jan 25 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68ee980be0db924225808139?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Jan 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
