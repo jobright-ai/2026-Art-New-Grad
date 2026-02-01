@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0e25abff4c399a9db87f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, MS | On Site | Feb 01 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member (NOC 65201)](https://jobright.ai/jobs/info/697f1a51abff4c399a9dbf95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Balgonie, Saskatchewan, Canada | On Site | Feb 01 |
+| **[ProAmpac](http://www.proampac.com)** | **[Printing Press Assistant](https://jobright.ai/jobs/info/697f18597f40342e15d7ce33?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hartford Town, WI | On Site | Feb 01 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f11bece48107c05432eb9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Shelbyville, IN | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f11b0ce48107c05432ea1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salome, AZ | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f101b7f40342e15d7c9d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Van Horn, TX | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0ffc7f40342e15d7c9b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakwood, IL | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0fb87f40342e15d7c987?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Crawfordsville, IN | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0ebc7f40342e15d7c8d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tonkawa, OK | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0e587f40342e15d7c886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | Feb 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0e25abff4c399a9db87f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, MS | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0de2abff4c399a9db83b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0c6dabff4c399a9db709?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Junction, TX | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0c49abff4c399a9db6f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Haw River, NC | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0bc2ce48107c05432b1d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Myerstown, PA | On Site | Feb 01 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f0b6dce48107c05432ad2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f09ff7f40342e15d7c653?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Williams, IA | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f09437f40342e15d7c5c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Abilene, TX | On Site | Feb 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697f08e3abff4c399a9db5aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jamestown, NM | On Site | Feb 01 |
@@ -319,8 +327,8 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter II](https://jobright.ai/jobs/info/68d4d046ffc1276de3fde3ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sterling, CO | On Site | Jan 26 |
 | **[Carvana](http://www.carvana.com)** | **[Auto Airbrush Painter - 2nd Shift](https://jobright.ai/jobs/info/697802ba88e2b47213bc0d6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Jan 26 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper/Porter - Scotland Yard](https://jobright.ai/jobs/info/697825e3fdeb8243a27b1a9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scotland Yard, Houston, TX | On Site | Jan 26 |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/6978274488e2b47213bc27f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Remote | Jan 26 |
-| ↳ | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/6978201a52f3c27ec6444c0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pasadena, California, United States | Remote | Jan 26 |
+| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/6978201a52f3c27ec6444c0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pasadena, California, United States | Remote | Jan 26 |
+| ↳ | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/6978274488e2b47213bc27f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Remote | Jan 26 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Court Reporter - Official Certified ShorthandReporter (D3 Location TBD)](https://jobright.ai/jobs/info/697828a688e2b47213bc299f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cherokee, IA | On Site | Jan 26 |
 | ↳ | **[Court Reporter - Official Certified Shorthand Reporter (D5 Location TBD)](https://jobright.ai/jobs/info/69780ff452f3c27ec6443f88?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ankeny, IA | On Site | Jan 26 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Event/Party Host & Coordinator](https://jobright.ai/jobs/info/6977e83652f3c27ec644132f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Turlock-3151 Geer Rd | On Site | Jan 26 |
