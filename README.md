@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greystar (International)](http://www.greystar.com)** | **[Porter / Groundskeeper - Tamarind Square](https://jobright.ai/jobs/info/6980e7877f40342e15d9bed9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tamarind Square, Sunnyvale, CA | On Site | Feb 02 |
+| **[Penn State University](http://psu.edu)** | **[Production Assistant, Penn State University Press](https://jobright.ai/jobs/info/6980e4be49964d25b5e3a6d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | University Park, PA | On Site | Feb 02 |
+| **[The Daily Beast](http://www.thedailybeast.com)** | **[Reporter, Beauty & Wellness](https://jobright.ai/jobs/info/6980e0bdabff4c399a9f9ffe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 02 |
 | **[Stellar](http://www.crowdcontent.com)** | **[Freelance Content Translator / Localizer - Thai](https://jobright.ai/jobs/info/6980d8d749964d25b5e3937c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 02 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Seasonal Groundskeeper I](https://jobright.ai/jobs/info/6980c3b649964d25b5e382c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stevens Point, WI | On Site | Feb 02 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[HIRING EVENT! 2/18/2026](https://jobright.ai/jobs/info/6980c1d57f40342e15d98cd4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 05029 Conklin MFC | On Site | Feb 02 |
@@ -173,7 +176,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
-| **[Bell](https://letstalk.bell.ca/en)** | **[Production Coordinator, Dome Prod](https://jobright.ai/jobs/info/697cf786727747250d57b381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Groundskeeper - Swiftwater Luxury Apartments](https://jobright.ai/jobs/info/697d1b4c3f57a3356966d284?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Charlotte, FL | On Site | Jan 30 |
 | **[Legends Global](http://legends.net)** | **[Theatre Coordinator](https://jobright.ai/jobs/info/697cf12f727747250d57a83d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Jan 30 |
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Content Creator](https://jobright.ai/jobs/info/697d0a2a727747250d57c033?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 30 |
@@ -298,7 +300,6 @@ For a complete list, click the following sortable link below:
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - Day Shift - Days Off: Sunday, Monday, & Tuesday](https://jobright.ai/jobs/info/69730f601790715e866c0ebc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Jan 27 |
 | **[Sleep Number Corporation](http://sleepnumber.com)** | **[Sewing Tech - 2nd shift](https://jobright.ai/jobs/info/695d999bf5f3c43f38e27f47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irmo, SC | On Site | Jan 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3fa0ab99ec3563b0e451f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Jan 27 |
-| **[Rate](https://www.rate.com)** | **[Video Editor](https://jobright.ai/jobs/info/69798909ca92cf0d6a82b11d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69798136ca92cf0d6a82ab4c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 27 |
 | **[Gray Media](https://graymedia.com)** | **[MULTIMEDIA JOURNALIST (AM) - KBJR](https://jobright.ai/jobs/info/6979798b9c90a224ecc33172?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Duluth, MN | On Site | Jan 27 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/69797947ca92cf0d6a829bde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Jan 27 |
@@ -347,5 +348,4 @@ For a complete list, click the following sortable link below:
 | **[Ottawa Festival Network](http://www.ottawafestivals.ca)** | **[JA5-Videographer-Ottawa Jazz Festival](https://jobright.ai/jobs/info/69787f5f39f7f96cc6d0e2d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Albert, Alberta, Canada | Hybrid | Jan 26 |
 | **[Indianapolis Zoo](https://www.indianapoliszoo.com)** | **[Exhibit Interpreter](https://jobright.ai/jobs/info/697926a988e2b47213bd4468?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Thursday & Friday](https://jobright.ai/jobs/info/695be6ea22c9dc0d3d53ba46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 26 |
-| **[Atomic Cartoons](http://www.atomiccartoons.com/)** | **[Production Coordinator (2D)](https://jobright.ai/jobs/info/69782ebe52f3c27ec6445d77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
