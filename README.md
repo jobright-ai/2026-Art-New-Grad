@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stellar](http://www.crowdcontent.com)** | **[Freelance Content Translator / Localizer - Thai](https://jobright.ai/jobs/info/6980d8d749964d25b5e3937c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 02 |
 | **[Sentry](https://link.sentry.com/Sentry-HomePage)** | **[Seasonal Groundskeeper I](https://jobright.ai/jobs/info/6980c3b649964d25b5e382c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stevens Point, WI | On Site | Feb 02 |
 | **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[HIRING EVENT! 2/18/2026](https://jobright.ai/jobs/info/6980c1d57f40342e15d98cd4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 05029 Conklin MFC | On Site | Feb 02 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/69769b2b377858563510318a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Feb 02 |
@@ -167,9 +168,9 @@ For a complete list, click the following sortable link below:
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Content Creator](https://jobright.ai/jobs/info/697d0888137a05102565fd1f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morristown, NJ | Hybrid | Jan 30 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
-| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
+| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Production Coordinator, Dome Prod](https://jobright.ai/jobs/info/697cf786727747250d57b381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -347,7 +348,4 @@ For a complete list, click the following sortable link below:
 | **[Indianapolis Zoo](https://www.indianapoliszoo.com)** | **[Exhibit Interpreter](https://jobright.ai/jobs/info/697926a988e2b47213bd4468?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Thursday & Friday](https://jobright.ai/jobs/info/695be6ea22c9dc0d3d53ba46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jan 26 |
 | **[Atomic Cartoons](http://www.atomiccartoons.com/)** | **[Production Coordinator (2D)](https://jobright.ai/jobs/info/69782ebe52f3c27ec6445d77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver | Hybrid | Jan 26 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Mender](https://jobright.ai/jobs/info/69782696fdeb8243a27b1b76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Everett, WA | On Site | Jan 26 |
-| **[Laundry Luv](https://www.laundryluv.com/)** | **[Videography Assistant](https://jobright.ai/jobs/info/69781b1752f3c27ec644478f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Angelo, TX 76901 | On Site | Jan 26 |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/69781ae2fdeb8243a27b0e7b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint Paul, Minnesota, United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
