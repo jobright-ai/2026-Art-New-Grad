@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DICK'S Sporting Goods](http://www.dickssportinggoods.com)** | **[HIRING EVENT! 2/18/2026](https://jobright.ai/jobs/info/6980c1d57f40342e15d98cd4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 05029 Conklin MFC | On Site | Feb 02 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/69769b2b377858563510318a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Feb 02 |
 | **[Smyth Companies](http://smythco.com)** | **[PRESS OPERATOR ASSISTANT](https://jobright.ai/jobs/info/697b5a451423772304eb755d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Feb 02 |
 | **[Perkins](https://www.perkins.org)** | **[Social Media Video & Content Producer](https://jobright.ai/jobs/info/695c3e1d22c9dc0d3d541d11?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Watertown, MA | On Site | Feb 02 |
@@ -166,8 +167,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Production Coordinator, Dome Prod](https://jobright.ai/jobs/info/697cf786727747250d57b381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
@@ -352,9 +353,4 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Detailer - Full Time](https://jobright.ai/jobs/info/695c78849a87b95a9397c901?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Loveland, CO | On Site | Jan 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant - 2nd Shift](https://jobright.ai/jobs/info/6978145e52f3c27ec6444265?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Jan 26 |
 | **[Paramount](https://www.paramount.com)** | **[Music Assistant, TV](https://jobright.ai/jobs/info/69782d4552f3c27ec6445ba4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 26 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter II](https://jobright.ai/jobs/info/68d4d046ffc1276de3fde3ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sterling, CO | On Site | Jan 26 |
-| **[Carvana](http://www.carvana.com)** | **[Auto Airbrush Painter - 2nd Shift](https://jobright.ai/jobs/info/697802ba88e2b47213bc0d6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Jan 26 |
-| **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper/Porter - Scotland Yard](https://jobright.ai/jobs/info/697825e3fdeb8243a27b1a9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scotland Yard, Houston, TX | On Site | Jan 26 |
-| **[American Public Media Group](https://fitzgeraldtheater.publicradio.org)** | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/6978201a52f3c27ec6444c0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pasadena, California, United States | Remote | Jan 26 |
-| ↳ | **[Newsletter Writer - Marketplace, Temporary](https://jobright.ai/jobs/info/6978274488e2b47213bc27f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
