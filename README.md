@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Conversion Crew - Mountain Winery](https://jobright.ai/jobs/info/681184c777535f12a250fcfd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saratoga, CA | On Site | Feb 03 |
+| **[Wine Enthusiast](http://www.wineenthusiast.com)** | **[Assistant Editor](https://jobright.ai/jobs/info/6981e3730f6f7e7a2cdb05fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Valhalla, NY | Hybrid | Feb 03 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Production Assistant 2nd and 3rd Shift](https://jobright.ai/jobs/info/69659f9fa112b4026613a796?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Asheboro, NC | On Site | Feb 03 |
 | **[Mid America Specialty Services](https://massus.com)** | **[Refinisher: Paid Training for Skilled Craftsman - 427](https://jobright.ai/jobs/info/6981c5fd49964d25b5e4e0ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Feb 03 |
 | **[H/L Agency](https://hl.agency)** | **[Jr. Editor](https://jobright.ai/jobs/info/6981c5d6abff4c399aa0e11f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, CA | Hybrid | Feb 03 |
@@ -358,7 +360,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/69797947ca92cf0d6a829bde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Jan 27 |
 | **[Gray Media](https://graymedia.com)** | **[DIGITAL NEWS PRODUCER/VIDEOGRAPHER - WIFR](https://jobright.ai/jobs/info/6979712bca92cf0d6a82947e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Jan 27 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - 3rd Shift](https://jobright.ai/jobs/info/69796fcf9c90a224ecc32867?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Jan 27 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Court Reporter - Official Certified Shorthand Reporter (D7)](https://jobright.ai/jobs/info/6979596539f7f96cc6d1cef6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Davenport, IA | On Site | Jan 27 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Court Reporter - Official Certified Shorthand Reporter (D7)](https://jobright.ai/jobs/info/6979596539f7f96cc6d1cef6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Davenport, IA | On Site | Jan 27 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Framer $15.25/hr](https://jobright.ai/jobs/info/6979591188e2b47213bd8e3e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westminster-10450 Town Center Dr, Ste 400 | On Site | Jan 27 |
 | **[Walters Hospitality](https://waltersweddingestates.com)** | **[Floral Production Specialist](https://jobright.ai/jobs/info/695d9799fbd62a0a65664a86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lago Vista, TX | On Site | Jan 27 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary Gear Editor](https://jobright.ai/jobs/info/6979556e88e2b47213bd8b0e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 132 S. 3rd Street, Easton, PA, 18042, US | On Site | Jan 27 |
@@ -369,5 +371,4 @@ For a complete list, click the following sortable link below:
 | **[PLOS](http://www.plos.org)** | **[Editorial Research Associate](https://jobright.ai/jobs/info/6979466f88e2b47213bd7cff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-Remote | Remote | Jan 27 |
 | **[Business Wire](http://www.businesswire.com)** | **[Newsroom Editor](https://jobright.ai/jobs/info/69795a7c88e2b47213bd8f7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 27 |
 | **[News 12](http://www.news12.com/)** | **[Studio Director - Freelance](https://jobright.ai/jobs/info/6979322b88e2b47213bd5121?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edison, NJ | On Site | Jan 27 |
-| **[MG Properties](https://www.mgproperties.com/)** | **[Porter - Dockside Apartments](https://jobright.ai/jobs/info/69792e1388e2b47213bd4d1b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kent, WA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
