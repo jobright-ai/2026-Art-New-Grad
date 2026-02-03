@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARRISE](https://arrise.com)** | **[GAME PRESENTER with Japanese](https://jobright.ai/jobs/info/6981a0f549964d25b5e4b516?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cd65d22a2cb4b9bd1dc85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Feb 02 |
 | **[Bonneville International](http://bonneville.com/)** | **[KTAR.com Editor and Reporter](https://jobright.ai/jobs/info/6965a0905ad3a93f8230feb8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Feb 02 |
 | **[Arc Worldwide](http://www.arcww.com)** | **[Associate Producer](https://jobright.ai/jobs/info/69817fe0abff4c399aa08318?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Feb 02 |
@@ -225,8 +226,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Groundskeeper - Swiftwater Luxury Apartments](https://jobright.ai/jobs/info/697d1b4c3f57a3356966d284?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Charlotte, FL | On Site | Jan 30 |
@@ -301,7 +302,6 @@ For a complete list, click the following sortable link below:
 | **[ImageFIRST](http://www.imagefirst.com/)** | **[Production Associate (Washroom)](https://jobright.ai/jobs/info/697ac91b8dbbf73badc8185f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, PA | On Site | Jan 28 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Golf Maintenance - Greenskeeper 2 Hualalai - Full Time](https://jobright.ai/jobs/info/697ac8008dbbf73badc81765?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 28 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Production Associate / Day Shift](https://jobright.ai/jobs/info/697c1c9b1423772304ec77b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Murfreesboro, TN | On Site | Jan 28 |
-| **[Skin Laundry](http://www.skinlaundry.com)** | **[Aesthetic Registered Nurse PT](https://jobright.ai/jobs/info/697ae302c532c4768fe09bbf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Woodland Hills, California, United States | On Site | Jan 28 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Press Assistant 1-3rd Shift](https://jobright.ai/jobs/info/697abd219d60e431a16c662c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Angola, IN | On Site | Jan 28 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Assistant, Motion Picture](https://jobright.ai/jobs/info/695ef79008ab990f282a47de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 28 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/697accd79d60e431a16c744f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Round Lake Beach, IL | On Site | Jan 28 |
@@ -343,7 +343,6 @@ For a complete list, click the following sortable link below:
 | **[Sleep Number Corporation](http://sleepnumber.com)** | **[Sewing Tech - 2nd shift](https://jobright.ai/jobs/info/695d999bf5f3c43f38e27f47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irmo, SC | On Site | Jan 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3fa0ab99ec3563b0e451f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Jan 27 |
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69798136ca92cf0d6a82ab4c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 27 |
-| **[David's Bridal](http://www.davidsbridal.com)** | **[Lead Alterations Specialist](https://jobright.ai/jobs/info/69816d3a7f40342e15da70be?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA | On Site | Jan 27 |
 | **[Gray Media](https://graymedia.com)** | **[MULTIMEDIA JOURNALIST (AM) - KBJR](https://jobright.ai/jobs/info/6979798b9c90a224ecc33172?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Duluth, MN | On Site | Jan 27 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/69797947ca92cf0d6a829bde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Jan 27 |
 | **[Gray Media](https://graymedia.com)** | **[DIGITAL NEWS PRODUCER/VIDEOGRAPHER - WIFR](https://jobright.ai/jobs/info/6979712bca92cf0d6a82947e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Jan 27 |
@@ -371,5 +370,4 @@ For a complete list, click the following sortable link below:
 | **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper/Porter - The Grand at Westside](https://jobright.ai/jobs/info/697939d339f7f96cc6d1a716?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | The Grand at Westside, Kissimmee, FL | On Site | Jan 27 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support](https://jobright.ai/jobs/info/697924cd39f7f96cc6d1853b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Jan 27 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[Part-Time Junior Editor](https://jobright.ai/jobs/info/697927a139f7f96cc6d18967?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Citi Field – Queens, New York | On Site | Jan 27 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/697fb2e9abff4c399a9e3e66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
