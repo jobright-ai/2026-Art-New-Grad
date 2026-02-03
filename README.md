@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weinstein Properties](http://weinsteinproperties.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/698155f6abff4c399aa04d5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cary/Morrisville, NC | On Site | Feb 02 |
 | **[New Engen](http://www.newengen.com/)** | **[Content Creator - Donut Studios](https://jobright.ai/jobs/info/69655bfca112b402661333e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 02 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/69814fddabff4c399aa048b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Feb 02 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6971130d333b6343a14d8cf3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Feb 02 |
@@ -213,8 +214,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary News Writer](https://jobright.ai/jobs/info/697cfdc53f57a3356966b60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Groundskeeper - Swiftwater Luxury Apartments](https://jobright.ai/jobs/info/697d1b4c3f57a3356966d284?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Charlotte, FL | On Site | Jan 30 |
@@ -366,5 +367,4 @@ For a complete list, click the following sortable link below:
 | **[EFP, LLC.](http://efpcorp.com)** | **[Production Associate Team Member](https://jobright.ai/jobs/info/6940845d49a7695fbd060f41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | La Vergne, TN | On Site | Jan 27 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/69420cc850bbaf765053ddd6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Jan 27 |
 | **[L'Orienthèque, centre d'orientation et services d'intégration de la main-d'oeuvre](http://www.orientheque.ca)** | **[05. ANIMATEUR OU ANIMATRICE](https://jobright.ai/jobs/info/6977ff0e88e2b47213bc0b20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sorel-Tracy, Quebec, Canada | On Site | Jan 27 |
-| **[JOHN ELLIOTT](https://www.johnelliott.com/)** | **[Coordinator, Production - John Elliott](https://jobright.ai/jobs/info/695c90c4f1f8465b79f2b454?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
