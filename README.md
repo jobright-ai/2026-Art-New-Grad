@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OLIVER Agency](https://www.oliver.agency/)** | **[Content Creator](https://jobright.ai/jobs/info/698371fe348f733a5c3679b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 04 |
+| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Texas Connect Reporter](https://jobright.ai/jobs/info/698371f601214b4cdacb19ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 04 |
 | **[MCC Label](https://www.mcclabel.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/696793a0f25a38006695e906?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesapeake, VA | On Site | Feb 04 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/694b59771a572a617dddad8e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Feb 04 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - $18.25+/Hour](https://jobright.ai/jobs/info/69671eebf25a380066957d29?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Evansville, IN | On Site | Feb 04 |
@@ -307,12 +309,13 @@ For a complete list, click the following sortable link below:
 | **[Gray Media](https://graymedia.com)** | **[PRODUCER/CONTENT PRODUCER - WGGB](https://jobright.ai/jobs/info/697d0ecb137a0510256603cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, Massachusetts, United States | Hybrid | Jan 30 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d04d13f57a3356966ba2d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder, GA | On Site | Jan 30 |
 | ↳ | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/697d024f137a05102565f8a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winder. GA | On Site | Jan 30 |
-| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
+| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/697d31f3137a05102566406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Jan 30 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259b3f57a3356966e02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Jan 30 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/697d259a727747250d57e122?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jan 30 |
 | **[Ravinia Festival](http://ravinia.org)** | **[Assistant Production Coordinator](https://jobright.ai/jobs/info/697d1bc5137a051025661392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Highland Park, IL | On Site | Jan 30 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Groundskeeper - Swiftwater Luxury Apartments](https://jobright.ai/jobs/info/697d1b4c3f57a3356966d284?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Charlotte, FL | On Site | Jan 30 |
 | **[Layton Sports Cards](http://www.laytonsportscards.com)** | **[On-Air Sports Card Breaker](https://jobright.ai/jobs/info/697d09273f57a3356966bda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Apopka, FL | On Site | Jan 30 |
+| **[Home Chef](https://www.homechef.com)** | **[Production Associate - Day Shift - Days Off: Sunday, Monday, & Tuesday](https://jobright.ai/jobs/info/69730f601790715e866c0ebc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Jan 30 |
 | **[The RealReal](http://www.therealreal.com)** | **[Assistant Digital Producer](https://jobright.ai/jobs/info/696062d47ebc25398eb65cb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/6960682ca1bbea1d9a7b4241?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Jan 30 |
 | **[Knott's Berry Farm](http://www.knotts.com)** | **[Park Decor Tech](https://jobright.ai/jobs/info/6960a4cfa1bbea1d9a7b6630?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buena Park, CA | On Site | Jan 30 |
@@ -375,5 +378,4 @@ For a complete list, click the following sortable link below:
 | **[ImageFIRST](http://www.imagefirst.com/)** | **[Production Associate (Washroom)](https://jobright.ai/jobs/info/697ac91b8dbbf73badc8185f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, PA | On Site | Jan 28 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Golf Maintenance - Greenskeeper 2 Hualalai - Full Time](https://jobright.ai/jobs/info/697ac8008dbbf73badc81765?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 28 |
 | **[Capstone Logistics, LLC](http://www.capstonelogistics.com/)** | **[Production Associate / Day Shift](https://jobright.ai/jobs/info/697c1c9b1423772304ec77b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Murfreesboro, TN | On Site | Jan 28 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Press Assistant 1-3rd Shift](https://jobright.ai/jobs/info/697abd219d60e431a16c662c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Angola, IN | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
