@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlas Public Policy](https://atlaspolicy.com/)** | **[Live Video Producer (Contractor)](https://jobright.ai/jobs/info/698766a38ca8121a3a69ee7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Feb 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3fa0ab99ec3563b0e451f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Feb 07 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69874ab90f6f7e7a2ce2936e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Big Lake, TX | On Site | Feb 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691ce4aa22a2cb4b9bd1e552?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delanco, NJ | On Site | Feb 07 |
@@ -102,15 +103,15 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69865a238ca8121a3a689252?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Des Moines, IA | On Site | Feb 06 |
 | **[First Onsite Property Restoration](https://firstonsite.com)** | **[Contents Crew Lead](https://jobright.ai/jobs/info/698674e48da7a61204613f42?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Surrey, British Columbia, Canada | On Site | Feb 06 |
 | **[Magic Memories](https://www.magicmemories.com/)** | **[Retail Photo Operations Supervisor - Orlando Eye](https://jobright.ai/jobs/info/698690d08da7a61204616406?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orlando, Florida, United States | On Site | Feb 06 |
-| **[The National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org)** | **[Editorial Assistant](https://jobright.ai/jobs/info/698665840f6f7e7a2ce154eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 3 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986671b8da7a61204612510?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 1 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698660b68da7a61204611893?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 10 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698659268ca8121a3a6890aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 14 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698667468ca8121a3a68a849?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 5 | Remote | Feb 06 |
+| **[The National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69866aa58ca8121a3a68aec6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 11 | Remote | Feb 06 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986738e8da7a61204613eb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 7 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698660b68da7a61204611893?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 10 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698667468ca8121a3a68a849?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 5 | Remote | Feb 06 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698660930f6f7e7a2ce14ad6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 12 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/69866aa58ca8121a3a68aec6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 11 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698665840f6f7e7a2ce154eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 3 | Remote | Feb 06 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986676f8ca8121a3a68a896?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 2 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986671b8da7a61204612510?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 1 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698659268ca8121a3a6890aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 14 | Remote | Feb 06 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698666b48da7a61204612452?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 13 | Remote | Feb 06 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69862af88da7a6120460dc2f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Knoxville, TN | On Site | Feb 06 |
 | **[Southern Tier Brewing Company](https://stbcbeer.com)** | **[Packaging Associate - 1st Shift / Lakewood, NY](https://jobright.ai/jobs/info/698636928ca8121a3a686634?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lakewood, NY | On Site | Feb 06 |
@@ -415,5 +416,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/697ef445abff4c399a9d9f77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagle Pass, TX | On Site | Jan 31 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Hair Stylist Extraordinaire - Boost Your Career at Sport Clips FT](https://jobright.ai/jobs/info/697f2529abff4c399a9dcd5b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baxter, Minnesota | On Site | Jan 31 |
 | ↳ | **[Hair Stylist Extraordinaire - Boost Your Career at Sport Clips FT](https://jobright.ai/jobs/info/697f2c56ce48107c05435082?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Waconia, Minnesota | On Site | Jan 31 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68f8006aec6dbe7073fd01c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
