@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peachy](https://peachystudio.com/)** | **[Aesthetic Nurse Practitioner (Manhattan)](https://jobright.ai/jobs/info/698bc5390f6f7e7a2ce73cf9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 10 |
 | **[Dempsey Uniform & Linen Supply](http://dempseyuniform.com)** | **[Heavy Production Associate](https://jobright.ai/jobs/info/698b8e15c5761b521a9b1c79?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jessup, PA | On Site | Feb 10 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Apparel Grader - Temporary](https://jobright.ai/jobs/info/698bb3f40f6f7e7a2ce72d48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/698bb8b006d9b0622495e0cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Feb 10 |
@@ -64,6 +65,8 @@ For a complete list, click the following sortable link below:
 | **[TEGNA](http://www.tegna.com)** | **[Story Desk Editor](https://jobright.ai/jobs/info/698b9a9a0f6f7e7a2ce71239?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 10 |
 | **[Blue Ant Media](http://www.glassbox.tv)** | **[Show Coordinator](https://jobright.ai/jobs/info/698bad930f6f7e7a2ce7290b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 10 |
 | **[MCC Label](https://www.mcclabel.com/)** | **[Printing Press Assistant, 1st Shift](https://jobright.ai/jobs/info/698b789406d9b062249592ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | York Springs, PA | On Site | Feb 10 |
+| **[NAIT Students'​ Association (NAITSA)](http://www.naitsa.ca)** | **[Opinion Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698bc2cf0f6f7e7a2ce73ab8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
+| ↳ | **[News Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698bca2506d9b0622495f157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Temporary Editor, ELLE Decor](https://jobright.ai/jobs/info/698b76cbc5761b521a9af7a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Feb 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Assembler](https://jobright.ai/jobs/info/696f8ff93ed06875134a8241?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Feb 10 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/698b70f90f6f7e7a2ce6dbba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant, IA | On Site | Feb 10 |
@@ -197,6 +200,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Studio Coordinator](https://jobright.ai/jobs/info/698676da0f6f7e7a2ce17152?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Feb 06 |
 | **[Christie's](http://www.christies.com/)** | **[Research Coordinator, Impressionist & Modern Art (Temp)](https://jobright.ai/jobs/info/698674690f6f7e7a2ce16db4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Feb 06 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69559595f1f8465b79ec8c13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manville, NJ | On Site | Feb 06 |
+| **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6813c351762cbf27701b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Feb 06 |
 | **[BETA TECHNOLOGIES](https://beta.team)** | **[Junior Carpenter / Woodshop](https://jobright.ai/jobs/info/69868ac70f6f7e7a2ce18bae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Burlington, VT | On Site | Feb 06 |
 | **[Flaherty & Collins Properties](http://flco.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/6986987b0f6f7e7a2ce1a111?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Castle Point - SOUTH BEND, IN 46637 | On Site | Feb 06 |
 | **[Carole Fabrics](https://www.carolefabrics.com)** | **[Seamstress](https://jobright.ai/jobs/info/69868cc28ca8121a3a68da58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Feb 06 |
@@ -208,16 +212,16 @@ For a complete list, click the following sortable link below:
 | **[MGM Trial Services, Inc.](http://www.mgmtrialservices.com)** | **[Digital Court Reporter / Scopist](https://jobright.ai/jobs/info/69873c320f6f7e7a2ce28562?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 06 |
 | **[Performance Auto Group](https://www.performance.ca/)** | **[Detailer (AutoPlanet Brampton)](https://jobright.ai/jobs/info/696964191703f05405ab3f50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brampton, Ontario, Canada | On Site | Feb 06 |
 | **[Magic Memories](https://www.magicmemories.com/)** | **[Retail Photo Operations Supervisor - Orlando Eye](https://jobright.ai/jobs/info/698690d08da7a61204616406?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orlando, Florida, United States | On Site | Feb 06 |
-| **[The National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org)** | **[Editorial Assistant](https://jobright.ai/jobs/info/698665840f6f7e7a2ce154eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 3 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986671b8da7a61204612510?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 1 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/69866aa58ca8121a3a68aec6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 11 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698660930f6f7e7a2ce14ad6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 12 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698666b48da7a61204612452?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 13 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698667468ca8121a3a68a849?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 5 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698660b68da7a61204611893?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 10 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986738e8da7a61204613eb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 7 | Remote | Feb 06 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698659268ca8121a3a6890aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 14 | Remote | Feb 06 |
+| **[The National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org)** | **[Editorial Assistant](https://jobright.ai/jobs/info/698660b68da7a61204611893?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 10 | Remote | Feb 06 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986676f8ca8121a3a68a896?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 2 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986738e8da7a61204613eb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 7 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698665840f6f7e7a2ce154eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 3 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698660930f6f7e7a2ce14ad6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 12 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/69866aa58ca8121a3a68aec6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 11 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698667468ca8121a3a68a849?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 5 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698659268ca8121a3a6890aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 14 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/698666b48da7a61204612452?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 13 | Remote | Feb 06 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/6986671b8da7a61204612510?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote 1 | Remote | Feb 06 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69862af88da7a6120460dc2f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Knoxville, TN | On Site | Feb 06 |
 | **[Southern Tier Brewing Company](https://stbcbeer.com)** | **[Packaging Associate - 1st Shift / Lakewood, NY](https://jobright.ai/jobs/info/698636928ca8121a3a686634?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lakewood, NY | On Site | Feb 06 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/698630d98ca8121a3a685ecd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Feb 06 |
@@ -332,6 +336,4 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Producer](https://jobright.ai/jobs/info/694b8ab1d64ebf28d8215439?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY | On Site | Feb 04 |
 | **[AntiSocial](https://antisocialsolutions.com/)** | **[Junior Editor - The Heist](https://jobright.ai/jobs/info/698465c20f6f7e7a2cdec085?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 04 |
 | **[Statesman Journal / Gannett](http://www.statesmanjournal.com)** | **[South Florida Connect Reporter](https://jobright.ai/jobs/info/69831b6f348f733a5c363b4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Florida Shores, FL | Remote | Feb 04 |
-| **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69831670348f733a5c363042?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virginia Beach, VA | On Site | Feb 04 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68ee980be0db924225808139?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
