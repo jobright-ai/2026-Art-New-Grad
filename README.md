@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6993cee181476f6176ab6a5f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | Feb 16 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6993cea6ce78e77b4fd7a2c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Feb 16 |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Videographer](https://jobright.ai/jobs/info/6993cde181476f6176ab69a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Torrance, CA | On Site | Feb 16 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - Night Shift - Days Off: Monday, Tuesday, and Wednesday](https://jobright.ai/jobs/info/6993b481ce78e77b4fd78971?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lithia Springs, GA | On Site | Feb 16 |
 | **[Apple](https://www.apple.com)** | **[Production Coordinator, Health](https://jobright.ai/jobs/info/6993ab69e0bddb6acac1f28c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cupertino, CA | On Site | Feb 16 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/69939dfbce78e77b4fd770e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Feb 16 |
@@ -173,8 +176,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/698f36250cc8ea15f1d9a8a0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morristown, NJ, US | Hybrid | Feb 13 |
 | ↳ | **[Assistant Editor](https://jobright.ai/jobs/info/698f6a310f6f7e7a2ceb9f49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | Hybrid | Feb 13 |
 | ↳ | **[Assistant Editor](https://jobright.ai/jobs/info/698f53dd6ea51a7610f1a2e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | Hybrid | Feb 13 |
-| ↳ | **[Junior Producer](https://jobright.ai/jobs/info/698f5ece0cc8ea15f1d9e149?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | Feb 13 |
 | ↳ | **[Junior Producer](https://jobright.ai/jobs/info/698f73976ea51a7610f1cbb2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-ON-Toronto | Hybrid | Feb 13 |
+| ↳ | **[Junior Producer](https://jobright.ai/jobs/info/698f5ece0cc8ea15f1d9e149?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | Feb 13 |
 | **[Curated](http://powerhousevfx.com/)** | **[FX Artist (General Submission)](https://jobright.ai/jobs/info/691e47043f782d2f1afb3492?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Toronto Area, Canada | Remote | Feb 13 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/69852af3348f733a5c395b3c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hybrid (Woodland Hills, CA) | Hybrid | Feb 13 |
 | **[NBME](http://www.nbme.org/)** | **[Editorial Production Assistant](https://jobright.ai/jobs/info/698f1ef90f6f7e7a2ceb2d90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 13 |
@@ -206,19 +209,19 @@ For a complete list, click the following sortable link below:
 | **[NISC](http://www.nisc.coop/)** | **[iGEAR® Production Associate - Promotional Products](https://jobright.ai/jobs/info/698e779f0f6f7e7a2cea8fc0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mandan, ND | On Site | Feb 12 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Print Production Associate- Second Shift](https://jobright.ai/jobs/info/698e8993f64d441a1650d591?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ohio, United States | On Site | Feb 12 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Narrative Designer (Star Wars Jedi)](https://jobright.ai/jobs/info/698e7fe978b4502f12a55667?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e792b78b4502f12a54cac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, MD | Remote | Feb 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e7316f64d441a1650b6d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, VT | Remote | Feb 12 |
 | ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e6d2c0f6f7e7a2cea7c8d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, TN | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e718d78b4502f12a54108?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, AK | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e75f778b4502f12a5471f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, NY | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e752c78b4502f12a545ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, CT | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e73caf64d441a1650b886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, GA | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e774e0f6f7e7a2cea8f6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, NC | Remote | Feb 12 |
 | ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e6e6178b4502f12a53b4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, OH | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e7a5678b4502f12a54e7f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, RI | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e718d78b4502f12a54108?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, AK | Remote | Feb 12 |
 | ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e741f78b4502f12a5441f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, SC | Remote | Feb 12 |
-| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e7316f64d441a1650b6d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, VT | Remote | Feb 12 |
 | ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e76d50f6f7e7a2cea8e7c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, LA | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e7a5678b4502f12a54e7f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, RI | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e792b78b4502f12a54cac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, MD | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e75f778b4502f12a5471f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, NY | Remote | Feb 12 |
 | ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e77160f6f7e7a2cea8f06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, WI | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e73caf64d441a1650b886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, GA | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e752c78b4502f12a545ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, CT | Remote | Feb 12 |
+| ↳ | **[Associate Editor, Black Information Network](https://jobright.ai/jobs/info/698e774e0f6f7e7a2cea8f6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virtual, NC | Remote | Feb 12 |
 | **[Elkridge Club](https://www.elkridgeclub.org)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/698e75a60f6f7e7a2cea8c07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Feb 12 |
 | **[WebFX](https://www.webfx.com)** | **[Remote Copy/Content Editor](https://jobright.ai/jobs/info/697286b84ccbf64f8df2795a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 12 |
 | **[Spin Master Games](http://www.spinmaster.com)** | **[Development Coordinator](https://jobright.ai/jobs/info/698e9ef578b4502f12a57839?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 12 |
@@ -329,9 +332,9 @@ For a complete list, click the following sortable link below:
 | **[MCC Label](https://www.mcclabel.com/)** | **[Printing Press Assistant, 1st Shift](https://jobright.ai/jobs/info/698b789406d9b062249592ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | York Springs, PA | On Site | Feb 10 |
 | **[Compose.ly](http://www.compose.ly)** | **[Game Content Writer](https://jobright.ai/jobs/info/698f822f0f6f7e7a2cebbf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 10 |
 | **[NAIT Students'​ Association (NAITSA)](http://www.naitsa.ca)** | **[Arts & Culture Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698bf0e20f6f7e7a2ce773e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
-| ↳ | **[Video Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698be8060f6f7e7a2ce76b51?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
-| ↳ | **[News Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698bca2506d9b0622495f157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
 | ↳ | **[Opinion Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698bc2cf0f6f7e7a2ce73ab8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
+| ↳ | **[News Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698bca2506d9b0622495f157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
+| ↳ | **[Video Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698be8060f6f7e7a2ce76b51?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
 | ↳ | **[Online Editor – NAIT Nugget (2026/27)](https://jobright.ai/jobs/info/698c0c04e4f6572f0e440574?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Feb 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Assembler](https://jobright.ai/jobs/info/696f8ff93ed06875134a8241?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Feb 10 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/698b70f90f6f7e7a2ce6dbba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant, IA | On Site | Feb 10 |
@@ -343,5 +346,4 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Kids Craft Host & Service Team Member - Weekends](https://jobright.ai/jobs/info/698b970dc5761b521a9b26a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burnsville-13901 Aldrich Ave S | On Site | Feb 10 |
 | **[Gracious Hospitality Management](https://www.cotenyc.com)** | **[Model Host](https://jobright.ai/jobs/info/6979eb11a5b9804527dfb8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, Nevada, United States | On Site | Feb 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - $15.00 - $18.00/Hour](https://jobright.ai/jobs/info/696e8ef0db26b61895116c4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portsmouth, VA | On Site | Feb 10 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Music Central Assistant - Nashville](https://jobright.ai/jobs/info/685365622894593b762e8363?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
