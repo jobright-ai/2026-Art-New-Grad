@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/6985670b0f6f7e7a2ce02343?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 27 |
+| **[ESPN](http://espncareers.com)** | **[Digital Video Content Associate](https://jobright.ai/jobs/info/69a19506b600907a962800d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Feb 27 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Music Operations Coordinator](https://jobright.ai/jobs/info/69a185f00da45516f16af2b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Feb 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Digital Video Content Associate](https://jobright.ai/jobs/info/69a18525b600907a9627f6d8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Feb 27 |
 | **[Central Alps](http://central-alps.com)** | **[CENTRAL ALPS  CONTENT CREATOR ($15-25)](https://jobright.ai/jobs/info/69a18233b600907a9627f4fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, TX | On Site | Feb 27 |
@@ -100,7 +102,9 @@ For a complete list, click the following sortable link below:
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Producer III](https://jobright.ai/jobs/info/69a0e4db0836fe79d861efbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, New Jersey, United States | On Site | Feb 26 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Motion Pictures Talent - Assistant](https://jobright.ai/jobs/info/69a12c1581476f6176bb8520?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Feb 26 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/69a187cbb600907a9627f8df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH, US | On Site | Feb 26 |
-| **[Carole Fabrics](https://www.carolefabrics.com)** | **[Drapery Finishing Associate](https://jobright.ai/jobs/info/69a18b2a0da45516f16af697?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Feb 26 |
+| **[Carole Fabrics](https://www.carolefabrics.com)** | **[Seamstress](https://jobright.ai/jobs/info/69a18c99b600907a9627fc42?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Feb 26 |
+| ↳ | **[Drapery Finishing Associate](https://jobright.ai/jobs/info/69a18b2a0da45516f16af697?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Feb 26 |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/69a18c150da45516f16af767?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH, US | On Site | Feb 26 |
 | **[Minnesota Timberwolves](http://timberwolves.nba.com/)** | **[Lynx Basketball Communications Assistant](https://jobright.ai/jobs/info/6997b9f1ce78e77b4fdc166a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Feb 26 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host / Balloons](https://jobright.ai/jobs/info/69a0ece65218a816767228fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Studio City-11239 Ventura Blvd | On Site | Feb 26 |
 | ↳ | **[event host](https://jobright.ai/jobs/info/69a0d89e0836fe79d861daf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westport-1870 Post Rd E | On Site | Feb 26 |
