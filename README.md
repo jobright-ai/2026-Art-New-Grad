@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monograph](https://monograph.com)** | **[Content Creator](https://jobright.ai/jobs/info/6993ae7a81476f6176ab48f1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, Arizona | On Site | Feb 28 |
 | **[The Reynolds Team of Compass, Realtors](https://www.myreynoldsteam.com)** | **[Videographer](https://jobright.ai/jobs/info/69a3392c359fe034b1ce70a2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vero Beach, FL | On Site | Feb 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Producer, Fantasy Sports - Part Time](https://jobright.ai/jobs/info/696ab89f350cf4380311bff4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Feb 28 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[News Writer, ELLE Decor](https://jobright.ai/jobs/info/69867b098ca8121a3a68c609?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Feb 28 |
@@ -251,9 +252,9 @@ For a complete list, click the following sortable link below:
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/699f5b16ce78e77b4fe524b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-DC-Washington | On Site | Feb 25 |
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f72a7ce78e77b4fe5347c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f3c0894ef206f184e5b66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Feb 25 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
-| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
+| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
 | **[Kitchen Craft](https://www.kitchencraft.com)** | **[Production Associate](https://jobright.ai/jobs/info/69a0258481476f6176ba350c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jasper, IN | On Site | Feb 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f362194ef206f184e52fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 25 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN LA Part-Time Digital Content Creator](https://jobright.ai/jobs/info/699f3031ce78e77b4fe4f50d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Feb 25 |
