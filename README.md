@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Auto Group](https://www.performance.ca/)** | **[Detailer (AutoPlanet Brampton)](https://jobright.ai/jobs/info/696964191703f05405ab3f50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brampton, Ontario, Canada | On Site | Feb 28 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb70658369791ef7827010?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Feb 28 |
 | **[Minute Media](http://www.minutemedia.com)** | **[NHL Staff Writer](https://jobright.ai/jobs/info/69704a5351f7264771828152?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Feb 28 |
+| **[Tourism Sun Peaks](https://www.sunpeaksresort.com/)** | **[Golf Maintenance (Level 1)](https://jobright.ai/jobs/info/69a2e9a5359fe034b1ce3d22?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sun Peaks Mountain, British Columbia, Canada | On Site | Feb 28 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Edit](https://jobright.ai/jobs/info/69a2af2e0da45516f16c140e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Feb 28 |
 | ↳ | **[Freelance Broadcast Associate, News](https://jobright.ai/jobs/info/69a2ae58359fe034b1ce0692?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Feb 28 |
 | ↳ | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Feb 28 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - Temporary](https://jobright.ai/jobs/info/69a12fb75218a81676726a97?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Feb 26 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - Part Time - $16.00/Hour](https://jobright.ai/jobs/info/69a1317f5218a81676726c94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Solon, OH | On Site | Feb 26 |
 | ↳ | **[Production Associate - Utility IV](https://jobright.ai/jobs/info/69a121aa5218a81676725a94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Feb 26 |
-| **[ACV Auctions](https://www.acvauctions.com/)** | **[Detailer](https://jobright.ai/jobs/info/69a2758f359fe034b1cdba6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO, USA | On Site | Feb 26 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69a1263f81476f6176bb7f1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huber Heights, OH | On Site | Feb 26 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69a1156e81476f6176bb6af2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cherry Hill, NJ | On Site | Feb 26 |
 | **[The Management Trust](http://managementtrust.com)** | **[LIFESTYLE ASSISTANT](https://jobright.ai/jobs/info/69a153cbb600907a96279ce4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Galt, CA 95632, USA | Hybrid | Feb 26 |
