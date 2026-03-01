@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69a437140da45516f16d2802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 01 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a442d9b600907a962a3845?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lewisburg, PA | On Site | Mar 01 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Park and Events Decor Technician](https://jobright.ai/jobs/info/69a43fc7b600907a962a3571?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sandusky, OH | On Site | Mar 01 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d776e061a175619f8ce7e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Southfield, MI | On Site | Mar 01 |
+| ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77597295f8e37655d9e86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Mar 01 |
+| ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69a437140da45516f16d2802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 01 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77bce267b154f9a2da694?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 01 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb13bd2f64880ca0b54a99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Mar 01 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77b5f7a37c712687ceb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Mar 01 |
@@ -222,8 +226,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09a6b0836fe79d8619ec4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Feb 26 |
 | **[Protect Democracy](https://protectdemocracy.org/)** | **[Editorial Specialist](https://jobright.ai/jobs/info/69a11e9b6b458d060735d621?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | DC, US | Remote | Feb 26 |
 | **[Topgolf](https://topgolf.com/us/)** | **[PT Golf Services](https://jobright.ai/jobs/info/69a096650836fe79d8619ca9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canton, MA | On Site | Feb 26 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Feb 26 |
-| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant - 2nd shift](https://jobright.ai/jobs/info/69a0ade20836fe79d861af07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Feb 26 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant - 2nd shift](https://jobright.ai/jobs/info/69a0ade20836fe79d861af07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Feb 26 |
+| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Feb 26 |
 | **[Sono Bello](http://sonobello.com)** | **[Aesthetic Technician - Aesthetician](https://jobright.ai/jobs/info/69a082df0836fe79d8617f69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 26 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a0823881476f6176bac410?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisonburg, VA | On Site | Feb 26 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Associate Fashion Editor, Town & Country](https://jobright.ai/jobs/info/6984252f8da7a612045e279f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Feb 26 |
@@ -276,8 +280,8 @@ For a complete list, click the following sortable link below:
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f72a7ce78e77b4fe5347c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f3c0894ef206f184e5b66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Feb 25 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
-| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
 | ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
+| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
 | **[Kitchen Craft](https://www.kitchencraft.com)** | **[Production Associate](https://jobright.ai/jobs/info/69a0258481476f6176ba350c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jasper, IN | On Site | Feb 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f362194ef206f184e52fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 25 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN LA Part-Time Digital Content Creator](https://jobright.ai/jobs/info/699f3031ce78e77b4fe4f50d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Feb 25 |
