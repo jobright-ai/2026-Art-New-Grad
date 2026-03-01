@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb13bd2f64880ca0b54a99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Mar 01 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69a437140da45516f16d2802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 01 |
+| ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77bce267b154f9a2da694?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 01 |
+| ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb13bd2f64880ca0b54a99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Mar 01 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77b5f7a37c712687ceb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Mar 01 |
 | **[The National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69867e018ca8121a3a68caba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 01 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6998c9b8e0bddb6acac7b779?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Mar 01 |
@@ -273,8 +275,8 @@ For a complete list, click the following sortable link below:
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/699f5b16ce78e77b4fe524b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-DC-Washington | On Site | Feb 25 |
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f72a7ce78e77b4fe5347c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f3c0894ef206f184e5b66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Feb 25 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
-| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
+| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
 | ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Kitchen Craft](https://www.kitchencraft.com)** | **[Production Associate](https://jobright.ai/jobs/info/69a0258481476f6176ba350c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jasper, IN | On Site | Feb 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f362194ef206f184e52fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 25 |
