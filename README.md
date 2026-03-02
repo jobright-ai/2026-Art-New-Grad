@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a5913c359fe034b1d02c68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walcott, IA | On Site | Mar 02 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a590feb600907a962b3bba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pendleton, KY | On Site | Mar 02 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a58f12359fe034b1d029d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Mar 02 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Freelance Production Assistant](https://jobright.ai/jobs/info/694fde1fa2668b7f5452f9b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Mar 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a560a2b600907a962b1549?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Shepherdsville, KY | On Site | Mar 02 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Scheduling Specialist (Remote)](https://jobright.ai/jobs/info/6989777c8ca8121a3a6bd461?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hunt Valley, MD | Remote | Mar 02 |
@@ -298,9 +301,9 @@ For a complete list, click the following sortable link below:
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/699f5b16ce78e77b4fe524b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-DC-Washington | On Site | Feb 25 |
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f72a7ce78e77b4fe5347c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f3c0894ef206f184e5b66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Feb 25 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
+| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
 | ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
-| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f362194ef206f184e52fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 25 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN LA Part-Time Digital Content Creator](https://jobright.ai/jobs/info/699f3031ce78e77b4fe4f50d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f85f1ce78e77b4fe54f6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Feb 25 |
