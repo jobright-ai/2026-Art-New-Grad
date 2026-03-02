@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Mar 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a4ae1fb600907a962a6cda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elverson, PA | On Site | Mar 01 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host Team Member](https://jobright.ai/jobs/info/69a4a41b0da45516f16d6680?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 410 Oyster Bay Rd | On Site | Mar 01 |
 | **[Center for Family Life in Sunset Park](https://centerforfamilylife.org)** | **[Temporary Production Assistant @ Life Lines Community Arts Project](https://jobright.ai/jobs/info/69a498a20da45516f16d5a6b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Mar 01 |
@@ -235,8 +236,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09a6b0836fe79d8619ec4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Feb 26 |
 | **[Protect Democracy](https://protectdemocracy.org/)** | **[Editorial Specialist](https://jobright.ai/jobs/info/69a11e9b6b458d060735d621?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | DC, US | Remote | Feb 26 |
 | **[Topgolf](https://topgolf.com/us/)** | **[PT Golf Services](https://jobright.ai/jobs/info/69a096650836fe79d8619ca9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canton, MA | On Site | Feb 26 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Feb 26 |
-| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant - 2nd shift](https://jobright.ai/jobs/info/69a0ade20836fe79d861af07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Feb 26 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant - 2nd shift](https://jobright.ai/jobs/info/69a0ade20836fe79d861af07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Feb 26 |
+| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Feb 26 |
 | **[Sono Bello](http://sonobello.com)** | **[Aesthetic Technician - Aesthetician](https://jobright.ai/jobs/info/69a082df0836fe79d8617f69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 26 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a0823881476f6176bac410?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisonburg, VA | On Site | Feb 26 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Associate Fashion Editor, Town & Country](https://jobright.ai/jobs/info/6984252f8da7a612045e279f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Feb 26 |
@@ -263,7 +264,6 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Production Associate (Bakery)](https://jobright.ai/jobs/info/699ff5acce78e77b4fe60025?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troy, OH | On Site | Feb 25 |
 | **[Amazon](https://amazon.com)** | **[Coordinator, US Unscripted Creative](https://jobright.ai/jobs/info/69a024840836fe79d860e9f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Feb 25 |
 | **[B. F. Saul Company Hospitality Group](http://www.bfsaulhotels.com)** | **[Golf Attendant - Perch Putt](https://jobright.ai/jobs/info/699ff9ee53d97f23ee65959e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tysons Corner, VA | On Site | Feb 25 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Feb 25 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/699fc97253d97f23ee654ae2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Feb 25 |
 | **[Symphony Labs](https://www.symphony.io/)** | **[Content Producer](https://jobright.ai/jobs/info/699f9e56d643757b0e450ae8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 25 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Porter / Groundskeeper - Tamarind Square](https://jobright.ai/jobs/info/699fc20a81476f6176b97b92?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tamarind Square, Sunnyvale, CA | On Site | Feb 25 |
@@ -418,5 +418,4 @@ For a complete list, click the following sortable link below:
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Video Content Creator](https://jobright.ai/jobs/info/699c962f81476f6176b53198?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commerical Producer](https://jobright.ai/jobs/info/68d7701f61a175619f8cd557?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Feb 23 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Production Associate](https://jobright.ai/jobs/info/698800108da7a61204630a64?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 23 |
-| **[NDI New Mexico](https://www.ndi-nm.org/)** | **[Artistic Administrative Assistant](https://jobright.ai/jobs/info/699c588cce78e77b4fe11077?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | The Dance Barns - Santa Fe, NM 87501 | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
