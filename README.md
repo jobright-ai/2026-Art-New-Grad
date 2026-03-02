@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Performer- Roaming Drummer/Percussionist](https://jobright.ai/jobs/info/69a51b0f359fe034b1cfab8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vaughan, Ontario, Canada | On Site | Mar 01 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 01 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Mar 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a4ae1fb600907a962a6cda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elverson, PA | On Site | Mar 01 |
@@ -292,9 +293,9 @@ For a complete list, click the following sortable link below:
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/699f5b16ce78e77b4fe524b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-DC-Washington | On Site | Feb 25 |
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f72a7ce78e77b4fe5347c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f3c0894ef206f184e5b66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Feb 25 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
 | ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f6f19ce78e77b4fe53211?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-KS-Topeka | On Site | Feb 25 |
-| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f8e0f23374b3b6e6b5a2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stormont Vail Events Center | On Site | Feb 25 |
+| ↳ | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/699f639781476f6176b8fc18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS, US | On Site | Feb 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f362194ef206f184e52fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Feb 25 |
 | **[Good Karma Brands](https://goodkarmabrands.com/)** | **[ESPN LA Part-Time Digital Content Creator](https://jobright.ai/jobs/info/699f3031ce78e77b4fe4f50d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Feb 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/699f85f1ce78e77b4fe54f6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Feb 25 |
@@ -421,5 +422,4 @@ For a complete list, click the following sortable link below:
 | **[The AZEK Company](https://azekco.com)** | **[Production Assistant - Day Shift](https://jobright.ai/jobs/info/699c8462e0bddb6acacb8c04?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scranton, PA | On Site | Feb 23 |
 | **[CEO Lawyer Personal Injury Law Firm](https://aliawadlaw.com/)** | **[Video Content Creator](https://jobright.ai/jobs/info/699c962f81476f6176b53198?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commerical Producer](https://jobright.ai/jobs/info/68d7701f61a175619f8cd557?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Feb 23 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Production Associate](https://jobright.ai/jobs/info/698800108da7a61204630a64?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
