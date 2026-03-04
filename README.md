@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/69a86a0b2580d3183f008043?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Mar 04 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/69a86f637ac93962b7083d96?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Mar 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a869fb2580d3183f00803d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Federal Way, WA | On Site | Mar 04 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Freelance Show Editor - World Cup](https://jobright.ai/jobs/info/69a860662580d3183f007bcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, USA | On Site | Mar 04 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Editorial Assistant to the Head of Content, ELLE Decor](https://jobright.ai/jobs/info/698be02ac5761b521a9b728e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 04 |
@@ -181,8 +181,8 @@ For a complete list, click the following sortable link below:
 | **[Midwest Printing & Signs](https://www.mwrepro.com/)** | **[Production Associate](https://jobright.ai/jobs/info/69a5de380da45516f16e9ea2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Naples, FL | On Site | Mar 02 |
 | **[Velenosi & Meredith Consulting](https://velenosimeredith.com/)** | **[International Gaming Studio Seeking Korean Talent](https://jobright.ai/jobs/info/69a60062359fe034b1d0c6fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, AB, Canada | On Site | Mar 02 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Detailer](https://jobright.ai/jobs/info/69a6b95e76bbe83d3afa1b27?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roca, Nebraska, United States | On Site | Mar 02 |
-| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a60036b600907a962bd7ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Kingsport | On Site | Mar 02 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a5f7570da45516f16ec559?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kingsport, TN, US | On Site | Mar 02 |
+| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a5f7570da45516f16ec559?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kingsport, TN, US | On Site | Mar 02 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a60036b600907a962bd7ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Kingsport | On Site | Mar 02 |
 | **[ARRISE](https://arrise.com)** | **[GAME PRESENTER with Korean](https://jobright.ai/jobs/info/69a5f71d0da45516f16ec518?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Canada | On Site | Mar 02 |
 | **[Layton Sports Cards](http://www.laytonsportscards.com)** | **[On-Air Sports Card Breaker](https://jobright.ai/jobs/info/69a5ca54359fe034b1d06417?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Apopka, FL | On Site | Mar 02 |
 | **[Gracious Hospitality Management](https://www.cotenyc.com)** | **[Model Host](https://jobright.ai/jobs/info/6979eb11a5b9804527dfb8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, Nevada, United States | On Site | Mar 02 |
@@ -396,6 +396,4 @@ For a complete list, click the following sortable link below:
 | **[Welocalize](http://www.welocalize.com)** | **[Lynx Audio Recording Project - Cantonese (New York Based)](https://jobright.ai/jobs/info/699fefda53d97f23ee658392?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 25 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69a3d70eb600907a9629cfb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Feb 25 |
 | **[IEEE](http://www.ieee.org)** | **[Editorial Support and Production Assistant - Temporary](https://jobright.ai/jobs/info/699faf9c81476f6176b968b5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Piscataway, NJ | On Site | Feb 25 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Production Associate (Bakery)](https://jobright.ai/jobs/info/699ff5acce78e77b4fe60025?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troy, OH | On Site | Feb 25 |
-| **[Amazon](https://amazon.com)** | **[Coordinator, US Unscripted Creative](https://jobright.ai/jobs/info/69a024840836fe79d860e9f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
