@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/696fe80882817106e976edaf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Mar 04 |
+| **[Book of the Month](http://www.bookofthemonth.com)** | **[Editorial Assistant Rotational Program](https://jobright.ai/jobs/info/69812152abff4c399a9ff574?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 04 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/69a22cecb600907a96287954?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marion, NC | On Site | Mar 04 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Creator](https://jobright.ai/jobs/info/68e20e66b99ec3563b0d9dfe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Mar 04 |
+| **[MCC Label](https://www.mcclabel.com/)** | **[Printing Press Assistant, 1st & 3rd Shift Available](https://jobright.ai/jobs/info/698b789406d9b062249592ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | York Springs, PA | On Site | Mar 04 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Reporter](https://jobright.ai/jobs/info/698c23320f6f7e7a2ce7b8ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eureka, CA | Hybrid | Mar 04 |
 | **[Hammer Creative](http://hammercreative.com)** | **[Producer](https://jobright.ai/jobs/info/69a7ff9176bbe83d3afb754e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Remote | Mar 04 |
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Club Tech](https://jobright.ai/jobs/info/69a7fb3076bbe83d3afb71f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | Mar 04 |
@@ -75,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69a78f7d76bbe83d3afaf0de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rancho Mirage, CA | On Site | Mar 03 |
 | **[Sony Pictures Animation](http://www.sonypicturesanimation.com)** | **[Production Coordinator (Story) - Feature](https://jobright.ai/jobs/info/69a78a8476bbe83d3afaece7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Mar 03 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69a8261b7ac93962b707e949?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seabrook, NH | On Site | Mar 03 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69a8291b7ac93962b707ea97?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane Valley, WA | On Site | Mar 03 |
 | **[MCA - Merchandising Consultants Associates](https://corporate.mca.ca)** | **[Part Time Cosmetic Reset Team Member](https://jobright.ai/jobs/info/69a7a580637232443f64e736?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Potsdam, NY | On Site | Mar 03 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a7f37e637232443f654a3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wytheville, VA | On Site | Mar 03 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a779152672cb0acb4bf0c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hobbs, NM | On Site | Mar 03 |
@@ -394,6 +398,4 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Assistant, Workman Kids](https://jobright.ai/jobs/info/699fce9353d97f23ee65531f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Feb 25 |
 | **[Alts](https://www.alterationspecialists.com)** | **[VIP Studio Experience Coordinator](https://jobright.ai/jobs/info/699feea381476f6176b9c86e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | On Site | Feb 25 |
 | **[PitchBook](http://www.pitchbook.com)** | **[Multimedia Production Assistant](https://jobright.ai/jobs/info/699fc52b81476f6176b97fac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Feb 25 |
-| **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/699f99cc81476f6176b9512b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Feb 25 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/699f9ae481476f6176b953e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
