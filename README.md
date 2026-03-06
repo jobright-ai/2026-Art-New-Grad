@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69aa08f89ca4e908ec655717?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Mar 05 |
 | **[JobsMedia.io](https://jobsmedia.io)** | **[Animateur/animatrice de camp de jour spécialisé(e)](https://jobright.ai/jobs/info/69a9ff999ca4e908ec655106?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Malartic, Quebec, Canada | On Site | Mar 05 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a9f40f9ca4e908ec653db9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Mar 05 |
 | **[Carole Fabrics](https://www.carolefabrics.com)** | **[Production Associate – Sewing / Fabric](https://jobright.ai/jobs/info/69a9ed621f59c56275e2b82c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Mar 05 |
@@ -375,7 +376,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/6985670b0f6f7e7a2ce02343?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 27 |
 | **[Central Alps](http://central-alps.com)** | **[CENTRAL ALPS  CONTENT CREATOR ($15-25)](https://jobright.ai/jobs/info/69a18233b600907a9627f4fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, TX | On Site | Feb 27 |
 | **[Welocalize](http://www.welocalize.com)** | **[Lynx Audio Recording Project - Spanish Colombia (New York Based)](https://jobright.ai/jobs/info/69a165320da45516f16ac4c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 27 |
-| **[Stampede Culinary Partners](https://stampedeculinarypartners.com)** | **[Packaging Associate (Afternoon Shift)](https://jobright.ai/jobs/info/69a404e7b600907a962a0801?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cambridge, Ontario, Canada | On Site | Feb 27 |
-| ↳ | **[Packaging Associate (Day Shift)](https://jobright.ai/jobs/info/69a4028fb600907a962a045d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cambridge, Ontario, Canada | On Site | Feb 27 |
-| **[Boulder Country Club](https://www.bouldercc.org)** | **[Golf Outside Operations](https://jobright.ai/jobs/info/69a40476b600907a962a0733?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boulder, CO | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
