@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, Lawyers](https://jobright.ai/jobs/info/699e0f02ce78e77b4fe329d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 06 |
+| **[Postmedia Network Inc.](http://www.postmedia.com)** | **[Video Explainer Journalist/Creator](https://jobright.ai/jobs/info/69aae4747e1fab39d38282a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Mar 06 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/698c2744e4f6572f0e4436f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake George, NY | On Site | Mar 06 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69aadfa02747003c3d5091d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humboldt, TN | On Site | Mar 06 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - Up to $18.50/Hour](https://jobright.ai/jobs/info/698e4f30f64d441a16508515?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Mar 06 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Video Creator](https://jobright.ai/jobs/info/696fe6150f4e0f657ea42c8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Mar 06 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68ca642b46caff4db51feca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 06 |
 | **[TVO](https://www.tvo.org)** | **[Digital Media Producer I (Digital Video Editor)](https://jobright.ai/jobs/info/698e91ec0f6f7e7a2ceab1ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 06 |
@@ -359,5 +364,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Animation](http://www.sonypicturesanimation.com)** | **[Production Coordinator (Story) - Series](https://jobright.ai/jobs/info/69a268150da45516f16bae9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Feb 27 |
 | **[Skechers](http://www.skechers.com)** | **[Sample Coordinator, Woman's Sport](https://jobright.ai/jobs/info/69a262dcb600907a9628ad86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manhattan Beach, CA | On Site | Feb 27 |
 | **[Atomic Cartoons](http://www.atomiccartoons.com/)** | **[2D Harmony FX Artist (CG)](https://jobright.ai/jobs/info/69a26117359fe034b1cd9c31?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver | Hybrid | Feb 27 |
-| **[Open Homes Photography](https://www.open-homes.com)** | **[Seeking Videographers in the South SF Bay & San Jose regions!](https://jobright.ai/jobs/info/69a27aadb600907a9628d0cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South San Jose Hills, CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
