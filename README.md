@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68ca642b46caff4db51feca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 06 |
+| **[TVO](https://www.tvo.org)** | **[Digital Media Producer I (Digital Video Editor)](https://jobright.ai/jobs/info/698e91ec0f6f7e7a2ceab1ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 06 |
 | **[LensCrafters](https://www.lenscrafters.com)** | **[LensCrafters - Team Lead (Denver)](https://jobright.ai/jobs/info/69aa91fd9ca4e908ec660039?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Broomfield, CO | On Site | Mar 06 |
 | **[Bretz RV & Marine](http://bretzrv.com)** | **[Detailer / Lot Porter](https://jobright.ai/jobs/info/69aa86651f59c56275e3720e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mankato, MN | On Site | Mar 05 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 05 |
@@ -369,6 +371,4 @@ For a complete list, click the following sortable link below:
 | **[Business Wire](http://www.businesswire.com)** | **[Newsroom Editor](https://jobright.ai/jobs/info/69a2c51c359fe034b1ce255d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Feb 27 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Assistant, Theater](https://jobright.ai/jobs/info/69a20b2db600907a9628583a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 27 |
 | **[The Buckeye Ranch](https://www.buckeyeranch.org/)** | **[Video Content Creator](https://jobright.ai/jobs/info/69a22e97b600907a96287b08?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Whitehall, OH 43213 | Hybrid | Feb 27 |
-| **[AMC Networks](https://www.amcnetworks.com/)** | **[Coordinator - Scripted Programming](https://jobright.ai/jobs/info/69430bbc94730b739876105a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | Hybrid | Feb 27 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69a1f90b0da45516f16b4255?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
