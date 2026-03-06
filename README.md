@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 05 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/69aa76ea9ca4e908ec65c8ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Mar 05 |
 | **[Novolex](http://www.novolex.com/)** | **[Packaging Associate](https://jobright.ai/jobs/info/69aa5fec2ebd316bece220c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Villa Rica, GA | On Site | Mar 05 |
 | **[Open Road](http://openroadent.com )** | **[Assistant Editor](https://jobright.ai/jobs/info/69aa574a1f59c56275e334ad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burbank, CA | Hybrid | Mar 05 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Festivals)](https://jobright.ai/jobs/info/69aa444a2ebd316bece207f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 05 |
@@ -275,8 +277,8 @@ For a complete list, click the following sortable link below:
 | **[ARRISE](https://arrise.com)** | **[GAME PRESENTER with Korean](https://jobright.ai/jobs/info/69a5e0ba359fe034b1d09442?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 02 |
 | **[Velenosi & Meredith Consulting](https://velenosimeredith.com/)** | **[International Gaming Studio Seeking Korean Talent](https://jobright.ai/jobs/info/69a60062359fe034b1d0c6fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, AB, Canada | On Site | Mar 02 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Detailer](https://jobright.ai/jobs/info/69a6b95e76bbe83d3afa1b27?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roca, Nebraska, United States | On Site | Mar 02 |
-| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a60036b600907a962bd7ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Kingsport | On Site | Mar 02 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a5f7570da45516f16ec559?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kingsport, TN, US | On Site | Mar 02 |
+| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a5f7570da45516f16ec559?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kingsport, TN, US | On Site | Mar 02 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69a60036b600907a962bd7ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Kingsport | On Site | Mar 02 |
 | **[ARRISE](https://arrise.com)** | **[GAME PRESENTER with Korean](https://jobright.ai/jobs/info/69a5f71d0da45516f16ec518?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Canada | On Site | Mar 02 |
 | **[Layton Sports Cards](http://www.laytonsportscards.com)** | **[On-Air Sports Card Breaker](https://jobright.ai/jobs/info/69a5ca54359fe034b1d06417?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Apopka, FL | On Site | Mar 02 |
 | **[Gracious Hospitality Management](https://www.cotenyc.com)** | **[Model Host](https://jobright.ai/jobs/info/6979eb11a5b9804527dfb8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, Nevada, United States | On Site | Mar 02 |
@@ -378,7 +380,4 @@ For a complete list, click the following sortable link below:
 | **[Sofar Sounds](http://www.sofarsounds.com)** | **[Freelance Food Experiences Producer, NYC (contract, revenue share)](https://jobright.ai/jobs/info/69a1d65db600907a96282f4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Feb 27 |
 | **[The Jenkins Organization](https://www.jenkinsorg.com/)** | **[Activities](https://jobright.ai/jobs/info/69a1d4cf359fe034b1cd1fcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Great Escapes Pelahatchie Management, LLC, Pelahatchie, MS, US | On Site | Feb 27 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a1d4b80da45516f16b2a45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Moriarty, NM | On Site | Feb 27 |
-| **[CORT](http://www.cort.com)** | **[Trade Show Coordinator](https://jobright.ai/jobs/info/697b49541136d179eeeec1f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Feb 27 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69851496348f733a5c3939f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Accord, NY | On Site | Feb 27 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a1c25c0da45516f16b1f0b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eureka, MO | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
