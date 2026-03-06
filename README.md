@@ -368,5 +368,4 @@ For a complete list, click the following sortable link below:
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/699fcd9a53d97f23ee65510b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winston-Salem, NC | On Site | Feb 28 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Edit](https://jobright.ai/jobs/info/69a2af2e0da45516f16c140e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Feb 28 |
 | **[Spectrum News](https://spectrumlocalnews.com/)** | **[Associate Producer - Spectrum News NECN](https://jobright.ai/jobs/info/69a2aa2cb600907a96290f57?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Needham Heights, MA | On Site | Feb 28 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[MultiMedia Journalist](https://jobright.ai/jobs/info/68bf85b38e65e77df55bb195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
