@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oliphant Golf](http://oliphantgolf.com)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa125c9ca4e908ec655f82?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
+| ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12182ebd316bece1ceda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
+| ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12002ebd316bece1ce90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
+| **[CarMax](http://www.carmax.com)** | **[Detailer - Overnight](https://jobright.ai/jobs/info/699d2000ce78e77b4fe1f4c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Marsh Station, MD | On Site | Mar 05 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69aa11bd9ca4e908ec655e3b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Big Lake, TX | On Site | Mar 05 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69aa08f89ca4e908ec655717?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Mar 05 |
 | **[JobsMedia.io](https://jobsmedia.io)** | **[Animateur/animatrice de camp de jour spécialisé(e)](https://jobright.ai/jobs/info/69a9ff999ca4e908ec655106?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Malartic, Quebec, Canada | On Site | Mar 05 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a9f40f9ca4e908ec653db9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Mar 05 |
+| **[Wasserman](http://www.teamwass.com)** | **[Assistant to EVP, Music](https://jobright.ai/jobs/info/69aa127e2ebd316bece1cf5c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Mar 05 |
 | **[Carole Fabrics](https://www.carolefabrics.com)** | **[Production Associate – Sewing / Fabric](https://jobright.ai/jobs/info/69a9ed621f59c56275e2b82c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Mar 05 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant - 2nd Shift](https://jobright.ai/jobs/info/69a9eb2e9ca4e908ec65316f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | University Park, IL | On Site | Mar 05 |
 | **[Carole Fabrics](https://www.carolefabrics.com)** | **[Seamstress](https://jobright.ai/jobs/info/69a9eb279ca4e908ec653158?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA, United States | On Site | Mar 05 |
@@ -69,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Associate – Sewing / Fabric](https://jobright.ai/jobs/info/69a9e64d9ca4e908ec652a91?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA | On Site | Mar 05 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Digital Producer](https://jobright.ai/jobs/info/69a9e2839ca4e908ec651f06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Champaign, IL | On Site | Mar 05 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a9e21c2ebd316bece178ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Mar 05 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/69aa12682ebd316bece1cf44?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chelmsford, MA | On Site | Mar 05 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Assistant to Producer/Director](https://jobright.ai/jobs/info/69a9deec2ebd316bece16fa7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, CA | Hybrid | Mar 05 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift - Up to $22.00/Hour](https://jobright.ai/jobs/info/69a9deaa9ca4e908ec6517ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Mar 05 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector  - 2nd Shift](https://jobright.ai/jobs/info/69a9de959ca4e908ec6517ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Mar 05 |
@@ -375,5 +382,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69a2fecb0da45516f16c605d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Feb 27 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/6985670b0f6f7e7a2ce02343?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Feb 27 |
 | **[Central Alps](http://central-alps.com)** | **[CENTRAL ALPS  CONTENT CREATOR ($15-25)](https://jobright.ai/jobs/info/69a18233b600907a9627f4fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, TX | On Site | Feb 27 |
-| **[Welocalize](http://www.welocalize.com)** | **[Lynx Audio Recording Project - Spanish Colombia (New York Based)](https://jobright.ai/jobs/info/69a165320da45516f16ac4c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
