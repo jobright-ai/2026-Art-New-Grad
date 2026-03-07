@@ -157,9 +157,9 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/69aa31ad9ca4e908ec65851d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Groveport, OH | On Site | Mar 05 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/69aa315c2ebd316bece1f2f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greeley, CO | On Site | Mar 05 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69aa2c312ebd316bece1e3a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Mar 05 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd936142d5b4265fd41fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1000 Tanner Ford Blvd | On Site | Mar 05 |
-| ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd9e67e1fab39d38390e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Hanahan | On Site | Mar 05 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd9e67e1fab39d38390e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Hanahan | On Site | Mar 05 |
 | ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abdce62747003c3d51b31c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hanahan, SC, US | On Site | Mar 05 |
+| ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd936142d5b4265fd41fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1000 Tanner Ford Blvd | On Site | Mar 05 |
 | **[Mansueto Ventures](http://www.mansueto.com)** | **[Editorial Assistant, Recognition Programs @Inc.](https://jobright.ai/jobs/info/69ab7196142d5b4265fca6e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 05 |
 | **[Oliphant Golf](http://oliphantgolf.com)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa125c9ca4e908ec655f82?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
 | ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12182ebd316bece1ceda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
@@ -401,14 +401,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb13bd2f64880ca0b54a99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Mar 01 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77b5f7a37c712687ceb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Mar 01 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69a40542b600907a962a0889?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tysons, Virginia | On Site | Feb 28 |
-| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Feb 28 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3e03b0da45516f16cd26a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa Lake, MI | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3e0180da45516f16cd24c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Inver Grove Heights, MN | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dd0f359fe034b1cec55e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dccf0da45516f16ccfd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dcccb600907a9629d48d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Midland, TX | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dcb4359fe034b1cec538?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atoka, OK | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dca5b600907a9629d41d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mill Hall, PA | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dc88b600907a9629d3c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Feb 28 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3d95e359fe034b1cec504?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Schulenburg, TX | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
