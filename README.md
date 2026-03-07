@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Tuesday & Wednesday](https://jobright.ai/jobs/info/69ab6a47142d5b4265fca311?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Mar 06 |
-| **[Go Auto](https://www.goauto.ca)** | **[Detailer (Toyota of Bellingham)](https://jobright.ai/jobs/info/69ab65a67e1fab39d382eccd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellingham, WA | On Site | Mar 06 |
-| ↳ | **[Pre-Detailer/Wash Bay (Mercedes-Benz of Bellingham)](https://jobright.ai/jobs/info/69ab65a67e1fab39d382ecc7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellingham, WA | On Site | Mar 06 |
+| **[Ovo Talent](https://ovotalent.com/)** | **[Video Producer & Editor – Miami (Live-In / $95K+ Total Package)](https://jobright.ai/jobs/info/69ab6c487e1fab39d382f546?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maryland, United States | On Site | Mar 06 |
+| **[Home Chef](https://www.homechef.com)** | **[Production Associate - 2nd Shift - Days Off: Monday & Tuesday](https://jobright.ai/jobs/info/69ab6be72747003c3d510a76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Mar 06 |
+| ↳ | **[Production Associate - 1st Shift - Days Off: Tuesday & Wednesday](https://jobright.ai/jobs/info/69ab6a47142d5b4265fca311?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Mar 06 |
+| **[Go Auto](https://www.goauto.ca)** | **[Pre-Detailer/Wash Bay (Mercedes-Benz of Bellingham)](https://jobright.ai/jobs/info/69ab65a67e1fab39d382ecc7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellingham, WA | On Site | Mar 06 |
+| ↳ | **[Detailer (Toyota of Bellingham)](https://jobright.ai/jobs/info/69ab65a67e1fab39d382eccd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellingham, WA | On Site | Mar 06 |
 | **[Circles North America](http://www.circles.com/)** | **[Lifestyle Coordinator](https://jobright.ai/jobs/info/69ab6565142d5b4265fc9f94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Waltham, MA | Remote | Mar 06 |
 | **[Amcor](http://www.amcor.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/69ab64f3142d5b4265fc9d40?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lancaster, WI | On Site | Mar 06 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Production Associate](https://jobright.ai/jobs/info/69ab44877e1fab39d382ddff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dodson, LA | On Site | Mar 06 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/69aa31ad9ca4e908ec65851d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Groveport, OH | On Site | Mar 05 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/69aa315c2ebd316bece1f2f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greeley, CO | On Site | Mar 05 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69aa2c312ebd316bece1e3a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Mar 05 |
+| **[Mansueto Ventures](http://www.mansueto.com)** | **[Editorial Assistant, Recognition Programs @Inc.](https://jobright.ai/jobs/info/69ab7196142d5b4265fca6e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 05 |
 | **[Oliphant Golf](http://oliphantgolf.com)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa125c9ca4e908ec655f82?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
 | ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12182ebd316bece1ceda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
 | ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12002ebd316bece1ce90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
@@ -369,5 +372,4 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb70658369791ef7827010?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Feb 28 |
 | **[Student Union, Inc. of SJSU](https://www.sjsu.edu/studentunion/)** | **[Event Operations Coordinator, Student Union](https://jobright.ai/jobs/info/69a2f91c359fe034b1ce4fc3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Diaz Compean Student Union | On Site | Feb 28 |
 | **[Minute Media](http://www.minutemedia.com)** | **[NHL Staff Writer](https://jobright.ai/jobs/info/69704a5351f7264771828152?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Feb 28 |
-| **[Tourism Sun Peaks](https://www.sunpeaksresort.com/)** | **[Golf Maintenance (Level 1)](https://jobright.ai/jobs/info/69a2e9a5359fe034b1ce3d22?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sun Peaks Mountain, British Columbia, Canada | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
