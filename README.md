@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Associate Social Media Producer](https://jobright.ai/jobs/info/69ac25247e1fab39d383e0b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Anaheim, CA | On Site | Mar 07 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/69852af3348f733a5c395b3c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 07 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III - $17.00/Hour](https://jobright.ai/jobs/info/69ac1b12142d5b4265fd8118?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney's Hilton Head Island Resort- Seasonal Position -Hiring Bonus](https://jobright.ai/jobs/info/69ac10c52747003c3d51e3c6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hilton Head Island, SC | On Site | Mar 07 |
 | ↳ | **[Associate Social Media Producer](https://jobright.ai/jobs/info/69ac10a27e1fab39d383c96b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Anaheim, CA | On Site | Mar 07 |
 | ↳ | **[Media Manager / Non-Linear Editor (Temp) - KGO](https://jobright.ai/jobs/info/69ac10a17e1fab39d383c968?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Mar 07 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69aadfa02747003c3d5091d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humboldt, TN | On Site | Mar 06 |
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Retail Golf Club Tech](https://jobright.ai/jobs/info/68ec8ccac26b9574506f2fc2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Reading, MA | On Site | Mar 06 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - Up to $18.50/Hour](https://jobright.ai/jobs/info/698e4f30f64d441a16508515?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Mar 06 |
-| **[City of Seguin](https://www.seguintexas.gov)** | **[Groundskeeper I- Golf](https://jobright.ai/jobs/info/69ac17aa7e1fab39d383cd03?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seguin, TX | On Site | Mar 06 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Video Creator](https://jobright.ai/jobs/info/696fe6150f4e0f657ea42c8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Mar 06 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68ca642b46caff4db51feca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 06 |
 | **[TVO](https://www.tvo.org)** | **[Digital Media Producer I (Digital Video Editor)](https://jobright.ai/jobs/info/698e91ec0f6f7e7a2ceab1ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 06 |
@@ -401,5 +403,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dca5b600907a9629d41d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mill Hall, PA | On Site | Feb 28 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3dc88b600907a9629d3c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Feb 28 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a3d95e359fe034b1cec504?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Schulenburg, TX | On Site | Feb 28 |
-| **[Penske Media Corporation](http://pmc.com)** | **[The Hollywood Reporter: Social Media Editor](https://jobright.ai/jobs/info/699528bae0bddb6acac3b080?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | California - Los Angeles Office | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
