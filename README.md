@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Home Chef](https://www.homechef.com)** | **[Production Associate - 1st Shift - Days Off: Tuesday & Wednesday](https://jobright.ai/jobs/info/69ab6a47142d5b4265fca311?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Mar 06 |
 | **[Go Auto](https://www.goauto.ca)** | **[Detailer (Toyota of Bellingham)](https://jobright.ai/jobs/info/69ab65a67e1fab39d382eccd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellingham, WA | On Site | Mar 06 |
 | ↳ | **[Pre-Detailer/Wash Bay (Mercedes-Benz of Bellingham)](https://jobright.ai/jobs/info/69ab65a67e1fab39d382ecc7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellingham, WA | On Site | Mar 06 |
 | **[Circles North America](http://www.circles.com/)** | **[Lifestyle Coordinator](https://jobright.ai/jobs/info/69ab6565142d5b4265fc9f94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Waltham, MA | Remote | Mar 06 |
@@ -147,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a96d517f9271426f884b3e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Millersport, OH | On Site | Mar 05 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6994b9d3e0bddb6acac32a56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Mar 05 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/6938afcfaabec14a727d9f94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | Hybrid | Mar 05 |
+| **[David's Bridal](http://www.davidsbridal.com)** | **[Lead Alterations Specialist](https://jobright.ai/jobs/info/69ab68be7e1fab39d382f215?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westminster, CO | On Site | Mar 05 |
 | **[Resillion](https://www.resillion.com)** | **[Digital Restoration Artist- Part Time /On Call](https://jobright.ai/jobs/info/69a947962615b60842abc599?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, USA | On Site | Mar 04 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Television Scripted - Assistant](https://jobright.ai/jobs/info/69a95547f2055e05d17178dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 04 |
 | **[Evertz](http://www.evertz.com/)** | **[Tradeshow Coordinator](https://jobright.ai/jobs/info/69a8f1da2580d3183f011d62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington, Ontario, Canada | On Site | Mar 04 |
@@ -368,6 +370,4 @@ For a complete list, click the following sortable link below:
 | **[Student Union, Inc. of SJSU](https://www.sjsu.edu/studentunion/)** | **[Event Operations Coordinator, Student Union](https://jobright.ai/jobs/info/69a2f91c359fe034b1ce4fc3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Diaz Compean Student Union | On Site | Feb 28 |
 | **[Minute Media](http://www.minutemedia.com)** | **[NHL Staff Writer](https://jobright.ai/jobs/info/69704a5351f7264771828152?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Feb 28 |
 | **[Tourism Sun Peaks](https://www.sunpeaksresort.com/)** | **[Golf Maintenance (Level 1)](https://jobright.ai/jobs/info/69a2e9a5359fe034b1ce3d22?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sun Peaks Mountain, British Columbia, Canada | On Site | Feb 28 |
-| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/699fcd9a53d97f23ee65510b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winston-Salem, NC | On Site | Feb 28 |
-| **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Edit](https://jobright.ai/jobs/info/69a2af2e0da45516f16c140e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
