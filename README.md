@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Day One Agency](https://www.d1a.com/)** | **[Content Creator Apprentice](https://jobright.ai/jobs/info/69ace7bc7e1fab39d38462c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 07 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69ac6c38142d5b4265fdae65?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beach, ND | On Site | Mar 07 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69ac69e37e1fab39d383fbce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Odessa, TX | On Site | Mar 07 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Associate, News Associate Reporter](https://jobright.ai/jobs/info/698fac5f0f6f7e7a2cebf89d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 07 |
@@ -398,6 +399,4 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69a460dc0da45516f16d40c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Alexandria, MN | On Site | Mar 01 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Park and Events Decor Technician](https://jobright.ai/jobs/info/69a43fc7b600907a962a3571?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sandusky, OH | On Site | Mar 01 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d776e061a175619f8ce7e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Southfield, MI | On Site | Mar 01 |
-| ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69a437140da45516f16d2802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 01 |
-| ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77bce267b154f9a2da694?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
