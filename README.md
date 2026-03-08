@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tennis Channel](http://www.tennischannel.com/)** | **[Content Operations Coordinator - Freelance](https://jobright.ai/jobs/info/6975a0db37785856350f8a69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | Remote | Mar 08 |
 | **[MV Ventures](https://www.explorevikinglakes.com)** | **[Minnesota Vikings Cheerleader](https://jobright.ai/jobs/info/69ad39997e1fab39d384bf57?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN, US | On Site | Mar 08 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor, QC](https://jobright.ai/jobs/info/698d0bb30f6f7e7a2ce8bd46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/69a86f637ac93962b7083d96?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Mar 07 |
@@ -164,9 +165,9 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/69aa31ad9ca4e908ec65851d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Groveport, OH | On Site | Mar 05 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/69aa315c2ebd316bece1f2f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greeley, CO | On Site | Mar 05 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69aa2c312ebd316bece1e3a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Mar 05 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd936142d5b4265fd41fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1000 Tanner Ford Blvd | On Site | Mar 05 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd9e67e1fab39d38390e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Hanahan | On Site | Mar 05 |
+| ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd936142d5b4265fd41fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1000 Tanner Ford Blvd | On Site | Mar 05 |
 | ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abdce62747003c3d51b31c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hanahan, SC, US | On Site | Mar 05 |
-| ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd9e67e1fab39d38390e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Hanahan | On Site | Mar 05 |
 | **[Mansueto Ventures](http://www.mansueto.com)** | **[Editorial Assistant, Recognition Programs @Inc.](https://jobright.ai/jobs/info/69ab7196142d5b4265fca6e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 05 |
 | **[Oliphant Golf](http://oliphantgolf.com)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa125c9ca4e908ec655f82?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
 | ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12182ebd316bece1ceda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
@@ -394,7 +395,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Auto Detailer - ADESA Lansing](https://jobright.ai/jobs/info/69a9d9559ca4e908ec650bdb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI, US | On Site | Mar 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a4ae1fb600907a962a6cda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elverson, PA | On Site | Mar 01 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host Team Member](https://jobright.ai/jobs/info/69a4a41b0da45516f16d6680?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Store - 410 Oyster Bay Rd | On Site | Mar 01 |
-| **[Center for Family Life in Sunset Park](https://centerforfamilylife.org)** | **[Temporary Production Assistant @ Life Lines Community Arts Project](https://jobright.ai/jobs/info/69a498a20da45516f16d5a6b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Mar 01 |
-| **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Texas Connect Reporter](https://jobright.ai/jobs/info/69a49645b600907a962a5a4a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 01 |
-| **[St. Charles County Government](http://www.sccmo.org)** | **[Swing Court Reporter](https://jobright.ai/jobs/info/69a49641b600907a962a5a46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Charles, MO | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
