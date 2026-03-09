@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69af1d596b21de023e603158?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Mar 09 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/69af23eedfaeda6ff5973457?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Mar 09 |
+| **[Gray Media](https://graymedia.com)** | **[NEWS PRODUCER (W/END-MORNING) - WEEK-TV](https://jobright.ai/jobs/info/69af23516b21de023e6043d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | East Peoria, IL | On Site | Mar 09 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Producer](https://jobright.ai/jobs/info/69af22eb6b21de023e6041d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Binghamton, NY | On Site | Mar 09 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/699cff93ce78e77b4fe1c4ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cabazon, CA | On Site | Mar 09 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Mender](https://jobright.ai/jobs/info/69af222d74950064509393bb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Mar 09 |
+| ↳ | **[Production Associate - Apparel Grader](https://jobright.ai/jobs/info/69af220d74950064509392f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Central Islip, NY | On Site | Mar 09 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69af1ea474950064509388ee?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Council Bluffs, IA | On Site | Mar 09 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69af1df7dfaeda6ff5971ed8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milford, CT | On Site | Mar 09 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69af1d596b21de023e603158?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Mar 09 |
 | **[TEGNA](http://www.tegna.com)** | **[Temp - State Fair Barn Coord.](https://jobright.ai/jobs/info/69af1a876b21de023e60302d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Mar 09 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Costume/Wardrobe Tech](https://jobright.ai/jobs/info/69af110f7495006450937fe9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Doswell, VA | On Site | Mar 09 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69af0e2e6b21de023e6025c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | Mar 09 |
@@ -188,9 +196,9 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/69aa31ad9ca4e908ec65851d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Groveport, OH | On Site | Mar 05 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/69aa315c2ebd316bece1f2f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greeley, CO | On Site | Mar 05 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69aa2c312ebd316bece1e3a6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Mar 05 |
-| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abdce62747003c3d51b31c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hanahan, SC, US | On Site | Mar 05 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd936142d5b4265fd41fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1000 Tanner Ford Blvd | On Site | Mar 05 |
 | ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd9e67e1fab39d38390e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Hanahan | On Site | Mar 05 |
-| ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abd936142d5b4265fd41fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1000 Tanner Ford Blvd | On Site | Mar 05 |
+| ↳ | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/69abdce62747003c3d51b31c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hanahan, SC, US | On Site | Mar 05 |
 | **[Mansueto Ventures](http://www.mansueto.com)** | **[Editorial Assistant, Recognition Programs @Inc.](https://jobright.ai/jobs/info/69ab7196142d5b4265fca6e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 05 |
 | **[Oliphant Golf](http://oliphantgolf.com)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa125c9ca4e908ec655f82?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
 | ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/69aa12182ebd316bece1ceda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plover, WI | On Site | Mar 05 |
@@ -349,7 +357,4 @@ For a complete list, click the following sortable link below:
 | **[Skechers](http://www.skechers.com)** | **[Sample Coordinator, Work](https://jobright.ai/jobs/info/69a6a265f11be161e274f317?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 03 |
 | **[TMZ](http://www.tmz.com/)** | **[Web Editor](https://jobright.ai/jobs/info/69a69f71f707784310affa25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 02 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Utility III - Temporary](https://jobright.ai/jobs/info/69a67c94e567421f42577e99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 02 |
-| **[Packaging Corporation of America](http://packagingcorp.com)** | **[Production Associate- Hiring Event](https://jobright.ai/jobs/info/69a678c2e567421f42577ab5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newark, OH | On Site | Mar 02 |
-| **[American University](http://american.edu)** | **[Part-Time Research Assistant - Content Editor - 2](https://jobright.ai/jobs/info/69a67521d706a731db386376?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Main Campus (Washington, DC) | On Site | Mar 02 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Production Assistant, Audio](https://jobright.ai/jobs/info/69a66f182c0d8b0f5cd08df3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
