@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69af1d596b21de023e603158?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Mar 09 |
+| **[TEGNA](http://www.tegna.com)** | **[Temp - State Fair Barn Coord.](https://jobright.ai/jobs/info/69af1a876b21de023e60302d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Mar 09 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Entertainment Costume/Wardrobe Tech](https://jobright.ai/jobs/info/69af110f7495006450937fe9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Doswell, VA | On Site | Mar 09 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69af0e2e6b21de023e6025c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | Mar 09 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69af0e186b21de023e60257a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walton, KY | On Site | Mar 09 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69af0db87495006450937b5f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hagerstown, MD | On Site | Mar 09 |
@@ -270,8 +273,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a869fb2580d3183f00803d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Federal Way, WA | On Site | Mar 04 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Freelance Show Editor - World Cup](https://jobright.ai/jobs/info/69a860662580d3183f007bcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, USA | On Site | Mar 04 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[New Media Writer/Reporter, USA TODAY Entertainment](https://jobright.ai/jobs/info/69a8a10879f3f4037f42c6d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 04 |
-| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Editorial Assistant to the Head of Content, ELLE Decor](https://jobright.ai/jobs/info/698be02ac5761b521a9b728e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 04 |
-| **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69a95d9ef2055e05d17185f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tysons Corner, VA | On Site | Mar 04 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/698bb8b006d9b0622495e0cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Mar 04 |
 | **[The Shepherd Color Company](http://shepherdcolor.com)** | **[Production Associate - 12 Hour Shifts](https://jobright.ai/jobs/info/69a7c8ad76bbe83d3afb4512?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Chester, OH | On Site | Mar 04 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a1fba80da45516f16b44eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson AZ | On Site | Mar 04 |
@@ -351,7 +352,4 @@ For a complete list, click the following sortable link below:
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Production Associate- Hiring Event](https://jobright.ai/jobs/info/69a678c2e567421f42577ab5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newark, OH | On Site | Mar 02 |
 | **[American University](http://american.edu)** | **[Part-Time Research Assistant - Content Editor - 2](https://jobright.ai/jobs/info/69a67521d706a731db386376?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Main Campus (Washington, DC) | On Site | Mar 02 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Production Assistant, Audio](https://jobright.ai/jobs/info/69a66f182c0d8b0f5cd08df3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 02 |
-| **[Stone House Bread](https://stonehousebread.com)** | **[Stone House Bread Content Creator and Community Manager](https://jobright.ai/jobs/info/69a66788d706a731db38578e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Traverse City, MI | Hybrid | Mar 02 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a90ed97ac93962b70901a3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Shepherdsville, KY | On Site | Mar 02 |
-| **[Boise Co-op Market](https://www.boise.coop/)** | **[Meat Associate](https://jobright.ai/jobs/info/69a66163e567421f42576b82?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Village Store - Meridian, ID 83646 | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
