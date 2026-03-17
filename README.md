@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Mar 17 |
 | **[ESL FACEIT Group - EFG](http://www.eslfaceitgroup.com)** | **[DreamHack Atlanta General Festival Crew -  Talent Pool 2026](https://jobright.ai/jobs/info/69b932e83b74eb1e2c872182?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, United States | On Site | Mar 17 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Studio Performer Weekday PM](https://jobright.ai/jobs/info/69b9454b06c1ba00c54b589d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Schaumburg, IL | On Site | Mar 17 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699d2078e0bddb6acacc42fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Mar 17 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift - $16.00/Hour](https://jobright.ai/jobs/info/6998eb2ee0bddb6acac7d631?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI | On Site | Mar 14 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Justice League Character Actor- Harley Quinn](https://jobright.ai/jobs/info/697b16d01423772304eb2dfa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Mar 14 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Detailer - Full Time](https://jobright.ai/jobs/info/69b53f7d56973837413a6796?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Avon, OH | On Site | Mar 14 |
-| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Mar 14 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, Lawyers](https://jobright.ai/jobs/info/699e0f02ce78e77b4fe329d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 14 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Steam Tunnel - 2nd Shift - Temporary](https://jobright.ai/jobs/info/69b5267256973837413a531e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 14 |
 | ↳ | **[Production Associate - Utility III - 3rd Shift](https://jobright.ai/jobs/info/69b525c13b74eb1e2c82c6de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Mar 14 |
@@ -341,8 +341,4 @@ For a complete list, click the following sortable link below:
 | **[Mark-Taylor, Inc.](http://mark-taylor.com)** | **[Porter/Groundskeeper (Ten01 on the Lake)](https://jobright.ai/jobs/info/69b102510b2db6275c05f96d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tempe,AZ,US | On Site | Mar 10 |
 | **[Rice University](http://www.rice.edu)** | **[Publications Specialist](https://jobright.ai/jobs/info/69b0abebdfaeda6ff59afa0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Houston | On Site | Mar 10 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Assistant Editor, Orbit](https://jobright.ai/jobs/info/69b136770b2db6275c0660ba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 10 |
-| **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/69b08c4ddfaeda6ff59a989f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 10 |
-| ↳ | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/69b08c1e0b2db6275c04b53e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 10 |
-| **[City of Austin](http://www.austintexas.gov/cttc)** | **[Event Coordinator, Austin Facilities Management](https://jobright.ai/jobs/info/69b0e8e80b2db6275c05d341?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin City Hall | On Site | Mar 10 |
-| **[The Public Interest Network](https://publicinterestnetwork.org/)** | **[Content Writer](https://jobright.ai/jobs/info/69b085e5dfaeda6ff59a88e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
