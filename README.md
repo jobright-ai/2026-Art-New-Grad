@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walters Hospitality](https://waltersweddingestates.com)** | **[Event Coordinator Texas](https://jobright.ai/jobs/info/699e8140ce78e77b4fe3de2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westlake, TX | On Site | Mar 18 |
+| **[Carriage Services](http://carriageservices.com)** | **[Video Editor](https://jobright.ai/jobs/info/69bac2a75697383741409469?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Mar 18 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Coordinator, Creative Services Operations](https://jobright.ai/jobs/info/69931fa4ce78e77b4fd70058?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 18 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69b19eb4548f140066e76f6a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Mar 18 |
 | **[KSBY](http://ksby.com)** | **[News Content Producer, KSBY](https://jobright.ai/jobs/info/699e3af9e0bddb6acacd96e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | SLO Area | On Site | Mar 18 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69b87bd33b74eb1e2c8652ef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Big Spring, TX | On Site | Mar 16 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69b8586d3b74eb1e2c860a16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delray Beach, FL | On Site | Mar 16 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69b858643b74eb1e2c860a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Angola, IN | On Site | Mar 16 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69b8585a3b74eb1e2c8609f2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrenceville, GA | On Site | Mar 16 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69b8583b06c1ba00c54a2cb8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, IL | On Site | Mar 16 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69b857f756973837413d8a15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairlawn, OH | On Site | Mar 16 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69b857ce56973837413d8917?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baxter, MN | On Site | Mar 16 |
@@ -302,10 +303,4 @@ For a complete list, click the following sortable link below:
 | **[Minute Media](http://www.minutemedia.com)** | **[Editor, NBA](https://jobright.ai/jobs/info/69b2262e65de58104c719bac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 11 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III](https://jobright.ai/jobs/info/69b21a98548f140066e8530f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Mar 11 |
 | **[Regal](https://www.regmovies.com)** | **[Theatre Cast Member Opening - Open Availability - $11HR + Free Movie Passes & Posters](https://jobright.ai/jobs/info/69b2167c65de58104c718200?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tullahoma, Tennessee, United States | On Site | Mar 11 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Detailer - Full Time](https://jobright.ai/jobs/info/69b20d7865de58104c7179e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ | On Site | Mar 11 |
-| **[HumanSignal](humansignal.com)** | **[Content Creator (Flexible Gig)](https://jobright.ai/jobs/info/69b20d6c548f140066e83a84?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 11 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 11 |
-| **[4over](http://4over.com)** | **[Press Assistant - 2nd Shift](https://jobright.ai/jobs/info/69b33579a8ac8e70ff6776cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
-| **[Knott's Berry Farm](http://www.knotts.com)** | **[GHOST TOWN ALIVE! (Immersive Theater Actors)](https://jobright.ai/jobs/info/69b2072ad04c69566c74ac01?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buena Park, CA | On Site | Mar 11 |
-| **[Dealmoon Group](http://www.dealmoon.com)** | **[Web Content Editor-Dealmoon CA-Beauty Channel](https://jobright.ai/jobs/info/69b32603ae2a534885ea855d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | North York, Ontario, Canada | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
