@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eScribers, LLC](http://www.escribers.net/)** | **[Court Reporting Production Associate](https://jobright.ai/jobs/info/69b9dace3b74eb1e2c87d783?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 17 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69b9dacb3b74eb1e2c87d77d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ | On Site | Mar 17 |
 | **[RPA](http://www.rpa.com)** | **[Assistant, National Video/Audio Investment](https://jobright.ai/jobs/info/69b9bbf23b74eb1e2c87b32d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA - Hybrid | Hybrid | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Editorial Assistant (PH)](https://jobright.ai/jobs/info/69b2b8d9ae2a534885e9e099?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 17 |
 | ↳ | **[Pictorial Artist - Full Time](https://jobright.ai/jobs/info/69b15bb0d04c69566c73930a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Anaheim, CA | On Site | Mar 17 |
@@ -190,7 +192,6 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Party and Even Host](https://jobright.ai/jobs/info/69b44ed73b74eb1e2c8185dd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amherst-1955 Cooper Foster Park Rd | On Site | Mar 13 |
 | **[Vego Garden](https://vegogarden.com/)** | **[Creative Production Assistant](https://jobright.ai/jobs/info/69b45e123b74eb1e2c819894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Mar 13 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Freelance Assignment Editor](https://jobright.ai/jobs/info/69b4585406c1ba00c545aa6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, USA | On Site | Mar 13 |
-| **[Fox Business Network](http://www.foxbusiness.com)** | **[Production Assistant, Varney & Co.](https://jobright.ai/jobs/info/6997d204e0bddb6acac69cbb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69b40df106c1ba00c545312e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ballwin, MO | On Site | Mar 13 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Digital Production Assistant, Flash/Media/Culture](https://jobright.ai/jobs/info/6997cedece78e77b4fdc38bb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Booker/Researcher, The Evening Edit](https://jobright.ai/jobs/info/6997d44ae0bddb6acac6a02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 13 |
@@ -245,8 +246,8 @@ For a complete list, click the following sortable link below:
 | **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate, 1st shift](https://jobright.ai/jobs/info/69b32b27ad360c0340a84c9b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fullerton, CA | On Site | Mar 12 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Birthday Parties/Events](https://jobright.ai/jobs/info/69b30482ad360c0340a8165b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St. Clairsville-67800 Mall Rd Unit 400 | On Site | Mar 12 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Copy Associate, The New Yorker](https://jobright.ai/jobs/info/69a657ede567421f42575aa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 12 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/6985670b0f6f7e7a2ce02343?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 12 |
-| ↳ | **[Associate Video Editor, QC](https://jobright.ai/jobs/info/698d52010f6f7e7a2ce929f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 12 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor, QC](https://jobright.ai/jobs/info/698d52010f6f7e7a2ce929f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 12 |
+| ↳ | **[Associate Video Editor](https://jobright.ai/jobs/info/6985670b0f6f7e7a2ce02343?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 12 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Multimedia Content Specialist](https://jobright.ai/jobs/info/69b2eed4a8ac8e70ff67158e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wake County, NC | Hybrid | Mar 12 |
 | **[Carvana](http://www.carvana.com)** | **[Custom Automotive Painter -  2nd Shift](https://jobright.ai/jobs/info/69b2ed15ad360c0340a80021?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Mar 12 |
 | **[The Museum of Modern Art](http://www.moma.org)** | **[Department Assistant, Painting and Sculpture](https://jobright.ai/jobs/info/69b2e684ae2a534885ea31eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 12 |
