@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GreenEarth Landscape Services](https://www.greenearthgt.com/)** | **[Landscape Crew Member](https://jobright.ai/jobs/info/69c15caa2c312363dcd41f67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Freeport, FL | On Site | Mar 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Temporary Weekend Motorsports Editor](https://jobright.ai/jobs/info/69c15a9975f7ff1cd80f3e67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 120 E. Hudson, Royal Oak, MI, 48067, US | On Site | Mar 23 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c159b32c312363dcd4170e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atalissa, IA | On Site | Mar 23 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c1583479e36d3a847df2fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Casper, WY | On Site | Mar 23 |
@@ -226,8 +227,8 @@ For a complete list, click the following sortable link below:
 | **[8AM Golf](https://8amgolf.com)** | **[Outside Golf Staff - Bounty Club](https://jobright.ai/jobs/info/69bad7663b74eb1e2c891027?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Mar 18 |
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[FPP Project Specialist - Editor AS7045](https://jobright.ai/jobs/info/699de4c0ce78e77b4fe2f5f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stillwater, OK | On Site | Mar 18 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Processor - 2nd Shift - $16.75+/Hour](https://jobright.ai/jobs/info/699e60e381476f6176b76567?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Olyphant, PA | On Site | Mar 18 |
-| **[Allied Universal](https://www.aus.com/)** | **[Security Officer Studio Production - FPart-Time](https://jobright.ai/jobs/info/69baf39e569738374140c9ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-CA-Los Angeles | On Site | Mar 18 |
-| ↳ | **[Security Officer Studio Production - FPart-Time](https://jobright.ai/jobs/info/69baeab63b74eb1e2c89292b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 18 |
+| **[Allied Universal](https://www.aus.com/)** | **[Security Officer Studio Production - FPart-Time](https://jobright.ai/jobs/info/69baeab63b74eb1e2c89292b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 18 |
+| ↳ | **[Security Officer Studio Production - FPart-Time](https://jobright.ai/jobs/info/69baf39e569738374140c9ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-CA-Los Angeles | On Site | Mar 18 |
 | **[Walters Hospitality](https://waltersweddingestates.com)** | **[Event Coordinator Texas](https://jobright.ai/jobs/info/699e8140ce78e77b4fe3de2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westlake, TX | On Site | Mar 18 |
 | **[Carriage Services](http://carriageservices.com)** | **[Video Editor](https://jobright.ai/jobs/info/69bac2a75697383741409469?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Mar 18 |
 | **[Quanex](http://www.quanex.com/)** | **[Production Associate - Night Shift](https://jobright.ai/jobs/info/69b32b88a8ac8e70ff67698c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bowling Green, KY | On Site | Mar 18 |
@@ -290,5 +291,4 @@ For a complete list, click the following sortable link below:
 | **[LivCor, a Blackstone Portfolio Company](http://livcor.com)** | **[Groundskeeper - PAC Wimbledon Oaks](https://jobright.ai/jobs/info/69bcdc334828227293fee924?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, TX, USA | On Site | Mar 16 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Fulltime LP Detective (Cockeysville 1255/ Gaithersburg 224) Multi-Unit](https://jobright.ai/jobs/info/69b8cc8b06c1ba00c54af519?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cockeysville, MD 21030 | On Site | Mar 16 |
 | **[Evolution](https://www.evolution.com)** | **[Chinese Mandarin Speaking Game Presenter (No Experience Required)](https://jobright.ai/jobs/info/69b8bab03b74eb1e2c86c6cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burnaby, BC, Canada | On Site | Mar 16 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69bc96724828227293fe7a86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Simpsonville, KY | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
