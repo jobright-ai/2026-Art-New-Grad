@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VML HEALTH](http://vml.com)** | **[Content Creator](https://jobright.ai/jobs/info/69c16db82c312363dcd4411d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, Texas, United States | Hybrid | Mar 23 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c16d2f75f7ff1cd80f672b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Casper, WY | On Site | Mar 23 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c16bea2c312363dcd43fa8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH | On Site | Mar 23 |
+| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary Weekend Motorsports Editor](https://jobright.ai/jobs/info/69c168c075f7ff1cd80f5ff3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 120 E. Hudson, Royal Oak, MI, 48067, US | On Site | Mar 23 |
 | **[GreenEarth Landscape Services](https://www.greenearthgt.com/)** | **[Landscape Crew Member](https://jobright.ai/jobs/info/69c15caa2c312363dcd41f67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Freeport, FL | On Site | Mar 23 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Temporary Weekend Motorsports Editor](https://jobright.ai/jobs/info/69c15a9975f7ff1cd80f3e67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 120 E. Hudson, Royal Oak, MI, 48067, US | On Site | Mar 23 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c159b32c312363dcd4170e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atalissa, IA | On Site | Mar 23 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c1583479e36d3a847df2fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Casper, WY | On Site | Mar 23 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c157aa2c312363dcd416da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atalissa, IA | On Site | Mar 23 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69c14c132c312363dcd40f62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Castle Rock, CO | On Site | Mar 23 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c1327279e36d3a847dcc0b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Odessa, TX | On Site | Mar 23 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a0a5b25218a8167671d275?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 23 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69a25aab359fe034b1cd9414?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | King of Prussia, PA | On Site | Mar 22 |
