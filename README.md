@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Michaels Stores](https://teachitpro.com)** | **[PT Party and Event Host](https://jobright.ai/jobs/info/69c06a3a2c312363dcd2e38f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bel Air-640 Marketplace Dr | On Site | Mar 22 |
+| **[RPA](http://www.rpa.com)** | **[Assistant, National Video/Audio Investment](https://jobright.ai/jobs/info/69b9bbf23b74eb1e2c87b32d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA - Hybrid | Hybrid | Mar 22 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host Team Mmeber](https://jobright.ai/jobs/info/69c06a987798f73e35e4fa14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gurnee-6635 Grand Ave | On Site | Mar 22 |
+| ↳ | **[PT Party and Event Host](https://jobright.ai/jobs/info/69c06a3a2c312363dcd2e38f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bel Air-640 Marketplace Dr | On Site | Mar 22 |
 | **[Oldcastle APG](http://www.oldcastleapg.com/)** | **[Content Coordinator](https://jobright.ai/jobs/info/69c03fac7798f73e35e4de5f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hopkins, MN | Hybrid | Mar 22 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69bad7623b74eb1e2c891020?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Mar 22 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - Day Shift - Off Days: Sunday, Monday, & Tuesday](https://jobright.ai/jobs/info/69bc0e594828227293fd3472?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Mar 22 |
@@ -157,8 +159,8 @@ For a complete list, click the following sortable link below:
 | **[CarMax](http://www.carmax.com)** | **[Detailer - Night Shift](https://jobright.ai/jobs/info/69bc3ba24828227293fdd1f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hillside, IL | On Site | Mar 19 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Digital Content Specialist, Motorsports](https://jobright.ai/jobs/info/69bc36a44828227293fdbac1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, North Carolina, USA | On Site | Mar 19 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69bc2ba345e08b3dc1f86dba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Joplin, MO | On Site | Mar 19 |
-| **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - Miami Dade County, FL](https://jobright.ai/jobs/info/69a89b4279f3f4037f42a94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-Dade County, FL | Hybrid | Mar 19 |
-| ↳ | **[Maggie™ Court Reporter - New York, NY](https://jobright.ai/jobs/info/6940b61749a7695fbd063726?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 19 |
+| **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - New York, NY](https://jobright.ai/jobs/info/6940b61749a7695fbd063726?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 19 |
+| ↳ | **[Maggie™ Court Reporter - Miami Dade County, FL](https://jobright.ai/jobs/info/69a89b4279f3f4037f42a94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-Dade County, FL | Hybrid | Mar 19 |
 | **[Specialty Granules LLC](http://www.specialtygranules.com)** | **[Production Associate(Laborer)](https://jobright.ai/jobs/info/6966d433a112b4026614e062?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Ridge Summit, PA | On Site | Mar 19 |
 | **[Camping World](https://investor.campingworld.com)** | **[Detailer-3](https://jobright.ai/jobs/info/69bc193d5b89c002acf118a3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunbury, OH | On Site | Mar 19 |
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/699f99cc81476f6176b9512b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Mar 19 |
@@ -173,7 +175,6 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Framer Part time](https://jobright.ai/jobs/info/69bbb46106c1ba00c54e4949?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mountain View-2415 Charleston Rd | On Site | Mar 19 |
 | **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69974a5481476f6176af7257?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delanco, NJ | On Site | Mar 19 |
 | **[Shredder](https://tryshredder.com)** | **[Content Creator](https://jobright.ai/jobs/info/69bb97e33b74eb1e2c8a1b9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 18 |
-| **[RPA](http://www.rpa.com)** | **[Assistant, National Video/Audio Investment](https://jobright.ai/jobs/info/69b9bbf23b74eb1e2c87b32d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA - Hybrid | Hybrid | Mar 18 |
 | **[Bonobos](http://www.bonobos.com)** | **[Production Assistant](https://jobright.ai/jobs/info/69bb676a3b74eb1e2c89d208?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 18 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/69bb58305697383741415b70?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY-New York, UNAVAILABLE, USA | On Site | Mar 18 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/69bb582906c1ba00c54dd235?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA-Los Angeles | On Site | Mar 18 |
@@ -300,5 +301,4 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69b7f38856973837413d1f1e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Piedmont, SC | On Site | Mar 16 |
 | **[EFP, LLC.](http://efpcorp.com)** | **[Production Associate Team Member](https://jobright.ai/jobs/info/69b7c4fa06c1ba00c5499a3e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | La Vergne, TN | On Site | Mar 16 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Edit](https://jobright.ai/jobs/info/69a2af2e0da45516f16c140e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Mar 16 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69975ee4ce78e77b4fdbb976?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
