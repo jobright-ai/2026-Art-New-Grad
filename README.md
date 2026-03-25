@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Mar 24 |
 | **[Style Netbox](https://www.stylenetbox.com/)** | **[Event Staff](https://jobright.ai/jobs/info/69c365fb753c101b21572537?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX, 77002, US | On Site | Mar 24 |
 | **[ALO](https://www.aloyoga.com/)** | **[Creative Production Coordinator](https://jobright.ai/jobs/info/69c3595c94007a2195dfae1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Mar 24 |
 | ↳ | **[Creative Production Coordinator](https://jobright.ai/jobs/info/69c34cde7a7a0045db88e9e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, California, United States | On Site | Mar 24 |
@@ -114,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Top Bid Collectors](www.topbidcollectors.com)** | **[Sports Card Live Streamer](https://jobright.ai/jobs/info/69c1ea4e2c312363dcd51e2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tustin, CA | On Site | Mar 23 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c1e9e62c312363dcd51dcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Juliet, TN | On Site | Mar 23 |
 | **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist (Temporary)](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 23 |
-| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
-| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
+| ↳ | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Indie/Hip Hop)](https://jobright.ai/jobs/info/69c1d31279e36d3a847ee62b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Mar 23 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 23 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Assistant, Artisan and Black Dog & Leventhal](https://jobright.ai/jobs/info/69c1fdc275f7ff1cd8107195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 23 |
@@ -322,6 +323,4 @@ For a complete list, click the following sortable link below:
 | **[Oklahoma State University](https://go.okstate.edu/)** | **[FPP Project Specialist - Editor AS7045](https://jobright.ai/jobs/info/699de4c0ce78e77b4fe2f5f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stillwater, OK | On Site | Mar 18 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Studio Production - FPart-Time](https://jobright.ai/jobs/info/69baf39e569738374140c9ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-CA-Los Angeles | On Site | Mar 18 |
 | ↳ | **[Security Officer Studio Production - FPart-Time](https://jobright.ai/jobs/info/69baeab63b74eb1e2c89292b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 18 |
-| **[Walters Hospitality](https://waltersweddingestates.com)** | **[Event Coordinator Texas](https://jobright.ai/jobs/info/699e8140ce78e77b4fe3de2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westlake, TX | On Site | Mar 18 |
-| **[Carriage Services](http://carriageservices.com)** | **[Video Editor](https://jobright.ai/jobs/info/69bac2a75697383741409469?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
