@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Assistant, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/69c3af60753c101b21578df9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 25 |
+| ↳ | **[Editorial Assistant, Little, Brown & Co](https://jobright.ai/jobs/info/69c3af0d7a7a0045db8984f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 25 |
 | **[Penn State University](http://psu.edu)** | **[Editor - Department of Neurosurgery](https://jobright.ai/jobs/info/69c3a6f27a7a0045db89830c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hershey, PA | On Site | Mar 25 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Mar 24 |
 | **[Style Netbox](https://www.stylenetbox.com/)** | **[Event Staff](https://jobright.ai/jobs/info/69c365fb753c101b21572537?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX, 77002, US | On Site | Mar 24 |
@@ -298,8 +300,8 @@ For a complete list, click the following sortable link below:
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Staff Writer](https://jobright.ai/jobs/info/69b46cd806c1ba00c545dae5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Thorofare, NJ | Hybrid | Mar 18 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69bb718156973837414173e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westminster, CO | On Site | Mar 18 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Groundskeeper - The Tailor Luxury Apartments](https://jobright.ai/jobs/info/69bc4de15b89c002acf1c341?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Myers, FL | On Site | Mar 18 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/69bb5fb13b74eb1e2c89ccdb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | Mar 18 |
-| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/69bb5fb13b74eb1e2c89ccdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY-New York | On Site | Mar 18 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/69bb5fb13b74eb1e2c89ccdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY-New York | On Site | Mar 18 |
+| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/69bb5fb13b74eb1e2c89ccdb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | Mar 18 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Studio Production - Part-Time](https://jobright.ai/jobs/info/69bb3eb65697383741414163?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-CA-Los Angeles | On Site | Mar 18 |
 | ↳ | **[Security Officer Studio Production - Part-Time](https://jobright.ai/jobs/info/69bb3eb53b74eb1e2c89b0a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 18 |
 | **[INTEGRO](http://www.integroteam.com)** | **[Automotive Detailer](https://jobright.ai/jobs/info/69bc855245e08b3dc1f9417f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morgan City, LA | On Site | Mar 18 |
@@ -319,6 +321,4 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69bafb733b74eb1e2c89362f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Mar 18 |
 | **[Business Wire](http://www.businesswire.com)** | **[Newsroom Editor (Overnight)](https://jobright.ai/jobs/info/69baf591569738374140cc76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eastern United States | Remote | Mar 18 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant - 2nd Shift](https://jobright.ai/jobs/info/69baf539569738374140cc40?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Mar 18 |
-| **[Evolution](https://www.evolution.com)** | **[Live Game Presenter- URGENTLY HIRING! Paid Training, No experience necessary.](https://jobright.ai/jobs/info/69bb1b045697383741411931?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Mar 18 |
-| **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Production Coordinator](https://jobright.ai/jobs/info/69baf0d53b74eb1e2c892eea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, New Jersey, United States | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
