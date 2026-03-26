@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor, QC](https://jobright.ai/jobs/info/698d52010f6f7e7a2ce929f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 26 |
+| ↳ | **[Associate Video Editor](https://jobright.ai/jobs/info/6985670b0f6f7e7a2ce02343?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant (2nd shift)](https://jobright.ai/jobs/info/69c565beaa3c2c1995dfe6e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delanco, NJ | On Site | Mar 26 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Staff Writer](https://jobright.ai/jobs/info/69b46cd806c1ba00c545dae5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Thorofare, NJ | Hybrid | Mar 26 |
 | **[Practising Law Institute (PLI)](https://pli.edu)** | **[Studio Technician (On-Call)](https://jobright.ai/jobs/info/69c55ddee565c26a7000ec2a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | On Site | Mar 26 |
@@ -184,8 +186,8 @@ For a complete list, click the following sortable link below:
 | **[Top Bid Collectors](www.topbidcollectors.com)** | **[Sports Card Live Streamer](https://jobright.ai/jobs/info/69c1ea4e2c312363dcd51e2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tustin, CA | On Site | Mar 23 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c1e9e62c312363dcd51dcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Juliet, TN | On Site | Mar 23 |
 | **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist (Temporary)](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 23 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
-| ↳ | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
+| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Indie/Hip Hop)](https://jobright.ai/jobs/info/69c1d31279e36d3a847ee62b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Mar 23 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 23 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c1c26e2c312363dcd4f350?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
@@ -276,8 +278,8 @@ For a complete list, click the following sortable link below:
 | **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69bdc4d34828227293002fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[Firework](https://firework.com )** | **[Digital Showroom Host (German-speaking)](https://jobright.ai/jobs/info/69bdba2a393a1008f7433344?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | On Site | Mar 20 |
 | **[The New York Times](https://www.nytco.com/)** | **[News Assistant, International Desk](https://jobright.ai/jobs/info/69bdb9ec393a1008f7433206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
-| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
+| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
+| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Alternative)](https://jobright.ai/jobs/info/69c13cf275f7ff1cd80f1d58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant](https://jobright.ai/jobs/info/69bdb145b10602456282a747?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 20 |
 | **[Dig Inn](https://www.diginn.com/)** | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/69be0437482822729300bb20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Mar 20 |
