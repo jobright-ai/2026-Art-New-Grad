@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience and Services Lead - Full Time](https://jobright.ai/jobs/info/69c5518daa9a29199e803277?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chatham, ON | On Site | Mar 26 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699741a0e0bddb6acac5f3ef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Mar 26 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69aacb3d7e1fab39d3826e8d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Mar 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 26 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c531b91818a24cd84b24fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spiceland, IN | On Site | Mar 26 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69950479e0bddb6acac38bcb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6994b9d3e0bddb6acac32a56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Mar 25 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[On-Air Streaming Personality: Sports Cards](https://jobright.ai/jobs/info/69b4e0c306c1ba00c5466f53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Mar 25 |
+| **[INTEGRO](http://www.integroteam.com)** | **[Automotive Detailer](https://jobright.ai/jobs/info/69c54921aa3c2c1995dfd342?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Mar 25 |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[Associate Experiential Producer](https://jobright.ai/jobs/info/69c47ab6d5a1016e98dbba3e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 25 |
 | **[Simon & Schuster](http://www.simonandschuster.com)** | **[Editorial Assistant, Scribner Books](https://jobright.ai/jobs/info/69c4a03c6f4f855eeda7406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1230 Ave of the Americas, New York, NY 10036, USA | On Site | Mar 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c469bed5a1016e98dba2ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Mar 25 |
@@ -264,8 +267,8 @@ For a complete list, click the following sortable link below:
 | **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69bdc4d34828227293002fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[Firework](https://firework.com )** | **[Digital Showroom Host (German-speaking)](https://jobright.ai/jobs/info/69bdba2a393a1008f7433344?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | On Site | Mar 20 |
 | **[The New York Times](https://www.nytco.com/)** | **[News Assistant, International Desk](https://jobright.ai/jobs/info/69bdb9ec393a1008f7433206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
-| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
+| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
+| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Alternative)](https://jobright.ai/jobs/info/69c13cf275f7ff1cd80f1d58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant](https://jobright.ai/jobs/info/69bdb145b10602456282a747?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 20 |
 | **[Dig Inn](https://www.diginn.com/)** | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/69be0437482822729300bb20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Mar 20 |
@@ -293,5 +296,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69bca54ae6a0d9792584a6e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | North Little Rock, AR | On Site | Mar 19 |
 | **[Splash Car Wash & 10-Minute Oil Change](https://cleancarfast.com)** | **[Part-Time Car Detailer - Conway, AR](https://jobright.ai/jobs/info/69bca51645e08b3dc1f969fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Conway Wash - Conway, AR 72032 | On Site | Mar 19 |
 | **[Georgia Pacific](gp.com)** | **[Editor Operator](https://jobright.ai/jobs/info/69bca4dfe6a0d9792584a4ee?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Mar 19 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69aa08f89ca4e908ec655717?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
