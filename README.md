@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69c58fe5e565c26a70012377?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 26 |
+| **[Cayuse Holdings](https://www.cayuseholdings.com/)** | **[Production Specialist](https://jobright.ai/jobs/info/69c58739e565c26a70011e45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Mar 26 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69c57e6ae565c26a700105f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Mar 26 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant (2nd shift)](https://jobright.ai/jobs/info/69c57aa01818a24cd84b5b18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delanco, NJ | On Site | Mar 26 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c558cd1818a24cd84b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winnemucca, NV | On Site | Mar 26 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c5587b83ea553769fc8d9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spiceland, IN | On Site | Mar 26 |
 | **[UMH Properties, Inc.](https://www.umh.com/)** | **[Seasonal Groundskeeper](https://jobright.ai/jobs/info/69c55464aa3c2c1995dfd949?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Conowingo, MD, US | On Site | Mar 26 |
-| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572921818a24cd84b56fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrie, ON | On Site | Mar 26 |
-| ↳ | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572791b5ad02887373e8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Mar 26 |
+| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572791b5ad02887373e8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Mar 26 |
+| ↳ | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572921818a24cd84b56fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrie, ON | On Site | Mar 26 |
 | ↳ | **[Stage Experience and Services Lead - Full Time](https://jobright.ai/jobs/info/69c5518daa9a29199e803277?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chatham, ON | On Site | Mar 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699741a0e0bddb6acac5f3ef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Mar 26 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69aacb3d7e1fab39d3826e8d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Mar 26 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Golf Galaxy](http://www.golfgalaxy.com)** | **[Golf Club Tech](https://jobright.ai/jobs/info/69a7fb3076bbe83d3afb71f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | Mar 25 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c3fb9033eecf31079414e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winnsboro, SC | On Site | Mar 25 |
 | **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c3faee6f4f855eeda6551e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Surrey, BC | On Site | Mar 25 |
-| ↳ | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69be2905b106024562838fcf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Mar 25 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Production Associate Night Shift](https://jobright.ai/jobs/info/69c58458e565c26a70011b46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salt Lake City, UT, US | On Site | Mar 25 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (K-pop)](https://jobright.ai/jobs/info/69c417f7d5a1016e98db22eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Mar 25 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 3rd Shift - Up to $21.50/Hour](https://jobright.ai/jobs/info/69a792d92672cb0acb4c07cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Mar 25 |
@@ -303,6 +304,4 @@ For a complete list, click the following sortable link below:
 | **[Carole Fabrics](https://www.carolefabrics.com)** | **[Seamstress](https://jobright.ai/jobs/info/69a0d9a40836fe79d861dca3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA | On Site | Mar 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Reporter / MultiMedia Journalist](https://jobright.ai/jobs/info/698d58d60f6f7e7a2ce939ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Mar 19 |
 | **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Bras)](https://jobright.ai/jobs/info/67a0803d2e58f08408f280f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Mar 19 |
-| **[Radancy](https://www.radancy.com)** | **[Content Specialist](https://jobright.ai/jobs/info/69bccdc24828227293fece60?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 19 |
-| **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/69c4b76d33eecf310795215e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
