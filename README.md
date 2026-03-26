@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auburn University](https://www.auburn.edu/)** | **[TES - War Eagle Creative Assistant](https://jobright.ai/jobs/info/69c5070cf7bed33dee4821fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Auburn University, AL | On Site | Mar 26 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary Assistant Editor](https://jobright.ai/jobs/info/69c4e92cd5a1016e98dc5ae3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/69aa76ea9ca4e908ec65c8ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Mar 25 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/699cff93ce78e77b4fe1c4ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverside, CA | On Site | Mar 25 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator (On-Camera Talent)](https://jobright.ai/jobs/info/69c3b888753c101b21579a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Mar 25 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Music Central Assistant - Nashville](https://jobright.ai/jobs/info/685365622894593b762e8363?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Mar 25 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Creator](https://jobright.ai/jobs/info/68e20e66b99ec3563b0d9dfe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Mar 25 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Assistant, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/69c5055ef7bed33dee481ae3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 25 |
 | **[Penn State University](http://psu.edu)** | **[Editor - Department of Neurosurgery](https://jobright.ai/jobs/info/69c3a6f27a7a0045db89830c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hershey, PA | On Site | Mar 25 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Assistant, Little, Brown & Co](https://jobright.ai/jobs/info/69c4ec3933eecf31079569cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 25 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Mar 24 |
@@ -307,6 +309,4 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69bc5d345b89c002acf1f2f2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pendleton, KY | On Site | Mar 19 |
 | **[Camping World](https://investor.campingworld.com)** | **[Detailer-3](https://jobright.ai/jobs/info/69bc58f54828227293fe0db0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunbury, OH | On Site | Mar 19 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69bc574d5b89c002acf1e022?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Pleasant, MI | On Site | Mar 19 |
-| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69bc742345e08b3dc1f93166?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Halifax, NS | On Site | Mar 19 |
-| **[Respawn Entertainment](http://www.respawn.com/)** | **[Associate Animator - (Apex Legends)](https://jobright.ai/jobs/info/698278c20f6f7e7a2cdbb3ee?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Vancouver Metropolitan Area | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
