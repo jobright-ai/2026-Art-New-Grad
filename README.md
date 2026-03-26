@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RRD](http://www.rrd.com)** | **[Press Assistant 3](https://jobright.ai/jobs/info/69c5aa4de565c26a70013808?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensboro, NC | On Site | Mar 26 |
+| **[GreenEarth Landscape Services](https://www.greenearthgt.com/)** | **[Landscape Crew Member](https://jobright.ai/jobs/info/69c5a92a1818a24cd84b917e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Freeport, FL | On Site | Mar 26 |
+| **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69c5a486aa3c2c1995e028e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 26 |
 | **[BSN SPORTS](http://www.bsnsports.com)** | **[Production Associate (SP Catcher) 2nd Shift](https://jobright.ai/jobs/info/69c5a2fbaa9a29199e8083e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Sacramento | On Site | Mar 26 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant 3](https://jobright.ai/jobs/info/69c5a1b51b5ad0288737753f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensboro, NC | On Site | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Associate Video Editor](https://jobright.ai/jobs/info/69852af3348f733a5c395b3c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 26 |
@@ -287,8 +290,8 @@ For a complete list, click the following sortable link below:
 | **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69bdc4d34828227293002fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[Firework](https://firework.com )** | **[Digital Showroom Host (German-speaking)](https://jobright.ai/jobs/info/69bdba2a393a1008f7433344?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | On Site | Mar 20 |
 | **[The New York Times](https://www.nytco.com/)** | **[News Assistant, International Desk](https://jobright.ai/jobs/info/69bdb9ec393a1008f7433206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
-| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
+| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
+| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Alternative)](https://jobright.ai/jobs/info/69c13cf275f7ff1cd80f1d58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant](https://jobright.ai/jobs/info/69bdb145b10602456282a747?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 20 |
 | **[Dig Inn](https://www.diginn.com/)** | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/69be0437482822729300bb20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Mar 20 |
@@ -307,5 +310,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Media Manager & Non-Linear Editor (Temp) - WABC](https://jobright.ai/jobs/info/69bd34e1393a1008f74290e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Assistant Production Coordinator - Political Cycle 2026](https://jobright.ai/jobs/info/69bd3282b106024562821acf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 | **[Carole Fabrics](https://www.carolefabrics.com)** | **[Seamstress](https://jobright.ai/jobs/info/69a0d9a40836fe79d861dca3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA | On Site | Mar 20 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Reporter / MultiMedia Journalist](https://jobright.ai/jobs/info/698d58d60f6f7e7a2ce939ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
