@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[Associate Experiential Producer](https://jobright.ai/jobs/info/69c47ab6d5a1016e98dbba3e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 25 |
+| **[Simon & Schuster](http://www.simonandschuster.com)** | **[Editorial Assistant, Scribner Books](https://jobright.ai/jobs/info/69c4a03c6f4f855eeda7406e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1230 Ave of the Americas, New York, NY 10036, USA | On Site | Mar 25 |
 | **[Mittera](http://www.mittera.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/69c496186f4f855eeda73144?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, TX | On Site | Mar 25 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c469bed5a1016e98dba2ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Mar 25 |
 | **[The Public Interest Network](https://publicinterestnetwork.org/)** | **[Content Writer](https://jobright.ai/jobs/info/69c466a66f4f855eeda6f2fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA | On Site | Mar 25 |
