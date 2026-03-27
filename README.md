@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Podcast Audio & Video Content Producer](https://jobright.ai/jobs/info/69c5b1d8aa9a29199e808dd3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Florida, United States | On Site | Mar 26 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c5b03baa9a29199e808cce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hanover, PA | On Site | Mar 26 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69c5b026e565c26a70013b72?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Mar 26 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69c5b018aa3c2c1995e0305f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spartanburg, SC | On Site | Mar 26 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant 3](https://jobright.ai/jobs/info/69c5aa4de565c26a70013808?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensboro, NC | On Site | Mar 26 |
 | **[GreenEarth Landscape Services](https://www.greenearthgt.com/)** | **[Landscape Crew Member](https://jobright.ai/jobs/info/69c5a92a1818a24cd84b917e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Freeport, FL | On Site | Mar 26 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69c5a486aa3c2c1995e028e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 26 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Preferred Apartment Communities](http://pacapts.com)** | **[Groundskeeper - The Sawyer at One Bellevue Place](https://jobright.ai/jobs/info/69c52cab61000072355d01dd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Mar 26 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/6938afcfaabec14a727d9f94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | Hybrid | Mar 26 |
 | **[Auburn University](https://www.auburn.edu/)** | **[TES - War Eagle Creative Assistant](https://jobright.ai/jobs/info/69c5070cf7bed33dee4821fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Auburn University, AL | On Site | Mar 26 |
-| **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Temporary Assistant Editor](https://jobright.ai/jobs/info/69c4e92cd5a1016e98dc5ae3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/69aa76ea9ca4e908ec65c8ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Mar 25 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/699cff93ce78e77b4fe1c4ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverside, CA | On Site | Mar 25 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69950479e0bddb6acac38bcb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 25 |
@@ -181,7 +184,6 @@ For a complete list, click the following sortable link below:
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Editorial/Social Producer, Prospects & Minor Leagues (Seasonal)](https://jobright.ai/jobs/info/69a5e94fb600907a962bb350?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[VML HEALTH](http://vml.com)** | **[Content Creator](https://jobright.ai/jobs/info/68fbc4a293c49825ab105738?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, Texas, United States | Hybrid | Mar 24 |
 | **[Greystar](http://greystar.com)** | **[Groundskeeper - Willowbend Phase 1](https://jobright.ai/jobs/info/69c29fc7ec22f8310ab08131?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humble, TX | On Site | Mar 24 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a7e27b1fc3d83b78095cfc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Muncie, IN | On Site | Mar 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital content producer](https://jobright.ai/jobs/info/69a63ef42c0d8b0f5cd04821?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, OH | On Site | Mar 24 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Utility III - Temporary](https://jobright.ai/jobs/info/69a67c94e567421f42577e99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 24 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/69a6e69776bbe83d3afa3b10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Mar 24 |
