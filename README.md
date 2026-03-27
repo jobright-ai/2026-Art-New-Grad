@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c5e48be565c26a700164b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Stockton, TX | On Site | Mar 26 |
 | **[The Associated Press](http://www.ap.org)** | **[Engagement Editor (Newsperson)](https://jobright.ai/jobs/info/69c5d6951818a24cd84bbce7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 26 |
 | **[MG Properties](https://www.mgproperties.com/)** | **[Porter - Block C Apartments](https://jobright.ai/jobs/info/69c5d29e1818a24cd84bb7ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Marcos, CA | On Site | Mar 26 |
 | **[Nicsa](https://www.nicsa.org)** | **[Groundskeeper - Willowbend Phase 1](https://jobright.ai/jobs/info/69c5cb9daa3c2c1995e04d06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humble, TX | On Site | Mar 26 |
@@ -315,5 +316,4 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - Tamarind Square](https://jobright.ai/jobs/info/69bd4613393a1008f742a0d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunnyvale, CA | On Site | Mar 20 |
 | **[Varsity Spirit](https://www.varsity.com/)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Media Manager & Non-Linear Editor (Temp) - WABC](https://jobright.ai/jobs/info/69bd34e1393a1008f74290e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[GMMB](http://gmmb.com)** | **[Assistant Production Coordinator - Political Cycle 2026](https://jobright.ai/jobs/info/69bd3282b106024562821acf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
