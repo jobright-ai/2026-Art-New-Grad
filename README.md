@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c5e48be565c26a700164b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Stockton, TX | On Site | Mar 26 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Social Media Producer](https://jobright.ai/jobs/info/69c600a41b5ad0288737bab5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Iselin, NJ | On Site | Mar 26 |
 | **[The Associated Press](http://www.ap.org)** | **[Engagement Editor (Newsperson)](https://jobright.ai/jobs/info/69c5d6951818a24cd84bbce7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 26 |
 | **[MG Properties](https://www.mgproperties.com/)** | **[Porter - Block C Apartments](https://jobright.ai/jobs/info/69c5d29e1818a24cd84bb7ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Marcos, CA | On Site | Mar 26 |
 | **[Nicsa](https://www.nicsa.org)** | **[Groundskeeper - Willowbend Phase 1](https://jobright.ai/jobs/info/69c5cb9daa3c2c1995e04d06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humble, TX | On Site | Mar 26 |
@@ -250,6 +251,7 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/69a90ed97ac93962b70901a3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Shepherdsville, KY | On Site | Mar 23 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77bce267b154f9a2da694?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 23 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c1327279e36d3a847dcc0b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Odessa, TX | On Site | Mar 23 |
+| **[The National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69c601e2aa9a29199e80c975?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 22 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69a25aab359fe034b1cd9414?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | King of Prussia, PA | On Site | Mar 22 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d7764c7a37c712687cd8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Houston | On Site | Mar 22 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69a437140da45516f16d2802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 22 |
@@ -314,6 +316,4 @@ For a complete list, click the following sortable link below:
 | **[No Boring Brands](https://www.noboringbrands.co)** | **[Content Creator](https://jobright.ai/jobs/info/69bd5998b106024562824514?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | Hybrid | Mar 20 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/69a0c2980836fe79d861c35b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kelowna, British Columbia, Canada | On Site | Mar 20 |
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - Tamarind Square](https://jobright.ai/jobs/info/69bd4613393a1008f742a0d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunnyvale, CA | On Site | Mar 20 |
-| **[Varsity Spirit](https://www.varsity.com/)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Mar 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Media Manager & Non-Linear Editor (Temp) - WABC](https://jobright.ai/jobs/info/69bd34e1393a1008f74290e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
