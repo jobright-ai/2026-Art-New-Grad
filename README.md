@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Associated Press](http://www.ap.org)** | **[Engagement Editor (Newsperson)](https://jobright.ai/jobs/info/69c5d6951818a24cd84bbce7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 26 |
+| **[MG Properties](https://www.mgproperties.com/)** | **[Porter - Block C Apartments](https://jobright.ai/jobs/info/69c5d29e1818a24cd84bb7ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Marcos, CA | On Site | Mar 26 |
 | **[Nicsa](https://www.nicsa.org)** | **[Groundskeeper - Willowbend Phase 1](https://jobright.ai/jobs/info/69c5cb9daa3c2c1995e04d06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humble, TX | On Site | Mar 26 |
 | **[Diversified](http://diversifiedus.com/)** | **[Producer, Virtual Events](https://jobright.ai/jobs/info/69c5c4e2aa9a29199e809f21?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA, USA | On Site | Mar 26 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Porter / Groundskeeper - South Shore](https://jobright.ai/jobs/info/69c5c4981818a24cd84ba796?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Shore, Alameda, CA | On Site | Mar 26 |
@@ -203,8 +205,8 @@ For a complete list, click the following sortable link below:
 | **[Top Bid Collectors](www.topbidcollectors.com)** | **[Sports Card Live Streamer](https://jobright.ai/jobs/info/69c1ea4e2c312363dcd51e2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tustin, CA | On Site | Mar 23 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c1e9e62c312363dcd51dcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Juliet, TN | On Site | Mar 23 |
 | **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist (Temporary)](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 23 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
-| ↳ | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
+| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 23 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Production Associate (2nd Shift)](https://jobright.ai/jobs/info/69c5847baa3c2c1995e0105a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX, US | On Site | Mar 23 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c1c26e2c312363dcd4f350?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
@@ -314,5 +316,4 @@ For a complete list, click the following sortable link below:
 | **[Varsity Spirit](https://www.varsity.com/)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Mar 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Media Manager & Non-Linear Editor (Temp) - WABC](https://jobright.ai/jobs/info/69bd34e1393a1008f74290e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[GMMB](http://gmmb.com)** | **[Assistant Production Coordinator - Political Cycle 2026](https://jobright.ai/jobs/info/69bd3282b106024562821acf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, District of Columbia, United States | Hybrid | Mar 20 |
-| **[Carole Fabrics](https://www.carolefabrics.com)** | **[Seamstress](https://jobright.ai/jobs/info/69a0d9a40836fe79d861dca3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Augusta, GA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
