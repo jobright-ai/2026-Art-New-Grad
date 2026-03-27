@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diversified](http://diversifiedus.com/)** | **[Producer, Virtual Events](https://jobright.ai/jobs/info/69c5c4e2aa9a29199e809f21?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA, USA | On Site | Mar 26 |
+| **[Greystar (International)](http://www.greystar.com)** | **[Porter / Groundskeeper - South Shore](https://jobright.ai/jobs/info/69c5c4981818a24cd84ba796?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Shore, Alameda, CA | On Site | Mar 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Podcast Audio & Video Content Producer](https://jobright.ai/jobs/info/69c5b1d8aa9a29199e808dd3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Florida, United States | On Site | Mar 26 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c5b03baa9a29199e808cce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hanover, PA | On Site | Mar 26 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69c5b026e565c26a70013b72?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Mar 26 |
@@ -292,8 +294,8 @@ For a complete list, click the following sortable link below:
 | **[Client Accelerators](https://clientaccelerators.com/)** | **[On-Camera Ad Content Creator (Project-Based)](https://jobright.ai/jobs/info/69bdc4d34828227293002fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[Firework](https://firework.com )** | **[Digital Showroom Host (German-speaking)](https://jobright.ai/jobs/info/69bdba2a393a1008f7433344?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | On Site | Mar 20 |
 | **[The New York Times](https://www.nytco.com/)** | **[News Assistant, International Desk](https://jobright.ai/jobs/info/69bdb9ec393a1008f7433206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
-| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
+| **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
+| ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
 | **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Alternative)](https://jobright.ai/jobs/info/69c13cf275f7ff1cd80f1d58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant](https://jobright.ai/jobs/info/69bdb145b10602456282a747?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 20 |
 | **[Dig Inn](https://www.diginn.com/)** | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/69be0437482822729300bb20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Mar 20 |
