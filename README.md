@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Springer Nature](https://group.springernature.com/)** | **[Associate Publisher](https://jobright.ai/jobs/info/69c668a7aa3c2c1995e0fa56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia | Hybrid | Mar 27 |
+| ↳ | **[Associate Publisher](https://jobright.ai/jobs/info/69c668a2b773006330b703d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York [NYP] | Hybrid | Mar 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Mar 27 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c5e48be565c26a700164b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Stockton, TX | On Site | Mar 26 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Social Media Producer](https://jobright.ai/jobs/info/69c600a41b5ad0288737bab5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Iselin, NJ | On Site | Mar 26 |
@@ -90,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c558cd1818a24cd84b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winnemucca, NV | On Site | Mar 26 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c5587b83ea553769fc8d9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spiceland, IN | On Site | Mar 26 |
 | **[UMH Properties, Inc.](https://www.umh.com/)** | **[Seasonal Groundskeeper](https://jobright.ai/jobs/info/69c55464aa3c2c1995dfd949?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Conowingo, MD, US | On Site | Mar 26 |
-| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572791b5ad02887373e8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Mar 26 |
-| ↳ | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572921818a24cd84b56fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrie, ON | On Site | Mar 26 |
+| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572921818a24cd84b56fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrie, ON | On Site | Mar 26 |
+| ↳ | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c572791b5ad02887373e8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Mar 26 |
 | ↳ | **[Stage Experience and Services Lead - Full Time](https://jobright.ai/jobs/info/69c5518daa9a29199e803277?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chatham, ON | On Site | Mar 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699741a0e0bddb6acac5f3ef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Mar 26 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69aacb3d7e1fab39d3826e8d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Mar 26 |
@@ -213,8 +215,8 @@ For a complete list, click the following sortable link below:
 | **[Top Bid Collectors](www.topbidcollectors.com)** | **[Sports Card Live Streamer](https://jobright.ai/jobs/info/69c1ea4e2c312363dcd51e2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tustin, CA | On Site | Mar 23 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c1e9e62c312363dcd51dcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Juliet, TN | On Site | Mar 23 |
 | **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist (Temporary)](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 23 |
-| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
-| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
+| ↳ | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 23 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Production Associate (2nd Shift)](https://jobright.ai/jobs/info/69c5847baa3c2c1995e0105a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX, US | On Site | Mar 23 |
 | **[Welocalize](http://www.welocalize.com)** | **[Sports Live Data Monitor/Content Moderator in Cupertino, CA (Hybrid)](https://jobright.ai/jobs/info/69c651e41b5ad02887383c28?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cupertino, CA, US | Hybrid | Mar 23 |
@@ -309,11 +311,4 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[News Assistant, International Desk](https://jobright.ai/jobs/info/69bdb9ec393a1008f7433206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
 | **[RELX](https://www.relx.com)** | **[News Assistant](https://jobright.ai/jobs/info/69bdd8b2b106024562832e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Mar 20 |
 | ↳ | **[News Assistant](https://jobright.ai/jobs/info/69bdd834393a1008f7439c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote - USA - Nationwide | Remote | Mar 20 |
-| **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Rock/Alternative)](https://jobright.ai/jobs/info/69c13cf275f7ff1cd80f1d58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[RRD](http://www.rrd.com)** | **[Press Assistant](https://jobright.ai/jobs/info/69bdb145b10602456282a747?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 20 |
-| **[Dig Inn](https://www.diginn.com/)** | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/69be0437482822729300bb20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Mar 20 |
-| **[EA SPORTS](http://www.EASports.com)** | **[Assistant Producer - EA SPORTS™ FC](https://jobright.ai/jobs/info/69850fb90f6f7e7a2cdf8a4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | Hybrid | Mar 20 |
-| **[Gray Media](https://graymedia.com)** | **[CREATIVE SERVICES PRODUCER - WGEM](https://jobright.ai/jobs/info/69bda954b106024562829c7f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, IL | On Site | Mar 20 |
-| **[Q4](https://www.q4inc.com)** | **[Event Moderator](https://jobright.ai/jobs/info/69a16fb9359fe034b1ccc352?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Mar 20 |
-| **[Gray Media](https://graymedia.com)** | **[CREATIVE SERVICES PRODUCER - WGEM](https://jobright.ai/jobs/info/69bda5c5b10602456282945b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, Illinois, United States | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
