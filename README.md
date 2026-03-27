@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69c6e55f1b5ad02887388125?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 27 |
 | **[Artisanal Brewing Ventures](https://artbrewdev.wpengine.com/)** | **[Packaging Associate - 2nd Shift / Southern Tier Brewing Company - Lakewood, NY](https://jobright.ai/jobs/info/69c6e4c5e565c26a700239c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Southern Tier Brewing | Lakewood, NY | On Site | Mar 27 |
 | **[Lucas Museum of Narrative Art](http://www.lucasmuseum.org/)** | **[Digital Content Coordinator (9-Month Term)](https://jobright.ai/jobs/info/69c6e4b0aa3c2c1995e12fa2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Mar 27 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c6e27e1818a24cd84c957a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pecos, TX | On Site | Mar 27 |
@@ -175,7 +176,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator (On-Camera Talent)](https://jobright.ai/jobs/info/69c3b888753c101b21579a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Mar 25 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Creator](https://jobright.ai/jobs/info/68e20e66b99ec3563b0d9dfe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Mar 25 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Editorial Assistant, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/69c5055ef7bed33dee481ae3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 25 |
-| ↳ | **[Editorial Assistant, Little, Brown & Co](https://jobright.ai/jobs/info/69c65113aa3c2c1995e0eca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 25 |
 | **[Penn State University](http://psu.edu)** | **[Editor - Department of Neurosurgery](https://jobright.ai/jobs/info/69c3a6f27a7a0045db89830c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hershey, PA | On Site | Mar 25 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Mar 24 |
 | **[Style Netbox](https://www.stylenetbox.com/)** | **[Event Staff](https://jobright.ai/jobs/info/69c365fb753c101b21572537?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX, 77002, US | On Site | Mar 24 |
@@ -199,7 +199,6 @@ For a complete list, click the following sortable link below:
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Detailer - seasonal](https://jobright.ai/jobs/info/69c2eed7ec22f8310ab0f1f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | American Fork, UT | On Site | Mar 24 |
 | **[HydroHelp911 Crawl Space & Foundation Repair](https://www.hydrohelp911.com)** | **[Content Creator](https://jobright.ai/jobs/info/69c2f96f753c101b21566d53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, NC | On Site | Mar 24 |
 | **[Spectrum](https://www.spectrum.com)** | **[Production Specialist I](https://jobright.ai/jobs/info/69c2ed6594007a2195df032a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Mar 24 |
-| **[Story Cannabis](https://storycannabis.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/69c2d5ae94007a2195ded83c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hancock, MD | On Site | Mar 24 |
 | **[VML HEALTH](http://vml.com)** | **[Associate Music Producer](https://jobright.ai/jobs/info/69b0467a0b2db6275c03e3cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Hybrid | Mar 24 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Assistant, Editorial Services (Princeton, NJ Hybrid)](https://jobright.ai/jobs/info/69c2d479753c101b21562ced?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Princeton, NJ, US | Hybrid | Mar 24 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Content Manager-Editor, The Crest](https://jobright.ai/jobs/info/69c2f07694007a2195df0b5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St. Paul, MN, US | On Site | Mar 24 |
