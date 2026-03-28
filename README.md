@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[PT Picture Framer Weekends/Nights](https://jobright.ai/jobs/info/69c843c1b773006330b7e5c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville-1509 Rockville Pike | On Site | Mar 28 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant - Post Production](https://jobright.ai/jobs/info/69ab674d2747003c3d51065a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Auburn, WA | On Site | Mar 28 |
 | **[The Campbell's Company](https://www.thecampbellscompany.com/)** | **[Production Associate - Nights](https://jobright.ai/jobs/info/698fbc070cc8ea15f1da5902?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Downers Grove, IL | On Site | Mar 28 |
 | **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c7e491e565c26a7002c85b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winnipeg, MB | On Site | Mar 28 |
@@ -258,8 +259,8 @@ For a complete list, click the following sortable link below:
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1ec652c312363dcd52008?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Mar 23 |
 | **[Top Bid Collectors](www.topbidcollectors.com)** | **[Sports Card Live Streamer](https://jobright.ai/jobs/info/69c1ea4e2c312363dcd51e2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tustin, CA | On Site | Mar 23 |
 | **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist (Temporary)](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 23 |
-| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
-| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
+| ↳ | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 23 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Production Associate (2nd Shift)](https://jobright.ai/jobs/info/69c5847baa3c2c1995e0105a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX, US | On Site | Mar 23 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c1c26e2c312363dcd4f350?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
