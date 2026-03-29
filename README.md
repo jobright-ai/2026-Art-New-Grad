@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Von Maur](http://www.vonmaur.com)** | **[ALTERATIONS ASSOCIATE](https://jobright.ai/jobs/info/69c898b01818a24cd84d5ab4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glenview, IL | On Site | Mar 28 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/69c85c5283ea553769fe983f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tullahoma, TN | On Site | Mar 28 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/699de4bce0bddb6acacd3ed4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Mar 28 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 28 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c6fc4fe565c26a70024b2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clear Brook, VA | On Site | Mar 27 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/69aa315c2ebd316bece1f2f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greeley, CO | On Site | Mar 27 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69c6d0991b5ad028873872fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Mar 27 |
-| ↳ | **[Digital Print Press Assistant (12 hour 3rd shift)](https://jobright.ai/jobs/info/69c6fb351b5ad02887388efe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Mar 27 |
 | ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69c6fbd7b773006330b74c62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Mar 27 |
+| ↳ | **[Digital Print Press Assistant (12 hour 3rd shift)](https://jobright.ai/jobs/info/69c6fb351b5ad02887388efe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Mar 27 |
 | **[SpiTrex Orthopedics](https://spitrexorthopedics.com)** | **[Summer Employment](https://jobright.ai/jobs/info/69c6ca111818a24cd84c8941?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plymouth, Indiana, United States | On Site | Mar 27 |
 | **[Postmedia Network Inc.](http://www.postmedia.com)** | **[Video Journalist & Content Creator](https://jobright.ai/jobs/info/69aa54711f59c56275e32f1d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa, ON | On Site | Mar 27 |
 | **[Monroe Group Ltd.](https://www.monroegroup.com )** | **[Groundskeeper - Summit Ridge Apartments](https://jobright.ai/jobs/info/69c6bb891818a24cd84c8218?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham,AL,US | On Site | Mar 27 |
@@ -246,8 +247,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c2ada3ec22f8310ab08999?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Mar 24 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/69c2abbeec22f8310ab087a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 27 Montgomery St | On Site | Mar 24 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Video Editor & Producer (Seasonal)](https://jobright.ai/jobs/info/69a5e0c8359fe034b1d09462?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 24 |
-| **[Crain Communications](https://crain.com)** | **[Reporter](https://jobright.ai/jobs/info/69c7f7451818a24cd84d2a9c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Florida | Hybrid | Mar 24 |
-| ↳ | **[Reporter](https://jobright.ai/jobs/info/69c7f7661b5ad0288739146a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Ohio | Hybrid | Mar 24 |
+| **[Crain Communications](https://crain.com)** | **[Reporter](https://jobright.ai/jobs/info/69c7f7661b5ad0288739146a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Ohio | Hybrid | Mar 24 |
+| ↳ | **[Reporter](https://jobright.ai/jobs/info/69c7f7451818a24cd84d2a9c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Florida | Hybrid | Mar 24 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c2a6af753c101b2155ea7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Mar 24 |
 | **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c2a6a494007a2195de93c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Etobicoke, ON | On Site | Mar 24 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c2a2a394007a2195de9157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Mar 24 |
@@ -319,7 +320,4 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Associate Producer, Fantasy Sports - Part Time](https://jobright.ai/jobs/info/696ab89f350cf4380311bff4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Mar 22 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77b5f7a37c712687ceb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Mar 22 |
 | ↳ | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68eb13bd2f64880ca0b54a99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Mar 22 |
-| **[Performance Auto Group](https://www.performance.ca/)** | **[Detailer (AutoPlanet Brampton)](https://jobright.ai/jobs/info/696964191703f05405ab3f50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brampton, Ontario, Canada | On Site | Mar 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Lifestyle Show Host](https://jobright.ai/jobs/info/69a262890da45516f16ba814?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Mar 22 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77b81295f8e37655db4af?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | On Site | Mar 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
