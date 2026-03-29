@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nicsa](https://www.nicsa.org)** | **[Make-Ready Specialist - La Maison River Oaks](https://jobright.ai/jobs/info/69c914141818a24cd84d9778?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Mar 29 |
 | **[Von Maur](http://www.vonmaur.com)** | **[ALTERATIONS ASSOCIATE](https://jobright.ai/jobs/info/69c898b01818a24cd84d5ab4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glenview, IL | On Site | Mar 28 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Salon Manager](https://jobright.ai/jobs/info/69c85c5283ea553769fe983f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tullahoma, TN | On Site | Mar 28 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/699de4bce0bddb6acacd3ed4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Mar 28 |
