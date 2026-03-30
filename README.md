@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69cab9d1a8c1822476e1f90a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Foster City, CA | On Site | Mar 30 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69cab04aa8c1822476e1f2ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Airy, NC | On Site | Mar 30 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/69caa75a8fc6090c5d44f9bd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Mar 30 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant - 2nd shift](https://jobright.ai/jobs/info/69caa737a8c1822476e1ea4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Mar 30 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Lucas Museum of Narrative Art](http://www.lucasmuseum.org/)** | **[Digital Content Coordinator (9-Month Term)](https://jobright.ai/jobs/info/69c6b1fcb773006330b720ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | On Site | Mar 27 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Production Team Member, Late Evening Shift,  Bakehouse](https://jobright.ai/jobs/info/69c6b110b773006330b71ff7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aurora, CO | On Site | Mar 27 |
 | **[Specialized Bicycle Components](http://specialized.com)** | **[Cycling Specialist - Bloomington Cycle & Fitness - Bloomington, IL](https://jobright.ai/jobs/info/69c6ac53aa3c2c1995e1128a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States, IL, Bloomington (Bloomington Cycle and Fitness) | On Site | Mar 27 |
+| **[ARRISE](https://arrise.com)** | **[GAME PRESENTER with Mandarin](https://jobright.ai/jobs/info/69cab852aa3c2c1995e2f7f2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Canada | On Site | Mar 27 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c6a93eb773006330b71d9c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pecos, TX | On Site | Mar 27 |
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - South Shore](https://jobright.ai/jobs/info/69c6d728e565c26a7002317b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Alameda, CA | On Site | Mar 27 |
 | **[WCIA 3](https://www.wcia.com/)** | **[Digital Producer](https://jobright.ai/jobs/info/69a9e2839ca4e908ec651f06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Champaign, IL | On Site | Mar 27 |
@@ -271,7 +273,6 @@ For a complete list, click the following sortable link below:
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/69c2b473753c101b2155fd84?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicopee, MA, US | On Site | Mar 24 |
 | ↳ | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/69c2b47294007a2195dea6d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-MA-Chicopee | On Site | Mar 24 |
 | **[Inch & Co.](https://inchandco.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69c2b3a094007a2195dea589?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | York, Pennsylvania, United States | On Site | Mar 24 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c2ada3ec22f8310ab08999?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Mar 24 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/69c2abbeec22f8310ab087a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 27 Montgomery St | On Site | Mar 24 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Video Editor & Producer (Seasonal)](https://jobright.ai/jobs/info/69a5e0c8359fe034b1d09462?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[Crain Communications](https://crain.com)** | **[Reporter](https://jobright.ai/jobs/info/69c7f7661b5ad0288739146a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Ohio | Hybrid | Mar 24 |
