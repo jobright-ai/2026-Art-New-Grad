@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69cad4df8fc6090c5d451864?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Twin Falls, ID | On Site | Mar 30 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69cad39a466f1e133aac77c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barboursville, WV | On Site | Mar 30 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69cad390466f1e133aac77c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Round Lake Beach, IL | On Site | Mar 30 |
+| **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Editorial Assistant - Healio News](https://jobright.ai/jobs/info/69c709b283ea553769fdfed3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Deptford, NJ | Hybrid | Mar 30 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69cad1f38fc6090c5d45176e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Airy, NC | On Site | Mar 30 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69bdfce6b1060245628362c1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Grove, UT | On Site | Mar 30 |
 | ↳ | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 30 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a0a5b25218a8167671d275?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 30 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[RealManage](http://realmanage.com)** | **[Onsite Golf Course Marshal (Yosemite Lakes)](https://jobright.ai/jobs/info/69c70eb91818a24cd84cb372?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Coarsegold, CA 93614 | On Site | Mar 27 |
 | **[Entravision](https://entravision.com/)** | **[News Production Assistant](https://jobright.ai/jobs/info/69c70d9ae565c26a700254b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Mar 27 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Assistant, Editorial Services (Princeton, NJ Hybrid)](https://jobright.ai/jobs/info/69c2ef3e753c101b21565db2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Princeton, NJ | Hybrid | Mar 27 |
-| **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Editorial Assistant - Healio News](https://jobright.ai/jobs/info/69c709b283ea553769fdfed3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Deptford, NJ | Hybrid | Mar 27 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c7deadaa3c2c1995e1bcbd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spartanburg, SC | On Site | Mar 27 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69b497023b74eb1e2c81f637?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY (5th Avenue) | On Site | Mar 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6998c9b8e0bddb6acac7b779?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Mar 27 |
@@ -279,8 +283,8 @@ For a complete list, click the following sortable link below:
 | **[Inch & Co.](https://inchandco.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69c2b3a094007a2195dea589?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | York, Pennsylvania, United States | On Site | Mar 24 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/69c2abbeec22f8310ab087a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 27 Montgomery St | On Site | Mar 24 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Video Editor & Producer (Seasonal)](https://jobright.ai/jobs/info/69a5e0c8359fe034b1d09462?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 24 |
-| **[Crain Communications](https://crain.com)** | **[Reporter](https://jobright.ai/jobs/info/69c7f7661b5ad0288739146a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Ohio | Hybrid | Mar 24 |
-| ↳ | **[Reporter](https://jobright.ai/jobs/info/69c7f7451818a24cd84d2a9c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Florida | Hybrid | Mar 24 |
+| **[Crain Communications](https://crain.com)** | **[Reporter](https://jobright.ai/jobs/info/69c7f7451818a24cd84d2a9c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Florida | Hybrid | Mar 24 |
+| ↳ | **[Reporter](https://jobright.ai/jobs/info/69c7f7661b5ad0288739146a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Work From Home Ohio | Hybrid | Mar 24 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c2a6af753c101b2155ea7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Mar 24 |
 | **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69c2a6a494007a2195de93c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Etobicoke, ON | On Site | Mar 24 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69c2a2a394007a2195de9157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Mar 24 |
