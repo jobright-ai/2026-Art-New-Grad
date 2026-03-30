@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69ca978d466f1e133aac5139?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fargo, ND | On Site | Mar 30 |
 | **[Uber](http://www.uber.com)** | **[Event Production Associate](https://jobright.ai/jobs/info/69ca782f466f1e133aac4217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Mar 30 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69ca6ecbe565c26a7003d743?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Mar 30 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69ca6e711b5ad028873a17db?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Mar 30 |
@@ -283,7 +284,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Utility III - Temporary](https://jobright.ai/jobs/info/69a67c94e567421f42577e99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 24 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/69a6e69776bbe83d3afa3b10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Mar 24 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Mar 24 |
-| **[Company 3](http://www.company3.com)** | **[Producer, Associate](https://jobright.ai/jobs/info/69af473f749500645093cb3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | On Site | Mar 24 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Production Assistant, Audio](https://jobright.ai/jobs/info/69a66f182c0d8b0f5cd08df3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 24 |
 | **[Tavrion Dynamics](https://www.linkedin.com/company/112332297)** | **[Thai Lead Presenter Ras Al-Khaimah, United Arab Emirates with Relocation](https://jobright.ai/jobs/info/69c67db4aa3c2c1995e10181?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stockholm, NY | On Site | Mar 24 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c8e5d483ea553769fed25e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bakersfield, CA | On Site | Mar 24 |
@@ -294,7 +294,6 @@ For a complete list, click the following sortable link below:
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1ec652c312363dcd52008?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Mar 23 |
 | **[Top Bid Collectors](www.topbidcollectors.com)** | **[Sports Card Live Streamer](https://jobright.ai/jobs/info/69c1ea4e2c312363dcd51e2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tustin, CA | On Site | Mar 23 |
 | **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist (Temporary)](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Mar 23 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
-| ↳ | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
-| **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69c1d6862c312363dcd50d02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Mar 23 |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant  Entry Level](https://jobright.ai/jobs/info/69c2049f75f7ff1cd8107aec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | Mar 23 |
+| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69c2051bc9ad035e829a723c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
