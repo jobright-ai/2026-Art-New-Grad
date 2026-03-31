@@ -294,7 +294,4 @@ For a complete list, click the following sortable link below:
 | **[Sotheby's](http://www.sothebys.com)** | **[Part Time Exhibition Support](https://jobright.ai/jobs/info/69c3160f753c101b215699ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Mar 24 |
 | **[Bell](https://letstalk.bell.ca/en)** | **[Travel Coordinator, Dome Productions](https://jobright.ai/jobs/info/69bb59243b74eb1e2c89c77e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON | Hybrid | Mar 24 |
 | **[Amazon](https://amazon.com)** | **[Production Coordinator, Amazon MGM Studios Creative Marketing, A/V Production](https://jobright.ai/jobs/info/69c30854753c101b215679d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, California, USA | On Site | Mar 24 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69c303a1753c101b2156753c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kannapolis, NC | On Site | Mar 24 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69c84a6caa3c2c1995e1e145?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manhattan, KS | On Site | Mar 24 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Video Editor](https://jobright.ai/jobs/info/69c31ce0ec22f8310ab142e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fresno, CA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
