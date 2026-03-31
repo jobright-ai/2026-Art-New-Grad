@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyndale House Publishers](http://www.tyndale.com)** | **[Assistant Copyeditor, Bibles](https://jobright.ai/jobs/info/69cb07078fc6090c5d454139?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carol Stream,IL,US | On Site | Mar 30 |
 | **[Vox Media](https://corp.voxmedia.com)** | **[Podcast Social Media Producer](https://jobright.ai/jobs/info/69cafc9fe565c26a70043561?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Mar 30 |
 | **[AntiSocial](https://antisocialsolutions.com/)** | **[Junior Editor - The Heist](https://jobright.ai/jobs/info/69cafc001b5ad028873a76a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | Hybrid | Mar 30 |
 | **[Camping World](https://investor.campingworld.com)** | **[Detailer-2](https://jobright.ai/jobs/info/69caf0dc1b5ad028873a6b2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Hatfield, MA | On Site | Mar 30 |
@@ -309,5 +310,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/69a6e69776bbe83d3afa3b10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Mar 24 |
 | **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Mar 24 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Production Assistant, Audio](https://jobright.ai/jobs/info/69a66f182c0d8b0f5cd08df3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 24 |
-| **[Tavrion Dynamics](https://www.linkedin.com/company/112332297)** | **[Thai Lead Presenter Ras Al-Khaimah, United Arab Emirates with Relocation](https://jobright.ai/jobs/info/69c67db4aa3c2c1995e10181?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stockholm, NY | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
