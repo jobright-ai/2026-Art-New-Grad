@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69d031da54f00230c6d10451?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 03 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d02e39891d7b11cfcd95ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Apr 03 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d02e3754f00230c6d0fef5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Peoria, IL | On Site | Apr 03 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69d023fd366bb95ba551ba69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ | On Site | Apr 03 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d023d6366bb95ba551ba4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Milford, PA | On Site | Apr 03 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support](https://jobright.ai/jobs/info/69d0219ecdb525785fba7979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portland, OR | On Site | Apr 03 |
@@ -261,13 +264,13 @@ For a complete list, click the following sortable link below:
 | **[Postmedia Network Inc.](http://www.postmedia.com)** | **[Summer multi-media journalists](https://jobright.ai/jobs/info/69af863b7495006450940544?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London, Ontario, Canada | Remote | Mar 31 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69aa08f89ca4e908ec655717?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Mar 31 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f3fcdb525785fb807ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 607 Twin Oaks Drive | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ebb366bb95ba54f420e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f43891d7b11cfcb1309?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ed7cfdc6132f9411264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ebb366bb95ba54f420e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4fe1921223acc7add8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ed7cfdc6132f9411264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4ee1921223acc7adc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 4953 Highway 19-E | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ef28130af1ac833d50b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hampton, TN, US | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9eb8366bb95ba54f41e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Hampton | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4ee1921223acc7adc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 4953 Highway 19-E | On Site | Mar 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Producer](https://jobright.ai/jobs/info/69af22eb6b21de023e6041d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Binghamton, NY | On Site | Mar 31 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6998c9b8e0bddb6acac7b779?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Mar 31 |
 | **[Circle K](http://www.circlek.com)** | **[CSR- Subway Sandwich Artist](https://jobright.ai/jobs/info/69cc3c1f891d7b11cfcab390?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delhi, ON | On Site | Mar 31 |
@@ -361,5 +364,4 @@ For a complete list, click the following sortable link below:
 | **[Sleep Number Corporation](http://sleepnumber.com)** | **[Production Associate](https://jobright.ai/jobs/info/698f680a6ea51a7610f1ba96?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irmo, SC | On Site | Mar 28 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68ca642b46caff4db51feca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 28 |
 | **[McClatchy Media](https://www.mcclatchy.com/)** | **[North County Reporter](https://jobright.ai/jobs/info/69aa4b022ebd316bece20b5d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Luis Obispo, CA | On Site | Mar 28 |
-| **[Altice USA](http://www.alticeusa.com)** | **[Special Events Coordinator - Freelance](https://jobright.ai/jobs/info/69c76548aa3c2c1995e17c47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA.NY.Bethpage-1111 Stewart | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
