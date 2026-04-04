@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FOX Weather](https://foxweather.com)** | **[Freelance Assignment Editor, FOX Weather](https://jobright.ai/jobs/info/69d10fda891d7b11cfce191d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 04 |
+| **[Fox Business Network](http://www.foxbusiness.com)** | **[Booker/Researcher, The Evening Edit](https://jobright.ai/jobs/info/6997d44ae0bddb6acac6a02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 04 |
 | **[Gracious Hospitality Management](https://www.cotenyc.com)** | **[Model Host](https://jobright.ai/jobs/info/6979eb11a5b9804527dfb8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, Nevada, United States | On Site | Apr 04 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Board Operator](https://jobright.ai/jobs/info/69cad8d4e565c26a7004154f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Binghamton, NY | On Site | Apr 04 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69bad7623b74eb1e2c891020?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Apr 04 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[RRD](http://www.rrd.com)** | **[Digital Print Press Assistant (12 hour 3rd shift)](https://jobright.ai/jobs/info/69d02167cfdc6132f943880c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
 | ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69d0214754f00230c6d0f578?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
 | **[A Grand Event tent & event rentals](https://www.4agrandevent.com)** | **[Special Event Coordinator](https://jobright.ai/jobs/info/69d01bf8cfdc6132f94385b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gaithersburg, MD | On Site | Apr 03 |
-| **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69d03c25cdb525785fba8bef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 03 |
-| ↳ | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69d03c27891d7b11cfcd9e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
+| **[RRD](http://www.rrd.com)** | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69d03c27891d7b11cfcd9e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
+| ↳ | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69d03c25cdb525785fba8bef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 03 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d01452cdb525785fba743a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Moriarty, NM | On Site | Apr 03 |
 | **[WRMC, Inc.](https://www.worthross.com/)** | **[Groundskeeper - Downtown Austin](https://jobright.ai/jobs/info/69d0138a0b098b7a6707648c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, Texas, United States | On Site | Apr 03 |
 | **[Greystar](http://greystar.com)** | **[Groundskeeper/Porter - Prose Highland](https://jobright.ai/jobs/info/69d004990b098b7a67075a1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Apr 03 |
@@ -290,11 +292,11 @@ For a complete list, click the following sortable link below:
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f43891d7b11cfcb1309?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f3fcdb525785fb807ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 607 Twin Oaks Drive | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ebb366bb95ba54f420e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4fe1921223acc7add8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ed7cfdc6132f9411264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9eb8366bb95ba54f41e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Hampton | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ef28130af1ac833d50b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hampton, TN, US | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4fe1921223acc7add8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4ee1921223acc7adc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 4953 Highway 19-E | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ef28130af1ac833d50b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hampton, TN, US | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9eb8366bb95ba54f41e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Hampton | On Site | Mar 31 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Producer](https://jobright.ai/jobs/info/69af22eb6b21de023e6041d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Binghamton, NY | On Site | Mar 31 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6998c9b8e0bddb6acac7b779?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Mar 31 |
 | **[Circle K](http://www.circlek.com)** | **[CSR- Subway Sandwich Artist](https://jobright.ai/jobs/info/69cc3c1f891d7b11cfcab390?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delhi, ON | On Site | Mar 31 |
@@ -371,5 +373,4 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/699de4bce0bddb6acacd3ed4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Mar 28 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Mar 28 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Closing Framer](https://jobright.ai/jobs/info/69c85345b773006330b7ec1e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Torrance-4240 Pacific Coast Hwy | On Site | Mar 28 |
-| ↳ | **[PT Picture Framer Weekends/Nights](https://jobright.ai/jobs/info/69c843c1b773006330b7e5c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville-1509 Rockville Pike | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
