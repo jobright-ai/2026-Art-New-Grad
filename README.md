@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wefunder](http://www.wefunder.com)** | **[Curator of Gatherings](https://jobright.ai/jobs/info/69d04606366bb95ba551cf04?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA, US | On Site | Apr 03 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69b497023b74eb1e2c81f637?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY (5th Avenue) | On Site | Apr 03 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 03 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d04022cfdc6132f9439c8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Alexandria, MN | On Site | Apr 03 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[RRD](http://www.rrd.com)** | **[Digital Print Press Assistant (12 hour 3rd shift)](https://jobright.ai/jobs/info/69d02167cfdc6132f943880c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
 | ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69d0214754f00230c6d0f578?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
 | **[A Grand Event tent & event rentals](https://www.4agrandevent.com)** | **[Special Event Coordinator](https://jobright.ai/jobs/info/69d01bf8cfdc6132f94385b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gaithersburg, MD | On Site | Apr 03 |
-| **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69d03c25cdb525785fba8bef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 03 |
-| ↳ | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69d03c27891d7b11cfcd9e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
+| **[RRD](http://www.rrd.com)** | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69d03c27891d7b11cfcd9e68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 03 |
+| ↳ | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69d03c25cdb525785fba8bef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 03 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d01452cdb525785fba743a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Moriarty, NM | On Site | Apr 03 |
 | **[WRMC, Inc.](https://www.worthross.com/)** | **[Groundskeeper - Downtown Austin](https://jobright.ai/jobs/info/69d0138a0b098b7a6707648c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, Texas, United States | On Site | Apr 03 |
 | **[Greystar](http://greystar.com)** | **[Groundskeeper/Porter - Prose Highland](https://jobright.ai/jobs/info/69d004990b098b7a67075a1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Apr 03 |
@@ -272,8 +273,8 @@ For a complete list, click the following sortable link below:
 | **[Penske Media Corporation](http://pmc.com)** | **[Fairchild Media: Business Reporter, Sourcing Journal](https://jobright.ai/jobs/info/69b197d865de58104c70a18b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | Hybrid | Mar 31 |
 | **[Postmedia Network Inc.](http://www.postmedia.com)** | **[Summer multi-media journalists](https://jobright.ai/jobs/info/69af863b7495006450940544?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London, Ontario, Canada | Remote | Mar 31 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69aa08f89ca4e908ec655717?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Mar 31 |
-| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f43891d7b11cfcb1309?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
-| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f3fcdb525785fb807ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 607 Twin Oaks Drive | On Site | Mar 31 |
+| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f3fcdb525785fb807ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 607 Twin Oaks Drive | On Site | Mar 31 |
+| ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f43891d7b11cfcb1309?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ebb366bb95ba54f420e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9f4fe1921223acc7add8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TN-Johnson City | On Site | Mar 31 |
 | ↳ | **[Dunkin Donuts Baker/Finisher - Overnight Shift](https://jobright.ai/jobs/info/69cc9ed7cfdc6132f9411264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN, US | On Site | Mar 31 |
@@ -370,5 +371,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector  - 2nd Shift](https://jobright.ai/jobs/info/69a9de959ca4e908ec6517ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Mar 28 |
 | **[Sleep Number Corporation](http://sleepnumber.com)** | **[Production Associate](https://jobright.ai/jobs/info/698f680a6ea51a7610f1ba96?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irmo, SC | On Site | Mar 28 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68ca642b46caff4db51feca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Mar 28 |
-| **[McClatchy Media](https://www.mcclatchy.com/)** | **[North County Reporter](https://jobright.ai/jobs/info/69aa4b022ebd316bece20b5d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Luis Obispo, CA | On Site | Mar 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
