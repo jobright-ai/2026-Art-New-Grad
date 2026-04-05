@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Detailer - Full Time](https://jobright.ai/jobs/info/69b53f7d56973837413a6796?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Avon, OH | On Site | Apr 05 |
 | **[National Property Management Associates, Inc.](https://npmainc.com/)** | **[Seasonal Groundskeeper](https://jobright.ai/jobs/info/69d17f6fcdb525785fbb2e15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | Apr 04 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Assistant Editor, NewBeauty](https://jobright.ai/jobs/info/699e952881476f6176b7d91f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/6998e66d81476f6176b14b6e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amboy, IL | On Site | Apr 04 |
