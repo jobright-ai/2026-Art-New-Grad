@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 07 |
 | **[Moores Clothing](https://www.mooresclothing.com/)** | **[Tailor](https://jobright.ai/jobs/info/69d4ab1dcdb525785fbcb8ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London, ON | On Site | Apr 06 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d45d01cdb525785fbc8bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toms Brook, VA | On Site | Apr 06 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d45b56891d7b11cfcf9b48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Hill, TX | On Site | Apr 06 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/69caa75a8fc6090c5d44f9bd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Apr 05 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f362194ef206f184e52fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Apr 05 |
 | **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Outdoor Adventure Guide](https://jobright.ai/jobs/info/69d2fca5cfdc6132f944d78a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Snowshoe, WV | On Site | Apr 05 |
-| **[Rose Associates](http://rosenyc.com)** | **[Porter - Bergen Saratoga, 331 Saratoga Avenue, Brooklyn, NY](https://jobright.ai/jobs/info/69d3dd89cfdc6132f945515b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Apr 05 |
-| ↳ | **[Porter - Navy Green, 7 Clermont & 45 Clermont, Brooklyn, NY](https://jobright.ai/jobs/info/69d3ddd5891d7b11cfcf4d0e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Apr 05 |
+| **[Rose Associates](http://rosenyc.com)** | **[Porter - Navy Green, 7 Clermont & 45 Clermont, Brooklyn, NY](https://jobright.ai/jobs/info/69d3ddd5891d7b11cfcf4d0e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Apr 05 |
+| ↳ | **[Porter - Bergen Saratoga, 331 Saratoga Avenue, Brooklyn, NY](https://jobright.ai/jobs/info/69d3dd89cfdc6132f945515b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Apr 05 |
 | ↳ | **[Porter - King Gardens, 211 Riverdale Avenue, Brooklyn, NY](https://jobright.ai/jobs/info/69d3dd89cfdc6132f945515d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Apr 05 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Apr 05 |
 | **[Central Market](https://www.centralmarket.com/)** | **[Central Market (Plano) Pastry Production Rep -  Part-time - PM Availability](https://jobright.ai/jobs/info/69d2ae490b098b7a670898d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | COIT RD & HWY 190 | On Site | Apr 05 |
@@ -146,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Auto Detailer - ADESA St. Louis](https://jobright.ai/jobs/info/69d1b6eccfdc6132f94458ba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barnhart, MO, US | On Site | Apr 03 |
 | **[Wefunder](http://www.wefunder.com)** | **[Curator of Gatherings](https://jobright.ai/jobs/info/69d04606366bb95ba551cf04?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA, US | On Site | Apr 03 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69b497023b74eb1e2c81f637?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY (5th Avenue) | On Site | Apr 03 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 03 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d04022cfdc6132f9439c8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Alexandria, MN | On Site | Apr 03 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69d031da54f00230c6d10451?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 03 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d02e39891d7b11cfcd95ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Apr 03 |
@@ -351,7 +351,4 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69cc53d3cfdc6132f940bac2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fayetteville, GA | On Site | Mar 31 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69cc5379891d7b11cfcabc74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | O'Fallon, MO | On Site | Mar 31 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Editorial Assistant, Oprah Daily](https://jobright.ai/jobs/info/69af45c96b21de023e607891?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Mar 31 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69cc32af366bb95ba54ee103?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Junction, TX | On Site | Mar 31 |
-| **[Streamland Media](https://www.streamlandmedia.com/)** | **[Editor](https://jobright.ai/jobs/info/69cc0dc08130af1ac83364f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC, CA | On Site | Mar 31 |
-| **[Adams MultiMedia](https://adamspg.com)** | **[Assistant Editor - Little Falls MN](https://jobright.ai/jobs/info/69cc0dadcfdc6132f940a1b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Little Falls, MN, US | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
