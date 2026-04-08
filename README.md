@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[Global Capital Markets Roadshow Coordinator](https://jobright.ai/jobs/info/69be12b7393a1008f743ebd6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 08 |
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69d65ba948f0c8161d2f7715?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote-USA | Remote | Apr 08 |
 | **[Daily Mail US](http://www.dailymail.com)** | **[Content Creator (On-Camera Talent)](https://jobright.ai/jobs/info/69c3b888753c101b21579a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Apr 08 |
 | **[Allied Universal](https://www.aus.com/)** | **[Security Officer Production Studio](https://jobright.ai/jobs/info/69d5e649706f771673ba7db5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Apr 07 |
@@ -257,7 +258,6 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69cec58a54f00230c6d030c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | DeKalb, IL | On Site | Apr 02 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69cec55acdb525785fb9b53e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salinas, CA | On Site | Apr 02 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69cec54ccdb525785fb9b520?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Murfreesboro, TN | On Site | Apr 02 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69cec4d5366bb95ba550f4fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Apr 02 |
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - Ascent](https://jobright.ai/jobs/info/69ceb6b0cdb525785fb9a2c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Jose, CA | On Site | Apr 02 |
 | **[Grüns](https://gruns.co/)** | **[Livestream Operator](https://jobright.ai/jobs/info/69ceb5b3cfdc6132f942b0bd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California | On Site | Apr 02 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Copy Associate, The New Yorker](https://jobright.ai/jobs/info/69a657ede567421f42575aa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 02 |
@@ -291,7 +291,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Lana’i Cultural Experience Guide & UTV](https://jobright.ai/jobs/info/69b1395cd04c69566c734e76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lanai City, HI | On Site | Apr 01 |
 | **[CarMax](http://www.carmax.com)** | **[Detailer - Overnight](https://jobright.ai/jobs/info/69cdb574cdb525785fb8dfb5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Marsh Station, MD | On Site | Apr 01 |
 | **[Eigen Labs](https://www.eigenlabs.org/)** | **[Podcast Ops Associate (3-Month Contract)](https://jobright.ai/jobs/info/69ce13d3366bb95ba55078ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco | Hybrid | Apr 01 |
-| **[Carvana](http://www.carvana.com)** | **[Auto Detailer - ADESA Charlotte](https://jobright.ai/jobs/info/69cd9bff54f00230c6cf48db?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | On Site | Apr 01 |
-| **[Blueprint](https://bpcs.com/)** | **[Filipino Translation & Localization Specialist](https://jobright.ai/jobs/info/69c1e85875f7ff1cd8104194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 01 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69cf330c54f00230c6d07970?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manville, NJ, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
