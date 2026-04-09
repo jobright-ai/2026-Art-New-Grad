@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Americana)](https://jobright.ai/jobs/info/69d707f748f0c8161d2fc654?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Apr 08 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d6fafc366bb95ba5550ff3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Midland, TX | On Site | Apr 08 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Trim](https://jobright.ai/jobs/info/69d6ee32cfdc6132f946e1ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | On Site | Apr 08 |
+| **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69d7058548f0c8161d2fc5c6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | King of Prussia, PA | On Site | Apr 08 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Associate Production Planner, Lingerie & Apparel](https://jobright.ai/jobs/info/69d6e2dc48f0c8161d2fbcd9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Reynoldsburg, OH | On Site | Apr 08 |
 | **[RRD](http://www.rrd.com)** | **[Press Assistant 1](https://jobright.ai/jobs/info/69d6dcdb52a5bf580012ca07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westlake Village, CA | On Site | Apr 08 |
 | **[Rocket55](http://www.rocket55.com/)** | **[Social Media Content Creator & Specialist](https://jobright.ai/jobs/info/69d6dc7b48f0c8161d2fba25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis,MN,US | Hybrid | Apr 08 |
@@ -163,8 +165,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d45d01cdb525785fbc8bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toms Brook, VA | On Site | Apr 06 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d45b56891d7b11cfcf9b48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Hill, TX | On Site | Apr 06 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d4678354f00230c6d30ac3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Monte Creek, BC | On Site | Apr 06 |
-| **[THE·TEAM](http://the.team)** | **[Domestic Festival Coordinator, Global Festivals](https://jobright.ai/jobs/info/69d43aff891d7b11cfcf8b11?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Apr 06 |
-| ↳ | **[Assistant, Music (Electronic)](https://jobright.ai/jobs/info/69d43aff366bb95ba553be72?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-FTL Area | On Site | Apr 06 |
+| **[THE·TEAM](http://the.team)** | **[Assistant, Music (Electronic)](https://jobright.ai/jobs/info/69d43aff366bb95ba553be72?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-FTL Area | On Site | Apr 06 |
+| ↳ | **[Domestic Festival Coordinator, Global Festivals](https://jobright.ai/jobs/info/69d43aff891d7b11cfcf8b11?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Apr 06 |
 | **[Accenture](https://www.accenture.com)** | **[Virtual Production Studio Analyst](https://jobright.ai/jobs/info/69d43aa8e63cea7a8b658089?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, VA | On Site | Apr 06 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party &  Event Host](https://jobright.ai/jobs/info/69d4382654f00230c6d2f118?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Encinitas-335 N El Camino Real | On Site | Apr 06 |
 | **[International Code Council](https://www.iccsafe.org/)** | **[Legal Editor- Code Services](https://jobright.ai/jobs/info/69d431c9cfdc6132f945876a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | On Site | Apr 06 |
@@ -323,6 +325,4 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Editor-1](https://jobright.ai/jobs/info/6996997bce78e77b4fdabbb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milwaukee, WI | On Site | Apr 02 |
 | **[Circle K](http://www.circlek.com)** | **[CSR- Subway Sandwich Artist](https://jobright.ai/jobs/info/69cd5c55366bb95ba54fb131?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elmira, ON | On Site | Apr 02 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/697bb2d40b88cc7d64227d59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 02 |
-| **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Apr 02 |
-| **[WBEZ Chicago](https://www.wbez.org/)** | **[Data Journalist, Public Safety](https://jobright.ai/jobs/info/69cf9797cdb525785fba3879?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
