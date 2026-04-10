@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69c34bff94007a2195df9d59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Accord, NY | On Site | Apr 10 |
+| **[Larry Green Chevrolet](www.larrygreenchevrolet.com)** | **[New/Used Detailer](https://jobright.ai/jobs/info/69d912685356a60f40fd78b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cottonwood, AZ | On Site | Apr 10 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/69a020da5218a81676710b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS | On Site | Apr 10 |
 | **[The N2 Company](https://n2co.com)** | **[Bridge Content Experience Coordinator](https://jobright.ai/jobs/info/69d90710869c7e25d859882a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 10 |
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - Tamarind Square](https://jobright.ai/jobs/info/69bd4613393a1008f742a0d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunnyvale, CA | On Site | Apr 10 |
@@ -163,11 +165,11 @@ For a complete list, click the following sortable link below:
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69d67c5b706f771673baaf15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Madison, WI, Junction Rd | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fbd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - St Cloud, MN | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Madison, WI, Junction Rd | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6783e706f771673baadcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Indianapolis, IN | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6783e706f771673baadd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Hagerstown, MD | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d677a9e63cea7a8b6690d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Minneapolis, MN | Hybrid | Apr 08 |
@@ -303,7 +305,4 @@ For a complete list, click the following sortable link below:
 | **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Sample Size 18)](https://jobright.ai/jobs/info/68f7068a9a65fd34585993b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Apr 03 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69cab9d1a8c1822476e1f90a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Foster City, CA | On Site | Apr 03 |
 | **[Glidewell Dental](http://www.glidewelldental.com)** | **[Media Assistant](https://jobright.ai/jobs/info/69d0583a366bb95ba551d8df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irvine, CA | On Site | Apr 03 |
-| **[News 12](http://www.news12.com/)** | **[Studio Director - Freelance](https://jobright.ai/jobs/info/6979322b88e2b47213bd5121?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edison, NJ | On Site | Apr 03 |
-| **[Carvana](http://www.carvana.com)** | **[Auto Detailer - ADESA St. Louis](https://jobright.ai/jobs/info/69d1b6eccfdc6132f94458ba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barnhart, MO, US | On Site | Apr 03 |
-| **[Wefunder](http://www.wefunder.com)** | **[Curator of Gatherings](https://jobright.ai/jobs/info/69d04606366bb95ba551cf04?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA, US | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
