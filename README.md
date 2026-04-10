@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69d934dff748bc5d08a49c0a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | Hybrid | Apr 10 |
+| **[Gray Media](https://graymedia.com)** | **[DIGITAL NEWS CONTENT PRODUCER - WXIX](https://jobright.ai/jobs/info/69d9330b738f2f099e8a04b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, Ohio, United States | On Site | Apr 10 |
+| **[Radancy](https://www.radancy.com)** | **[Content Specialist](https://jobright.ai/jobs/info/69bccdc24828227293fece60?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 10 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69d92d75b67cec4f9b0a055a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Apr 10 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[Editor Operator](https://jobright.ai/jobs/info/69bc819645e08b3dc1f93eac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Apr 10 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writer, Medical Communications](https://jobright.ai/jobs/info/69d92795869c7e25d859935c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote, United States | Remote | Apr 10 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writer, Medical Communications](https://jobright.ai/jobs/info/69d926b09f97a42dc9c1fd00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote, United States | Remote | Apr 10 |
@@ -68,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[The N2 Company](https://n2co.com)** | **[Bridge Content Experience Coordinator](https://jobright.ai/jobs/info/69d90710869c7e25d859882a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 10 |
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - Tamarind Square](https://jobright.ai/jobs/info/69bd4613393a1008f742a0d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunnyvale, CA | On Site | Apr 10 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Framer - Albany, NY](https://jobright.ai/jobs/info/69d9021cf748bc5d08a4824b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany-161 Washington Ave Ext Ste 8 | On Site | Apr 10 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, CPAs](https://jobright.ai/jobs/info/69d8e8a4b67cec4f9b09f239?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 10 |
+| **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, CPAs](https://jobright.ai/jobs/info/69d935a0f748bc5d08a49d15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 10 |
 | **[Uber](http://www.uber.com)** | **[Event Production Associate](https://jobright.ai/jobs/info/69d8e89db67cec4f9b09f225?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Apr 10 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Producer](https://jobright.ai/jobs/info/69bfa0502c312363dcd2623b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY | On Site | Apr 10 |
 | **[Starling Jewelry](https://www.starlingjewelry.com/)** | **[Content & Community Coordinator](https://jobright.ai/jobs/info/69d897bab67cec4f9b09d970?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 09 |
@@ -248,13 +252,13 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Auto Detailer (Part Time) - ADESA Lansing](https://jobright.ai/jobs/info/69d408ed54f00230c6d2d8b0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI | On Site | Apr 06 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69d408d7891d7b11cfcf6c0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ | On Site | Apr 06 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d408bb54f00230c6d2d7c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | East Wenatchee, WA | On Site | Apr 06 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d408a9cfdc6132f9456efa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Norton Shores, MI | On Site | Apr 06 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d408a9cfdc6132f9456efe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Martinsburg, WV | On Site | Apr 06 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d408a9cfdc6132f9456efa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Norton Shores, MI | On Site | Apr 06 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d40895891d7b11cfcf6ad0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Traverse City, MI | On Site | Apr 06 |
 | **[Wasserman](http://www.teamwass.com)** | **[Domestic Festival Coordinator, Global Festivals](https://jobright.ai/jobs/info/69d4087f891d7b11cfcf6a53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Apr 06 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper/Porter - The District](https://jobright.ai/jobs/info/69d40878cdb525785fbc58e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | The District (PA), Pittsburgh, PA | On Site | Apr 06 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d068d1cfdc6132f943b129?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McHenry, IL | On Site | Apr 06 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d0889b891d7b11cfcdc671?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Apr 06 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d0889b891d7b11cfcdc671?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Apr 06 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d068d1cfdc6132f943b129?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McHenry, IL | On Site | Apr 06 |
 | **[Spiraledge, Inc](https://www.spiraledge.com)** | **[Customization Associate - Evening](https://jobright.ai/jobs/info/69d40067366bb95ba5539535?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Chester, OH | On Site | Apr 06 |
 | **[AEG](http://www.aegworldwide.com)** | **[Production Runner Event Staff - Forest Hills Stadium](https://jobright.ai/jobs/info/69d3f81ce63cea7a8b655525?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 06 |
 | ↳ | **[Production Event Staff - Forest Hills Stadium](https://jobright.ai/jobs/info/69d3f813cfdc6132f94564d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 06 |
@@ -306,5 +310,4 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69bad7623b74eb1e2c891020?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elyria, OH | On Site | Apr 04 |
 | **[Progressive Insurance](https://www.progressive.com)** | **[Print Production Associate- Second Shift](https://jobright.ai/jobs/info/69d741ac706f771673bb1fc6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ohio, United States | On Site | Apr 03 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility III - Cleanroom](https://jobright.ai/jobs/info/69b3689bae2a534885eac97f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Apr 03 |
-| **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Sample Size 18)](https://jobright.ai/jobs/info/68f7068a9a65fd34585993b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
