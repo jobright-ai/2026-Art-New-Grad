@@ -279,8 +279,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69da96b3869c7e25d85a3d68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ, US | On Site | Apr 07 |
 | ↳ | **[Auto Detailer (Part Time) - ADESA Lansing](https://jobright.ai/jobs/info/69da9791869c7e25d85a3ffd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI, US | On Site | Apr 07 |
 | ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da9702738f2f099e8aafb2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
-| ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da96fd5356a60f40fe2b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
 | ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da964f9f97a42dc9c2ab00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
+| ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da96fd5356a60f40fe2b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
 | ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da97d05356a60f40fe2d61?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69da96d9738f2f099e8aaef6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ, US | On Site | Apr 07 |
 | ↳ | **[Auto Detailer - ADESA Charlotte](https://jobright.ai/jobs/info/69da9761b67cec4f9b0ab286?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC, US | On Site | Apr 07 |
@@ -317,8 +317,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Auto Detailer (Part Time) - ADESA Lansing](https://jobright.ai/jobs/info/69d408ed54f00230c6d2d8b0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI | On Site | Apr 06 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69d408d7891d7b11cfcf6c0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ | On Site | Apr 06 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d408bb54f00230c6d2d7c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | East Wenatchee, WA | On Site | Apr 06 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d408a9cfdc6132f9456efe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Martinsburg, WV | On Site | Apr 06 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d408a9cfdc6132f9456efa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Norton Shores, MI | On Site | Apr 06 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d408a9cfdc6132f9456efe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Martinsburg, WV | On Site | Apr 06 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d40895891d7b11cfcf6ad0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Traverse City, MI | On Site | Apr 06 |
 | **[Wasserman](http://www.teamwass.com)** | **[Domestic Festival Coordinator, Global Festivals](https://jobright.ai/jobs/info/69d4087f891d7b11cfcf6a53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY - New York City Office (One Liberty Plaza) | On Site | Apr 06 |
 | **[Greystar (International)](http://www.greystar.com)** | **[Groundskeeper/Porter - The District](https://jobright.ai/jobs/info/69d40878cdb525785fbc58e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | The District (PA), Pittsburgh, PA | On Site | Apr 06 |
