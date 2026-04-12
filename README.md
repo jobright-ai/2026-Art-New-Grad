@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Color Coordinator - Pottery Barn](https://jobright.ai/jobs/info/69beca4cb1060245628438d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, CA | On Site | Apr 12 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support](https://jobright.ai/jobs/info/69d0219ecdb525785fba7979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portland, OR | On Site | Apr 12 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69a437140da45516f16d2802?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 12 |
 | **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69befa23b10602456284551a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond Hill, ON | On Site | Apr 12 |
@@ -218,8 +219,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d68b44cfdc6132f946a9b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Apr 08 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Studio Operations Associate](https://jobright.ai/jobs/info/69d681afe63cea7a8b6693cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 08 |
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69d67c5b706f771673baaf15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 08 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
@@ -273,8 +274,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69da96b3869c7e25d85a3d68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ, US | On Site | Apr 07 |
 | ↳ | **[Auto Detailer (Part Time) - ADESA Lansing](https://jobright.ai/jobs/info/69da9791869c7e25d85a3ffd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI, US | On Site | Apr 07 |
 | ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da9702738f2f099e8aafb2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
-| ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da964f9f97a42dc9c2ab00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
 | ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da96fd5356a60f40fe2b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
+| ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da964f9f97a42dc9c2ab00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
 | ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da97d05356a60f40fe2d61?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69da96d9738f2f099e8aaef6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ, US | On Site | Apr 07 |
 | ↳ | **[Auto Detailer - ADESA Charlotte](https://jobright.ai/jobs/info/69da9761b67cec4f9b0ab286?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC, US | On Site | Apr 07 |
