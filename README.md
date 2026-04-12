@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grön](https://eatgron.com)** | **[Packaging Support](https://jobright.ai/jobs/info/69d0219ecdb525785fba7979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portland, OR | On Site | Apr 12 |
 | **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69befa23b10602456284551a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond Hill, ON | On Site | Apr 12 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69db726c869c7e25d85a7ebe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Haines City, FL | On Site | Apr 12 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c6f3b283ea553769fdf366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Apr 11 |
@@ -218,11 +219,11 @@ For a complete list, click the following sortable link below:
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69d67c5b706f771673baaf15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Madison, WI, Junction Rd | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fbd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - St Cloud, MN | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Madison, WI, Junction Rd | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6783e706f771673baadd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Hagerstown, MD | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6783e706f771673baadcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Indianapolis, IN | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d677a9e63cea7a8b6690d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Minneapolis, MN | Hybrid | Apr 08 |
@@ -271,8 +272,8 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69da96b3869c7e25d85a3d68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ, US | On Site | Apr 07 |
 | ↳ | **[Auto Detailer (Part Time) - ADESA Lansing](https://jobright.ai/jobs/info/69da9791869c7e25d85a3ffd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI, US | On Site | Apr 07 |
 | ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da9702738f2f099e8aafb2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
-| ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da964f9f97a42dc9c2ab00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
 | ↳ | **[Auto Refinish Technician - Rocklin, CA](https://jobright.ai/jobs/info/69da96fd5356a60f40fe2b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
+| ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da964f9f97a42dc9c2ab00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA, US | On Site | Apr 07 |
 | ↳ | **[Auto Painter - Rocklin, CA](https://jobright.ai/jobs/info/69da97d05356a60f40fe2d61?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Folsom, CA, US | On Site | Apr 07 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69da96d9738f2f099e8aaef6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ, US | On Site | Apr 07 |
 | ↳ | **[Auto Detailer - ADESA Charlotte](https://jobright.ai/jobs/info/69da9761b67cec4f9b0ab286?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC, US | On Site | Apr 07 |
