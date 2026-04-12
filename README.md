@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SEPHORA](https://www.sephora.com)** | **[Stage Experience Lead - Full Time](https://jobright.ai/jobs/info/69befa23b10602456284551a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond Hill, ON | On Site | Apr 12 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69db726c869c7e25d85a7ebe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Haines City, FL | On Site | Apr 12 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c6f3b283ea553769fdf366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Apr 11 |
 | ↳ | **[Auto Painter - Manville, NJ](https://jobright.ai/jobs/info/69d7f1a6869c7e25d859280f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manville, NJ | On Site | Apr 11 |
@@ -217,8 +218,8 @@ For a complete list, click the following sortable link below:
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69d67c5b706f771673baaf15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 08 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Madison, WI, Junction Rd | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fbd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - St Cloud, MN | Hybrid | Apr 08 |
