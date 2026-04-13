@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Surface Experts](https://www.surfaceexperts.com/)** | **[Creative Artistic Restoration Specialist/Training Provided](https://jobright.ai/jobs/info/69dce0f7bfa7f40fd6f78539?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ashland, VA | On Site | Apr 13 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69b19eb4548f140066e76f6a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Apr 13 |
 | **[Koozie Group](https://www.kooziegroup.com )** | **[Temporary Seasonal - Production Associate](https://jobright.ai/jobs/info/69dca7eff748bc5d08a5c0f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sleepy Eye, MN, Sleepy Eye, MN, US | On Site | Apr 13 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c4501e33eecf3107948811?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Apr 13 |
@@ -309,5 +310,4 @@ For a complete list, click the following sortable link below:
 | **[International Code Council](https://www.iccsafe.org/)** | **[Legal Editor- Code Services](https://jobright.ai/jobs/info/69d431c9cfdc6132f945876a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | On Site | Apr 06 |
 | **[EFP, LLC.](http://efpcorp.com)** | **[Production Associate Team Member](https://jobright.ai/jobs/info/69b7c4fa06c1ba00c5499a3e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | La Vergne, TN | On Site | Apr 06 |
 | **[Versant Media](https://versantmedia.com)** | **[Programming Coordinator (late night/overnight shift)](https://jobright.ai/jobs/info/69d443eacdb525785fbc7ed1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Universal City, CA | On Site | Apr 06 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - Cleanroom](https://jobright.ai/jobs/info/697e13a57f40342e15d6f471?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
