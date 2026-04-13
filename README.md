@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mainstreet Equity Corp.](http://mainst.biz/)** | **[Landscaper](https://jobright.ai/jobs/info/69dd267d5356a60f40fecb6a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prince George, BC, CA | On Site | Apr 13 |
+| **[ACV Auctions](https://www.acvauctions.com/)** | **[Detailer](https://jobright.ai/jobs/info/69dd1f7c9f97a42dc9c34954?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO, USA | On Site | Apr 13 |
 | **[1021 Creative](https://1021creative.com/)** | **[Content Enrichment Specialist (EN/FR Bilingual)](https://jobright.ai/jobs/info/69dd1a10bc6f6622c99106f1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Apr 13 |
 | **[A+E Global Media](https://www.aetv.com/)** | **[Associate Archival Producer, Content Creation (Temporary) Remote](https://jobright.ai/jobs/info/69dd01ea61f6ed54321fa7d8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Remote | Apr 13 |
 | **[Carvana](http://www.carvana.com)** | **[Auto Detailer - ADESA Sanford](https://jobright.ai/jobs/info/69dcfe5f5356a60f40febd02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sanford, FL | On Site | Apr 13 |
@@ -238,8 +240,8 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d68b44cfdc6132f946a9b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Apr 08 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Studio Operations Associate](https://jobright.ai/jobs/info/69d681afe63cea7a8b6693cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 08 |
 | **[Zillow](http://www.zillow.com)** | **[Mortgage Production Assistant](https://jobright.ai/jobs/info/69d67c5b706f771673baaf15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 08 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
@@ -306,5 +308,4 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 07 |
 | **[Burnsville-Eagan-Savage School District 191](https://www.isd191.org)** | **[Community Ed Summer Theater Costume Designer](https://jobright.ai/jobs/info/69d8c350869c7e25d8597a83?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burnsville, MN | On Site | Apr 07 |
 | **[Moores Clothing](https://www.mooresclothing.com/)** | **[Tailor](https://jobright.ai/jobs/info/69d4ab1dcdb525785fbcb8ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London, ON | On Site | Apr 06 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d45b56891d7b11cfcf9b48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Hill, TX | On Site | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
