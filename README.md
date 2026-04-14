@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tastedoo](www.tastedoo.ca)** | **[Content Creator](https://jobright.ai/jobs/info/69de5bf318cf504166e2c96d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, QC | On Site | Apr 14 |
+| **[Flaherty & Collins Properties](http://flco.com)** | **[Groundskeeper - Seasonal](https://jobright.ai/jobs/info/69de5afde34484770f1a18eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Avon Creek - Avon, IN 46123 | On Site | Apr 14 |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Apr 14 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Digital Production Assistant, Breaking/Trending News - PM](https://jobright.ai/jobs/info/69c1ecd72c312363dcd520fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699d2078e0bddb6acacc42fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Apr 14 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Apr 14 |
@@ -270,8 +273,8 @@ For a complete list, click the following sortable link below:
 | **[Deluxe](http://www.deluxe.com)** | **[Press Helper-2nd Shift $1000 Sign On Bonus](https://jobright.ai/jobs/info/69d6935d48f0c8161d2f8a70?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Townsend, MA, USA | On Site | Apr 08 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d68b44cfdc6132f946a9b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Apr 08 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Studio Operations Associate](https://jobright.ai/jobs/info/69d681afe63cea7a8b6693cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 08 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
@@ -296,5 +299,4 @@ For a complete list, click the following sortable link below:
 | **[TubeScience](https://tubescience.com/#home)** | **[Production Coordinator](https://jobright.ai/jobs/info/69d59f88891d7b11cfd034ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 07 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69d59f34706f771673ba4774?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Johnson City, TN | On Site | Apr 07 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Production Coordinator](https://jobright.ai/jobs/info/69d59c06e63cea7a8b662891?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 07 |
-| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Dunkin Baker/Finisher - Morning/Day Shift](https://jobright.ai/jobs/info/69d5ae86cdb525785fbd293c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kingsport, TN | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
