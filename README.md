@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Getty](http://www.getty.edu)** | **[Limited Term - Associate Editor](https://jobright.ai/jobs/info/69dda50e433ac8430e0d5f1f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Apr 13 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69dda178aba61f1417310b02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Apr 13 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69975ee4ce78e77b4fdbb976?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 13 |
+| **[Vox Media](https://corp.voxmedia.com)** | **[Podcast Social Media Producer](https://jobright.ai/jobs/info/69cafc9fe565c26a70043561?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Apr 13 |
 | **[dentsu](https://www.dentsu.com)** | **[Coordinator, Audio & Video](https://jobright.ai/jobs/info/69dd84d09f97a42dc9c366fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON | On Site | Apr 13 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 13 |
 | **[Evolution](https://www.evolution.com)** | **[Game Presenter: Flexible Part-Time Schedules Available (12,16 or 24 hours a week)](https://jobright.ai/jobs/info/69dd6d5761f6ed54321fd611?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Apr 13 |
