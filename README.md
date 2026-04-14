@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magic Memories](https://www.magicmemories.com/)** | **[Retail Photo Operations Supervisor - Pirates Voyage Myrtle Beach](https://jobright.ai/jobs/info/69de774b5913ad339813d4d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Myrtle Beach, South Carolina, United States | On Site | Apr 14 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69b497023b74eb1e2c81f637?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY (5th Avenue) | On Site | Apr 14 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital content producer](https://jobright.ai/jobs/info/69a63ef42c0d8b0f5cd04821?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, OH | On Site | Apr 14 |
 | **[Tastedoo](www.tastedoo.ca)** | **[Content Creator](https://jobright.ai/jobs/info/69de5bf318cf504166e2c96d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, QC | On Site | Apr 14 |
@@ -277,10 +278,10 @@ For a complete list, click the following sortable link below:
 | **[Deluxe](http://www.deluxe.com)** | **[Press Helper-2nd Shift $1000 Sign On Bonus](https://jobright.ai/jobs/info/69d6935d48f0c8161d2f8a70?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Townsend, MA, USA | On Site | Apr 08 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69d68b44cfdc6132f946a9b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Apr 08 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Studio Operations Associate](https://jobright.ai/jobs/info/69d681afe63cea7a8b6693cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 08 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
-| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
+| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128edf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Victoria, MN | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6785c52a5bf5800128ee0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Philadelphia, PA | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Tampa, FL | Hybrid | Apr 08 |
+| ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784c366bb95ba554cd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Wichita, KS | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d67847cfdc6132f946a190?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Clayton, MO | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - Madison, WI, Junction Rd | Hybrid | Apr 08 |
 | ↳ | **[Content Editing Associate – Editorial Assistant (part-time)](https://jobright.ai/jobs/info/69d6784148f0c8161d2f7fbd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA - St Cloud, MN | Hybrid | Apr 08 |
@@ -294,8 +295,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Security Officer Production Studio](https://jobright.ai/jobs/info/69d5e63f366bb95ba5549d4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-CA-Los Angeles | On Site | Apr 07 |
 | **[Corvallis School District 509J](http://cvhs.csd509j.net)** | **[Stages Theater Camp Content Coordinators 2026](https://jobright.ai/jobs/info/69d9ddbc738f2f099e8a55c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Corvallis, OR | On Site | Apr 07 |
 | **[Upway](https://upway.fr)** | **[Youtube Host - Freelance](https://jobright.ai/jobs/info/69d5c3cb706f771673ba677a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Apr 07 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Digital Production Assistant, Breaking/Trending News - PM](https://jobright.ai/jobs/info/69d5b241891d7b11cfd03acd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 07 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69d5aec2706f771673ba4d92?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ashland, KY | On Site | Apr 07 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69d5aea7e63cea7a8b662faa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverhead, NY | On Site | Apr 07 |
-| **[Goldmark Property Management](http://goldmark.com)** | **[Groundskeeper - Kentwood Manor, Fargo](https://jobright.ai/jobs/info/69d5a783706f771673ba4a2a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fargo, ND, USA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
