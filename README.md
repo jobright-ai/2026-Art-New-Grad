@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Junior Effects Technical Director (Project Hire) - ILM San Francisco](https://jobright.ai/jobs/info/69dfda0d14bf245fc7a6e2ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA, USA | Hybrid | Apr 15 |
+| **[SuperOrdinary](https://superordinary.co)** | **[Livestream Operator (TikTok Shop)](https://jobright.ai/jobs/info/69dfd801433ac8430e0e28c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 15 |
 | **[HomeCloud](https://www.gethomecloud.com)** | **[Home Evaluation Field Specialist](https://jobright.ai/jobs/info/69dfc9cf433ac8430e0e232f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta Metro | On Site | Apr 15 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/69dfb9f8aba61f141731cf86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | On Site | Apr 15 |
@@ -174,6 +176,7 @@ For a complete list, click the following sortable link below:
 | **[East View Information Services](http://eastview.com)** | **[Production Associate - 1st Shift](https://jobright.ai/jobs/info/69dd57ffbc6f6622c9911b8a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Plain, MN | On Site | Apr 12 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - Night Shift - Days Off: Monday, Tuesday, and Wednesday](https://jobright.ai/jobs/info/69dc3542b67cec4f9b0b0334?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Apr 12 |
 | **[Notebook Agency](https://notebook.agency/)** | **[Content Operator](https://jobright.ai/jobs/info/69dbe1ed869c7e25d85a85eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Toronto Area, Canada | Remote | Apr 12 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77bb2267b154f9a2da5c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Apr 12 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Color Coordinator - Pottery Barn](https://jobright.ai/jobs/info/69beca4cb1060245628438d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, CA | On Site | Apr 12 |
 | **[North Carolina State University](http://www.ncsu.edu)** | **[Temporary Event Technician Pool, University Theatre, Backstage & Front of House](https://jobright.ai/jobs/info/68f8da3f6de2db04dc3e23df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | Apr 12 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support](https://jobright.ai/jobs/info/69d0219ecdb525785fba7979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portland, OR | On Site | Apr 12 |
@@ -290,5 +293,4 @@ For a complete list, click the following sortable link below:
 | **[Detail Dawgs](https://detaildawgs.com/)** | **[Automotive Detailer](https://jobright.ai/jobs/info/69d8d1065356a60f40fd676c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Watkinsville, GA | On Site | Apr 09 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69a09c8c81476f6176baeda7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Apr 09 |
 | **[Curated](http://powerhousevfx.com/)** | **[VFX Production Coordinator (General Submission)](https://jobright.ai/jobs/info/699cf48dce78e77b4fe1ae46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Apr 08 |
-| **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Americana)](https://jobright.ai/jobs/info/69d707f748f0c8161d2fc654?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA - Los Angeles HQ | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
