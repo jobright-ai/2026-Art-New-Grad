@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Video & Amazon MGM Studios](http://primevideo.com)** | **[Production Coordinator, Amazon MGM Studios Creative Marketing, A/V Production](https://jobright.ai/jobs/info/69c34365097a024c43d9481b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Apr 15 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69df83515913ad3398144554?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL | On Site | Apr 15 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Video Editor](https://jobright.ai/jobs/info/69c31ce0ec22f8310ab142e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fresno, CA | On Site | Apr 15 |
 | **[Welo Data](https://t.mtrbio.com/WeloData)** | **[Alpha Telescopii - Entertainment Media Content Reviewer (Remote in the United States)](https://jobright.ai/jobs/info/69df797ae34484770f1a8eca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 15 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Shop Coordinator](https://jobright.ai/jobs/info/69decccb36823d1b42583e4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LOS ANGELES, California, United States | On Site | Apr 14 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69deb66a18cf504166e2f6fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Annapolis, MD | On Site | Apr 14 |
 | **[Evolution](https://www.evolution.com)** | **[In-studio Game Presenter (Customer Service) up to $23/hr. Immediate Openings](https://jobright.ai/jobs/info/69deb5d6aba61f141731750f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Apr 14 |
-| **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - Florida](https://jobright.ai/jobs/info/69a89b4279f3f4037f42a94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Florida, United States | Hybrid | Apr 14 |
-| ↳ | **[Maggie™ Court Reporter - New York, NY](https://jobright.ai/jobs/info/6940b61749a7695fbd063726?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
+| **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - New York, NY](https://jobright.ai/jobs/info/6940b61749a7695fbd063726?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
+| ↳ | **[Maggie™ Court Reporter - Florida](https://jobright.ai/jobs/info/69a89b4279f3f4037f42a94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Florida, United States | Hybrid | Apr 14 |
 | **[Carvana](http://www.carvana.com)** | **[Auto Painter - Manville, NJ](https://jobright.ai/jobs/info/69d7f1c9f4ea471a51fe2a2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manville, NJ | On Site | Apr 14 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69dea65e433ac8430e0db894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hermitage, TN | On Site | Apr 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea37a18cf504166e2ec23?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Foxborough, MA | On Site | Apr 14 |
@@ -229,6 +230,7 @@ For a complete list, click the following sortable link below:
 | **[Varsity Spirit](https://www.varsity.com/)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Apr 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Belt Coordinator](https://jobright.ai/jobs/info/699f99b081476f6176b950e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Apr 10 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, CPAs](https://jobright.ai/jobs/info/69d935a0f748bc5d08a49d15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 10 |
+| **[Moore](https://wearemoore.com/)** | **[Cutting Associate (Day Shift, $12.50/hr)](https://jobright.ai/jobs/info/69d7ded3738f2f099e898dc3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS | On Site | Apr 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/699fc97253d97f23ee654ae2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Apr 10 |
 | **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Bras)](https://jobright.ai/jobs/info/67a0803d2e58f08408f280f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Apr 10 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Producer](https://jobright.ai/jobs/info/69bfa0502c312363dcd2623b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY | On Site | Apr 10 |
@@ -281,7 +283,4 @@ For a complete list, click the following sortable link below:
 | **[QDStaff](http://qdstaff.com/)** | **[Mobile Casino Game Animator.](https://jobright.ai/jobs/info/69d6dc7b706f771673bae864?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Apr 08 |
 | **[AntiSocial](https://antisocialsolutions.com/)** | **[Studio Coordinator - Thinkingbox](https://jobright.ai/jobs/info/69d6d736cfdc6132f946d971?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Apr 08 |
 | **[Clutch](https://www.clutch.ca/)** | **[Car Detailer (Evening Shift)](https://jobright.ai/jobs/info/69d6d3e6e63cea7a8b66c81f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, ON | On Site | Apr 08 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Party and Event Host- Albany, NY](https://jobright.ai/jobs/info/69d6c64052a5bf580012bfb5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany-161 Washington Ave Ext Ste 8 | On Site | Apr 08 |
-| **[TRAX International Corporation](https://www.traxintl.com)** | **[Landscape Laborer ***job located in Norman**](https://jobright.ai/jobs/info/69da96f49f97a42dc9c2ae66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Noble, OK, US | On Site | Apr 08 |
-| **[Deluxe](http://www.deluxe.com)** | **[Press Helper-2nd Shift $1000 Sign On Bonus](https://jobright.ai/jobs/info/69d6c18b366bb95ba554fb65?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Townsend, MA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
