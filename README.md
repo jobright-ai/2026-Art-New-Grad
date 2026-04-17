@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelson Elder Care Law, LLC](https://nelsoneldercarelaw.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf43c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marietta, GA | On Site | Apr 17 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69cadd13a8c1822476e21162?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Apr 17 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69e2968c3ce36005badbec29?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Apr 17 |
 | **[Northern Lights](http://nledit.com)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/69e29650be46fa3a4ef57d76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 17 |
 | **[VML HEALTH](http://vml.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/69e294a95c44d4710fe25c4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Hybrid | Apr 17 |
-| **[RRD](https://www.rrd.com/)** | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
-| ↳ | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| **[RRD](https://www.rrd.com/)** | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
 | ↳ | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69e28ded3ce36005badbea69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 17 |
 | **[Staples Canada](http://www.staples.ca)** | **[Evening Embroidery Multihead Operator - Staples Promotional Products](https://jobright.ai/jobs/info/69e282c03770bd5361cd8c6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 17 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e280313ce36005badbe6cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ardmore, OK | On Site | Apr 17 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[CAMP](https://camp.com/)** | **[Guest Experience Host (Actors/Performers)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL (Aventura) | On Site | Apr 16 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/69e1bb7f6c20aa1149542acd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA FL MacDill AFB | On Site | Apr 16 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Edit](https://jobright.ai/jobs/info/69a2af2e0da45516f16c140e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Apr 16 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69e2b6b3fcfcbd43860a4327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC, US | On Site | Apr 16 |
 | **[Daily Mail US](http://www.dailymail.com)** | **[Content Creator (On-Camera Talent)](https://jobright.ai/jobs/info/69c3b888753c101b21579a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Apr 16 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69e18ee0fd1c0456f3faec32?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Apr 16 |
 | **[Snowshoe Mountain](http://www.snowshoemountain.com/jobs)** | **[Outdoor Adventure Guide](https://jobright.ai/jobs/info/69e1ae0bacc736112f5c4d93?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Snowshoe, WV | On Site | Apr 16 |
@@ -169,9 +171,9 @@ For a complete list, click the following sortable link below:
 | **[HomeCloud](https://www.gethomecloud.com)** | **[Home Evaluation Field Specialist](https://jobright.ai/jobs/info/69dfc9cf433ac8430e0e232f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta Metro | On Site | Apr 15 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/69dfb9f8aba61f141731cf86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | On Site | Apr 15 |
@@ -203,7 +205,8 @@ For a complete list, click the following sortable link below:
 | **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - New York, NY](https://jobright.ai/jobs/info/6940b61749a7695fbd063726?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
 | ↳ | **[Maggie™ Court Reporter - Florida](https://jobright.ai/jobs/info/69a89b4279f3f4037f42a94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Florida, United States | Hybrid | Apr 14 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69dea65e433ac8430e0db894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hermitage, TN | On Site | Apr 14 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea37a18cf504166e2ec23?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Foxborough, MA | On Site | Apr 14 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[Freelance Production Assistant](https://jobright.ai/jobs/info/694fde1fa2668b7f5452f9b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Apr 14 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69dea37a18cf504166e2ec23?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Foxborough, MA | On Site | Apr 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea35b36823d1b42582b4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | Apr 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea35318cf504166e2ebea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troy, MI | On Site | Apr 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea2b8aba61f1417316a4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Youngstown, OH | On Site | Apr 14 |
