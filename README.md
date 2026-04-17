@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[party & Event Host/service team member](https://jobright.ai/jobs/info/69e1cf3ffd1c0456f3fb024a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ventura-4850 Telephone Rd | On Site | Apr 16 |
 | **[AntiSocial](https://antisocialsolutions.com/)** | **[Studio Coordinator - Thinkingbox](https://jobright.ai/jobs/info/69e1c6e6d612782e6114a5c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, BC | On Site | Apr 16 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c4501e33eecf3107948811?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Apr 16 |
 | **[CAMP](https://camp.com/)** | **[Guest Experience Host (Actors/Performers)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL (Aventura) | On Site | Apr 16 |
@@ -132,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/69dfb9f8aba61f141731cf86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | On Site | Apr 15 |
@@ -164,7 +165,6 @@ For a complete list, click the following sortable link below:
 | **[Evolution](https://www.evolution.com)** | **[In-studio Game Presenter (Customer Service) up to $23/hr. Immediate Openings](https://jobright.ai/jobs/info/69deb5d6aba61f141731750f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Apr 14 |
 | **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - Florida](https://jobright.ai/jobs/info/69a89b4279f3f4037f42a94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Florida, United States | Hybrid | Apr 14 |
 | ↳ | **[Maggie™ Court Reporter - New York, NY](https://jobright.ai/jobs/info/6940b61749a7695fbd063726?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Apr 14 |
-| **[Carvana](http://www.carvana.com)** | **[Auto Painter - Manville, NJ](https://jobright.ai/jobs/info/69d7f1c9f4ea471a51fe2a2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manville, NJ | On Site | Apr 14 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69dea65e433ac8430e0db894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hermitage, TN | On Site | Apr 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea37a18cf504166e2ec23?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Foxborough, MA | On Site | Apr 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69dea35b36823d1b42582b4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | Apr 14 |
@@ -296,7 +296,4 @@ For a complete list, click the following sortable link below:
 | **[Longo's](https://www.longos.com/)** | **[Meat Cutter (Butcher) - Part Time](https://jobright.ai/jobs/info/69d93d65869c7e25d85999e8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aurora Store, Aurora | On Site | Apr 10 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69c34bff94007a2195df9d59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Accord, NY | On Site | Apr 10 |
 | **[Larry Green Chevrolet](www.larrygreenchevrolet.com)** | **[New/Used Detailer](https://jobright.ai/jobs/info/69d912685356a60f40fd78b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cottonwood, AZ | On Site | Apr 10 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Reporter / MultiMedia Journalist](https://jobright.ai/jobs/info/698d58d60f6f7e7a2ce939ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Apr 10 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Stormont Vail Events Center](https://jobright.ai/jobs/info/69a020da5218a81676710b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Topeka, KS | On Site | Apr 10 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Custom Framer - Albany, NY](https://jobright.ai/jobs/info/69d9021cf748bc5d08a4824b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany-161 Washington Ave Ext Ste 8 | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
