@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RehabMart.com](https://www.rehabmart.com/)** | **[Content Production Coordinator](https://jobright.ai/jobs/info/69e259103ce36005badbddf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Watkinsville, GA | On Site | Apr 17 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/69aacb3d7e1fab39d3826e8d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Apr 17 |
 | ↳ | **[Activities Assistant](https://jobright.ai/jobs/info/6933e8cb764507023d1ba8e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Apr 17 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Reporter](https://jobright.ai/jobs/info/69a9af5d1f59c56275e26b46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverside, CA | Hybrid | Apr 17 |
@@ -144,9 +145,9 @@ For a complete list, click the following sortable link below:
 | **[HomeCloud](https://www.gethomecloud.com)** | **[Home Evaluation Field Specialist](https://jobright.ai/jobs/info/69dfc9cf433ac8430e0e232f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta Metro | On Site | Apr 15 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/69dfb9f8aba61f141731cf86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | On Site | Apr 15 |
@@ -280,6 +281,4 @@ For a complete list, click the following sortable link below:
 | **[FirstService Residential](https://www.fsresidential.com/texas)** | **[Groundskeeper (Full-Time/ Weekends/ Lake Park, FL)](https://jobright.ai/jobs/info/69d9a47eb67cec4f9b0a3934?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riviera Beach, FL | On Site | Apr 10 |
 | **[Starling Jewelry](https://www.starlingjewelry.com/)** | **[Content & Community Coordinator](https://jobright.ai/jobs/info/69d9a41bb67cec4f9b0a37ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 10 |
 | **[Archdiocese of Baltimore](https://www.archbalt.org/)** | **[Digital Content Coordinator (EX)](https://jobright.ai/jobs/info/69d9a3b99f97a42dc9c230fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 10 |
-| **[Macy's](http://www.macysjobs.com)** | **[Retail Alterations Tailor/Seamstress, Aventura - Full Time](https://jobright.ai/jobs/info/69d997e6f748bc5d08a4c195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 19535 Biscayne Blvd, Aventura, FL, 33180, US | On Site | Apr 10 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Full Time Jewelry](https://jobright.ai/jobs/info/69d994eab67cec4f9b0a2bd3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Midvale, UT 84047 | On Site | Apr 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
