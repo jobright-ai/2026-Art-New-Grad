@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69e18ee0fd1c0456f3faec32?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Apr 16 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e17ef56c20aa1149541736?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Perrysburg, OH | On Site | Apr 16 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69e16ea96c20aa1149541296?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Apr 16 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant (2nd Shift)](https://jobright.ai/jobs/info/69e16898ff71e82d604b6d23?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Concord, NC | On Site | Apr 16 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Assistant Production Editor (Toronto Hybrid)](https://jobright.ai/jobs/info/69d548bbe63cea7a8b65fdc5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON | Hybrid | Apr 15 |
 | **[Apartment Management Consultants](http://www.liveamc.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/69d7fe35738f2f099e899955?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Henderson, NV | On Site | Apr 15 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699763bce0bddb6acac61d49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Apr 15 |
+| **[Rose Associates](http://rosenyc.com)** | **[Porter - The Lotus, New York, NY](https://jobright.ai/jobs/info/69e18596ff71e82d604b74ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | **[CarMax](http://www.carmax.com)** | **[Detailer - Overnight](https://jobright.ai/jobs/info/69cdb574cdb525785fb8dfb5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Marsh Station, MD | On Site | Apr 15 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Global Capital Markets Roadshow Coordinator](https://jobright.ai/jobs/info/69d7443ee63cea7a8b6702dd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | **[Business Wire](http://www.businesswire.com)** | **[Newsroom Editor](https://jobright.ai/jobs/info/69baf591569738374140cc76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eastern United States | Remote | Apr 15 |
@@ -120,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[HomeCloud](https://www.gethomecloud.com)** | **[Home Evaluation Field Specialist](https://jobright.ai/jobs/info/69dfc9cf433ac8430e0e232f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta Metro | On Site | Apr 15 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/69dfb9f8aba61f141731cf86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | On Site | Apr 15 |
@@ -184,7 +186,6 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Creator](https://jobright.ai/jobs/info/69c8cc40aa3c2c1995e20809?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69868aa78da7a61204615c9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Apr 13 |
 | **[CarMax](http://www.carmax.com)** | **[Cosmetic Reconditioning Associate - 3pm-12am](https://jobright.ai/jobs/info/69c59626aa3c2c1995e01b98?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sicklerville, NJ | On Site | Apr 13 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699f48eb94ef206f184e7477?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Apr 13 |
 | **[Skechers](http://www.skechers.com)** | **[Sample Coordinator - Women's Street](https://jobright.ai/jobs/info/69ddb28b8182b27d34741295?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manhattan Beach, CA | On Site | Apr 13 |
 | **[We Are Rosie](https://www.wearerosie.com/)** | **[Video Editor](https://jobright.ai/jobs/info/69ddb2078182b27d347410c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Palmetto, GA | Remote | Apr 13 |
 | **[Getty](http://www.getty.edu)** | **[Limited Term - Associate Editor](https://jobright.ai/jobs/info/69dda50e433ac8430e0d5f1f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | Apr 13 |
