@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hairstylist](https://jobright.ai/jobs/info/6776c2c593f77e8ade1fa22f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, NC | On Site | Apr 19 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c4501e33eecf3107948811?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Apr 18 |
 | **[Roche Bros. Supermarkets](https://www.rochebros.com/)** | **[Meat Cutter](https://jobright.ai/jobs/info/695e7fafa112b402660d322f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Acton | On Site | Apr 18 |
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | Apr 18 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/69caa75a8fc6090c5d44f9bd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Apr 17 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/69b497023b74eb1e2c81f637?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY (5th Avenue) | On Site | Apr 17 |
 | **[Nelson Elder Care Law, LLC](https://nelsoneldercarelaw.com/)** | **[Content Creator](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf43c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marietta, GA | On Site | Apr 17 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hairstylist](https://jobright.ai/jobs/info/6776c2c593f77e8ade1fa22f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, NC | On Site | Apr 17 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Assembler - 2nd Shift - $16.00/Hour - Temporary](https://jobright.ai/jobs/info/69e32fd82f28653593078e92?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westland, MI | On Site | Apr 17 |
 | **[Clutch](https://www.clutch.ca/)** | **[Car Detailer (Evening Shift)](https://jobright.ai/jobs/info/69d6a11048f0c8161d2f8f84?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Apr 17 |
 | **[ALO](https://www.aloyoga.com/)** | **[Production Coordinator, Accessories](https://jobright.ai/jobs/info/69e2cf4d2f28653593078548?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Commerce, California, United States | On Site | Apr 17 |
@@ -201,9 +201,9 @@ For a complete list, click the following sortable link below:
 | **[University of Maryland, Baltimore (UMB)](http://www.mprc.umaryland.edu)** | **[Writer](https://jobright.ai/jobs/info/69dfc81414bf245fc7a6dc57?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Apr 15 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
 | ↳ | **[Content Creator](https://jobright.ai/jobs/info/69dfb9f8aba61f141731cf86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-IL-Chicago | On Site | Apr 15 |
