@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Apr 19 |
+| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69c412a4d5a1016e98db1f60?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Apr 19 |
 | **[The Real Deal](http://therealdeal.com/)** | **[Content Producer - Texas or Chicago](https://jobright.ai/jobs/info/69ced7f754f00230c6d03ceb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Apr 19 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Associate Technical Producer](https://jobright.ai/jobs/info/69ad33517e1fab39d384b08a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Renton, WA | On Site | Apr 19 |
 | **[Fitch Ratings](http://www.fitchratings.com)** | **[Associate, News Associate Reporter](https://jobright.ai/jobs/info/698fac5f0f6f7e7a2cebf89d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Apr 19 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Northern Lights](http://nledit.com)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/69e29650be46fa3a4ef57d76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 17 |
 | **[VML HEALTH](http://vml.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/69e294a95c44d4710fe25c4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Hybrid | Apr 17 |
 | **[Planar Motor](https://www.planarmotor.com)** | **[Part-Time Video Creator](https://jobright.ai/jobs/info/69e2cb562f28653593078351?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, BC | On Site | Apr 17 |
-| **[RRD](https://www.rrd.com/)** | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
-| ↳ | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| **[RRD](https://www.rrd.com/)** | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
 | ↳ | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69e28ded3ce36005badbea69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 17 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/698bb8b006d9b0622495e0cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Apr 17 |
 | **[Staples Canada](http://www.staples.ca)** | **[Evening Embroidery Multihead Operator - Staples Promotional Products](https://jobright.ai/jobs/info/69e282c03770bd5361cd8c6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 17 |
@@ -278,7 +280,6 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Freelance Digital Production Assistant, Breaking/Trending News - PM](https://jobright.ai/jobs/info/69c1ecd72c312363dcd520fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d77bce267b154f9a2da694?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 14 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/699d2078e0bddb6acacc42fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Apr 14 |
-| ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69963526ce78e77b4fda2afc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Apr 14 |
 | **[State Affairs](https://stateaffairs.com/)** | **[Editorial Reporting Associate & News Aggregation](https://jobright.ai/jobs/info/69d5cb41706f771673ba6d2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | Apr 14 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/68d776e061a175619f8ce7e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Southfield, MI | On Site | Apr 14 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Content Creator](https://jobright.ai/jobs/info/69c8cc40aa3c2c1995e20809?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Apr 14 |
