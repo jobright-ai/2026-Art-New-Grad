@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter III (Colorado Standard)](https://jobright.ai/jobs/info/69e6cee8f8fa2f3ec32a3ad4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Centennial, CO | On Site | Apr 20 |
 | **[Theme Party Productions](http://www.themeparty.com)** | **[Event Production/Installation Crew](https://jobright.ai/jobs/info/69e6c732f8fa2f3ec32a394c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Menlo Park, CA | On Site | Apr 20 |
-| **[Cato Institute](http://www.cato.org/)** | **[Podcast Host & Creative Producer](https://jobright.ai/jobs/info/69e6c72b3aa0c47964395eed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Apr 20 |
 | **[Daily Mail US](http://www.dailymail.com)** | **[Content Creator (On-Camera Talent)](https://jobright.ai/jobs/info/69c3b888753c101b21579a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Apr 20 |
 | **[Michaels Stores](https://teachitpro.com)** | **[part time framer](https://jobright.ai/jobs/info/69e6b890e0cd471b2f1273c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego-1640 Camino Del Rio N, Ste 110 | On Site | Apr 20 |
 | **[KITH](https://kith.com)** | **[Assistant, Content Production](https://jobright.ai/jobs/info/69e6b37e3aa0c47964395ad1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | On Site | Apr 20 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Vicente's Supermarket](https://www.vicentessupermarket.com)** | **[Meat Packer/Wrapper (Full-Time)](https://jobright.ai/jobs/info/69e675dcf8fa2f3ec32a1f41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roxbury, MA | On Site | Apr 20 |
 | **[SPM, LLC](http://spm.net)** | **[Groundskeeper](https://jobright.ai/jobs/info/69e675973aa0c47964394381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orlando, FL, US | On Site | Apr 20 |
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[CPAC Stage Technician - PAT I - Hourly/Intermittent POOL](https://jobright.ai/jobs/info/69c952211b5ad02887398ea6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Long Beach, CA | On Site | Apr 20 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69e148366c20aa11495405c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McKinney, TX | On Site | Apr 20 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69e657f43aa0c47964393778?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maryville, TN | On Site | Apr 20 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69e657f43aa0c47964393778?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maryville, TN | On Site | Apr 20 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69e148366c20aa11495405c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McKinney, TX | On Site | Apr 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Animator](https://jobright.ai/jobs/info/6946a3067d506e3808f1ff61?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Apr 20 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hairstylist](https://jobright.ai/jobs/info/6776c2c593f77e8ade1fa22f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, NC | On Site | Apr 20 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Trim](https://jobright.ai/jobs/info/69d6ee32cfdc6132f946e1ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | On Site | Apr 20 |
@@ -171,8 +171,8 @@ For a complete list, click the following sortable link below:
 | **[Northern Lights](http://nledit.com)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/69e29650be46fa3a4ef57d76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 17 |
 | **[VML HEALTH](http://vml.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/69e294a95c44d4710fe25c4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Hybrid | Apr 17 |
 | **[Planar Motor](https://www.planarmotor.com)** | **[Part-Time Video Creator](https://jobright.ai/jobs/info/69e2cb562f28653593078351?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, BC | On Site | Apr 17 |
-| **[RRD](https://www.rrd.com/)** | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
-| ↳ | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| **[RRD](https://www.rrd.com/)** | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
 | ↳ | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69e28ded3ce36005badbea69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 17 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/698bb8b006d9b0622495e0cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Apr 17 |
 | **[Staples Canada](http://www.staples.ca)** | **[Evening Embroidery Multihead Operator - Staples Promotional Products](https://jobright.ai/jobs/info/69e282c03770bd5361cd8c6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 17 |
@@ -274,8 +274,8 @@ For a complete list, click the following sortable link below:
 | **[HomeCloud](https://www.gethomecloud.com)** | **[Home Evaluation Field Specialist](https://jobright.ai/jobs/info/69dfc9cf433ac8430e0e232f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta Metro | On Site | Apr 15 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Special Sections Editor](https://jobright.ai/jobs/info/69dfc29014bf245fc7a6d9c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walnut Creek, California | On Site | Apr 15 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Groundskeeper - Scottsdale, AZ](https://jobright.ai/jobs/info/69dfbe354920452a85dcf435?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, Arizona | On Site | Apr 15 |
-| ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Lawrence, KS](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, Kansas | On Site | Apr 15 |
+| ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe245913ad3398145719?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Irving, TX](https://jobright.ai/jobs/info/69dfbe24e34484770f1aa3c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irving, Texas | On Site | Apr 15 |
 | ↳ | **[Groundskeeper - Plano, TX - Frisco, TX](https://jobright.ai/jobs/info/69dfbe2114bf245fc7a6d908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, Texas | On Site | Apr 15 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Content Creator](https://jobright.ai/jobs/info/69dfba015913ad3398145450?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL, US | On Site | Apr 15 |
