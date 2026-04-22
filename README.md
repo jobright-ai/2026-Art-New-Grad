@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greystar](http://greystar.com)** | **[Groundskeeper - Renaissance at Santa Rosa](https://jobright.ai/jobs/info/69c918cee565c26a70033f06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mary Esther, FL | On Site | Apr 22 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Apparel Grader](https://jobright.ai/jobs/info/69af220d74950064509392f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Central Islip, NY | On Site | Apr 22 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Detailer - Full Time](https://jobright.ai/jobs/info/69cc28648130af1ac8336dd3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Loveland, CO | On Site | Apr 22 |
 | **[Daily Mail US](http://www.dailymail.com)** | **[Assistant Magazine Editor](https://jobright.ai/jobs/info/69e8a1e07820c036924e148e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London | Hybrid | Apr 22 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Porter / Groundskeeper - Ascent](https://jobright.ai/jobs/info/69ceb6b0cdb525785fb9a2c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Jose, CA | On Site | Apr 22 |
 | ↳ | **[Groundskeeper/Porter - The District](https://jobright.ai/jobs/info/69d54c2b891d7b11cfd00c02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA | On Site | Apr 22 |
 | ↳ | **[Groundskeeper/Porter - Iconic on Alvarado (Student Living)](https://jobright.ai/jobs/info/69cfbdfa891d7b11cfcd5b8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Apr 22 |
-| ↳ | **[Groundskeeper/Porter - Scotland Yard](https://jobright.ai/jobs/info/69d93fdb738f2f099e8a09d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Apr 22 |
 | **[Skydance Animation](https://skydance.com/animation/#-)** | **[Assistant to Producer and Director](https://jobright.ai/jobs/info/69e85cd70a6e095553033468?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | On Site | Apr 21 |
 | **[Skydance](https://skydance.com)** | **[Assistant to Producer and Director](https://jobright.ai/jobs/info/69e85908e0cd471b2f13508a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, Los Angeles | On Site | Apr 21 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Production Assistant, The Hill (Washington, DC)](https://jobright.ai/jobs/info/69e848c13aa0c4796439eb7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Apr 21 |
@@ -182,8 +182,8 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[party & event host](https://jobright.ai/jobs/info/69e682aff8fa2f3ec32a2467?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa-2685 Iris St | On Site | Apr 20 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e67c873aa0c47964394705?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Midland, TX | On Site | Apr 20 |
 | **[TEGNA](http://www.tegna.com)** | **[Photojournalist/Editor](https://jobright.ai/jobs/info/697138a351f7264771836f63?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane, WA | Hybrid | Apr 20 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e673dc9b6eb37e26f804c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant, IA | On Site | Apr 20 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e673dc9b6eb37e26f804c1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boonville, MO | On Site | Apr 20 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e673dc9b6eb37e26f804c1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boonville, MO | On Site | Apr 20 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69e673dc9b6eb37e26f804c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant, IA | On Site | Apr 20 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Studio Associate](https://jobright.ai/jobs/info/69e66f12f8fa2f3ec32a1ce8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Plains, NY | On Site | Apr 20 |
 | **[Space Dynamics Laboratory](https://www.sdl.usu.edu)** | **[Videographer](https://jobright.ai/jobs/info/69e813787820c036924da0c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Logan, UT, US | On Site | Apr 20 |
 | **[FWI (FedWriters, Inc.)](https://www.fedwriters.com)** | **[Technical Editor/Writer I](https://jobright.ai/jobs/info/69e66d7fe0cd471b2f125a03?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
@@ -230,7 +230,6 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Cedar Rapids Photo Studio](https://jobright.ai/jobs/info/69c57ce4aa3c2c1995dffa25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Rapids, IA | On Site | Apr 19 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party Host/ Event coorddinator](https://jobright.ai/jobs/info/69e4e9b2f8fa2f3ec329e34f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Webster-913 Holt Rd, Ste 110 | On Site | Apr 19 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/69b46d433b74eb1e2c81b3fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Romeoville, IL | On Site | Apr 19 |
-| **[Greystar](http://greystar.com)** | **[Groundskeeper - Renaissance at Santa Rosa](https://jobright.ai/jobs/info/69c918cee565c26a70033f06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mary Esther, FL | On Site | Apr 19 |
 | **[Sleep Number Corporation](http://sleepnumber.com)** | **[Production Associate](https://jobright.ai/jobs/info/698f72830cc8ea15f1d9fbd5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irmo, SC | On Site | Apr 19 |
 | ↳ | **[Production Associate](https://jobright.ai/jobs/info/698f680a6ea51a7610f1ba96?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irmo, SC | On Site | Apr 19 |
 | **[60 MINUTES](https://www.60-minutes.de)** | **[Freelance Production Assistant](https://jobright.ai/jobs/info/69e877454b0fa35a707668e8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Apr 18 |
@@ -273,8 +272,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69e2968c3ce36005badbec29?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Apr 17 |
 | **[Northern Lights](http://nledit.com)** | **[Assistant Video Editor](https://jobright.ai/jobs/info/69e29650be46fa3a4ef57d76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 17 |
 | **[VML HEALTH](http://vml.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/69e294a95c44d4710fe25c4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Hybrid | Apr 17 |
-| **[RRD](https://www.rrd.com/)** | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
-| ↳ | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| **[RRD](https://www.rrd.com/)** | **[Digital Print Press Assistant (12 hour 1st shift)](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
+| ↳ | **[Press Assistant 3 1st shift](https://jobright.ai/jobs/info/69e28e3cbe46fa3a4ef57b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cudahy, WI | On Site | Apr 17 |
 | ↳ | **[Press Assistant 1st and 3rd Shift](https://jobright.ai/jobs/info/69e28ded3ce36005badbea69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | Apr 17 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/698bb8b006d9b0622495e0cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Apr 17 |
 | **[Staples Canada](http://www.staples.ca)** | **[Evening Embroidery Multihead Operator - Staples Promotional Products](https://jobright.ai/jobs/info/69e282c03770bd5361cd8c6f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orange City, IA, United States | On Site | Apr 17 |
@@ -362,5 +361,4 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Global Capital Markets Roadshow Coordinator](https://jobright.ai/jobs/info/69d7443ee63cea7a8b6702dd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 15 |
 | **[Business Wire](http://www.businesswire.com)** | **[Newsroom Editor](https://jobright.ai/jobs/info/69baf591569738374140cc76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eastern United States | Remote | Apr 15 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69d41487891d7b11cfcf713b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ | On Site | Apr 15 |
-| **[Leo Chicago](https://leo-constellation.com)** | **[Content Creator](https://jobright.ai/jobs/info/69e009ab433ac8430e0e4054?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
