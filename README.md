@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Automotive Detailer / Lot Attendant   Entry Level (2nd Shift)](https://jobright.ai/jobs/info/699e1842e0bddb6acacd77f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesterfield, VA | On Site | Apr 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Digital Production Assistant, Breaking/Trending News - PM](https://jobright.ai/jobs/info/69d5b241891d7b11cfd03acd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 29 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Production Assistant - 2nd or 3rd Shift](https://jobright.ai/jobs/info/69f1ddbc8d8d624381a9e63c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Asheboro, NC | On Site | Apr 29 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Video Editor](https://jobright.ai/jobs/info/69d56042cfdc6132f9461b91?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Apr 29 |
@@ -202,9 +203,9 @@ For a complete list, click the following sortable link below:
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News Assistant - perdiem position](https://jobright.ai/jobs/info/697bd4e11136d179eeef6041?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 26 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Booker/Researcher, The Evening Edit](https://jobright.ai/jobs/info/6997d44ae0bddb6acac6a02c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Apr 26 |
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Nampa Civic Center](https://jobright.ai/jobs/info/69efc6e858811370cb148916?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-ID-Nampa | On Site | Apr 26 |
-| ↳ | **[Event Coordinator / Full-Time / Nampa Civic Center](https://jobright.ai/jobs/info/69efc721e624fe645d533712?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 83651 | On Site | Apr 26 |
-| ↳ | **[Event Coordinator / Full-Time / Nampa Civic Center](https://jobright.ai/jobs/info/69efc6e716b2612c2a12baf5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa Civic Center | On Site | Apr 26 |
 | ↳ | **[Event Coordinator / Full-Time / Nampa Civic Center](https://jobright.ai/jobs/info/69efc71c4b0fa35a7078bc47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 311 3rd St. S | On Site | Apr 26 |
+| ↳ | **[Event Coordinator / Full-Time / Nampa Civic Center](https://jobright.ai/jobs/info/69efc6e716b2612c2a12baf5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa Civic Center | On Site | Apr 26 |
+| ↳ | **[Event Coordinator / Full-Time / Nampa Civic Center](https://jobright.ai/jobs/info/69efc721e624fe645d533712?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 83651 | On Site | Apr 26 |
 | **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Utility III - 3rd Shift](https://jobright.ai/jobs/info/69b525c13b74eb1e2c82c6de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Apr 26 |
 | **[Bonneville International](http://bonneville.com/)** | **[KTAR Multimedia News Producer](https://jobright.ai/jobs/info/69ee089458811370cb143151?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Apr 26 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Show Host - $20.00/hr](https://jobright.ai/jobs/info/69ee089458811370cb143152?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Clarita, CA | On Site | Apr 26 |
@@ -373,7 +374,4 @@ For a complete list, click the following sortable link below:
 | **[Notre Dame Hospitality](https://hospitality.nd.edu/)** | **[Temporary / Event Captain](https://jobright.ai/jobs/info/69e982fa7820c036924e8d5c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Notre Dame, IN | On Site | Apr 22 |
 | **[Off The Wall Media & Entertainment LLC](http://www.offthewall.world)** | **[Live Host](https://jobright.ai/jobs/info/69e986a64b0fa35a7076f3fa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | Hybrid | Apr 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Party Host](https://jobright.ai/jobs/info/69e95c2358811370cb12ce15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Livermore-1122 E Stanley Blvd, Ste B, US | On Site | Apr 22 |
-| **[Brigham Young University](http://www.byu.edu)** | **[Network Production Coordinator](https://jobright.ai/jobs/info/69e95057e0cd471b2f13c97f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Provo, UT | On Site | Apr 22 |
-| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/69e7b85a0a6e09555302bed8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canton, NC | On Site | Apr 22 |
-| **[Steele Auto Group](https://steeleauto.com/)** | **[Detailer](https://jobright.ai/jobs/info/69e9be3ee0cd471b2f13f1a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dartmouth, Nova Scotia, Canada | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
