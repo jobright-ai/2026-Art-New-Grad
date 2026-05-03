@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69f75d9081706a5bd216beed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | May 03 |
 | **[Discovery Cube, Southern California](https://oc.discoverycube.org/)** | **[Seasonal Museum Demonstrator](https://jobright.ai/jobs/info/69e6f9317820c036924d2dd4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sylmar, California, United States | On Site | May 02 |
 | **[CAMP](https://camp.com/)** | **[Guest Experience Host (Actors/Performers)](https://jobright.ai/jobs/info/69cc4c8fcdb525785fb7ab25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL (Aventura) | On Site | May 02 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69f6a4600b36ff0354756103?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | May 02 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Infinity Motorcycles](http://www.infinitymotorcycles.com)** | **[Digital Content Creator](https://jobright.ai/jobs/info/69f4a3d681706a5bd2161e6e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Camberley, England, United Kingdom | On Site | May 01 |
 | **[Koozie Group](https://www.kooziegroup.com )** | **[Temporary Seasonal - Production Associate](https://jobright.ai/jobs/info/69f7238481706a5bd216addc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sleepy Eye, Minnesota | On Site | May 01 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f456a86942c746fa69769c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hubbard, OH | On Site | May 01 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f45696343eef4fb0aa0933?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beach, ND | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f456961f90bd6ae23d44ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Snowville, UT | On Site | May 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f45696343eef4fb0aa0933?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beach, ND | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f45694343eef4fb0aa0931?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f4563d58b23a2329daa3c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington Court House, OH | On Site | May 01 |
@@ -239,8 +240,8 @@ For a complete list, click the following sortable link below:
 | **[Curated](http://powerhousevfx.com/)** | **[FX Artist (General Submission)](https://jobright.ai/jobs/info/69ade5e22747003c3d5329c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 | ↳ | **[VFX Production Coordinator (General Submission)](https://jobright.ai/jobs/info/699cf48dce78e77b4fe1ae46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 | ↳ | **[VFX Coordinator (General Submission)](https://jobright.ai/jobs/info/699cf47d81476f6176b580d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Apr 29 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - $17.00/Hour](https://jobright.ai/jobs/info/69f25c378d8d624381aa0797?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lexington, KY | On Site | Apr 29 |
-| ↳ | **[Production Associate - Console Operator](https://jobright.ai/jobs/info/69f25c2b8d8d624381aa0784?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Romeoville, IL | On Site | Apr 29 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Console Operator](https://jobright.ai/jobs/info/69f25c2b8d8d624381aa0784?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Romeoville, IL | On Site | Apr 29 |
+| ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - $17.00/Hour](https://jobright.ai/jobs/info/69f25c378d8d624381aa0797?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lexington, KY | On Site | Apr 29 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/69b85b503b74eb1e2c86101e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL | On Site | Apr 29 |
 | **[NoGood](https://nogood.io)** | **[Associate Social Video Creator](https://jobright.ai/jobs/info/69ed997f0a6e0955530502c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Digital Production Assistant, Breaking/Trending News - PM](https://jobright.ai/jobs/info/69d5b241891d7b11cfd03acd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 29 |
@@ -367,5 +368,4 @@ For a complete list, click the following sortable link below:
 | **[Genesee Country Village & Museum](http://www.gcv.org/)** | **[Temporary Special Event Assistant](https://jobright.ai/jobs/info/69f1b9bdecbc8c2f73207e42?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mumford, NY | On Site | Apr 26 |
 | **[Richmond Vona, LLC](http://www.richmondvona.com)** | **[Video Content Producer](https://jobright.ai/jobs/info/69eed7f2dc35f7132c4bb6a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | Apr 26 |
 | **[SuperOrdinary](https://superordinary.co)** | **[Live Creative Host (TikTok](https://jobright.ai/jobs/info/69eeb39816b2612c2a1274b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | Remote | Apr 26 |
-| **[Vox Media](https://corp.voxmedia.com)** | **[Future Perfect Fellow](https://jobright.ai/jobs/info/69e914680a6e095553038b2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY or Washington, DC | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
