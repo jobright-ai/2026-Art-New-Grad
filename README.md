@@ -138,11 +138,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae66d18b94b2515bdd6c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Temple, TX | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae7a0e156000841154a7c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Park, TX | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae83ad21cf86d1e3cdf8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, AL | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae79fe156000841154a77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | May 04 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae67d18b94b2515bdd6ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oceanside, CA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae836d21cf86d1e3cdf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff, AZ | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69faf07086d5cd46527d10fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae67d18b94b2515bdd6ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oceanside, CA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69f51da212f2811ab5a6303d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salina, KS | On Site | May 04 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Entertainment Coordinator](https://jobright.ai/jobs/info/69f8e81d0b36ff035475b730?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kissimmee, FL | On Site | May 04 |
 | **[VIZ Media](http://www.viz.com)** | **[Editorial Production Coordinator](https://jobright.ai/jobs/info/69f8e5ee582f810f9c8ce9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, California, United States | Hybrid | May 04 |
@@ -181,8 +181,8 @@ For a complete list, click the following sortable link below:
 | **[Vox Media](https://corp.voxmedia.com)** | **[Podcast Social Media Producer](https://jobright.ai/jobs/info/69cafc9fe565c26a70043561?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | May 03 |
 | **[Productive Playhouse](https://productiveplayhouse.com/)** | **[Javanese Transcribers](https://jobright.ai/jobs/info/69f93c2b81706a5bd21711b0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cook County, IL | On Site | May 03 |
 | ↳ | **[Javanese Transcribers](https://jobright.ai/jobs/info/69f93dc5db88714bcdfbe594?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Queens, NY | On Site | May 03 |
-| **[BJAK](https://bjak.com)** | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69f841730b36ff03547593df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 03 |
-| ↳ | **[Script and Contentwriter - UK](https://jobright.ai/jobs/info/69f863a881706a5bd216d30e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 03 |
+| **[BJAK](https://bjak.com)** | **[Script and Contentwriter - UK](https://jobright.ai/jobs/info/69f863a881706a5bd216d30e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 03 |
+| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69f841730b36ff03547593df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 03 |
 | ↳ | **[Videographer - UK](https://jobright.ai/jobs/info/69fa1f9ddb88714bcdfc141d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 03 |
 | **[Artsy](http://artsy.net)** | **[Associate, Photographs Artnet Auctions](https://jobright.ai/jobs/info/69f8bdeedb88714bcdfbb62b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | May 03 |
 | **[San Francisco State University](http://sfsu.edu)** | **[Staff Accompanist Pool - (Accompanist II) - School of Theatre and Dance](https://jobright.ai/jobs/info/670f25a60b00d59b34c4f202?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | May 03 |
@@ -276,8 +276,8 @@ For a complete list, click the following sortable link below:
 | **[Koozie Group](https://www.kooziegroup.com )** | **[Temporary Seasonal - Production Associate](https://jobright.ai/jobs/info/69f78339b1fc847fc1ae6448?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sleepy Eye, MN | On Site | May 01 |
 | ↳ | **[Temporary Seasonal - Production Associate](https://jobright.ai/jobs/info/69f7238481706a5bd216addc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sleepy Eye, Minnesota | On Site | May 01 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f456a86942c746fa69769c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hubbard, OH | On Site | May 01 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f45696343eef4fb0aa0933?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beach, ND | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f456961f90bd6ae23d44ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Snowville, UT | On Site | May 01 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f45696343eef4fb0aa0933?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beach, ND | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f456951f90bd6ae23d44c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f45694343eef4fb0aa0931?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | May 01 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/69f4563d58b23a2329daa3c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington Court House, OH | On Site | May 01 |
@@ -346,8 +346,4 @@ For a complete list, click the following sortable link below:
 | **[LJ Global Horizon](https://www.linkedin.com/company/108269641)** | **[Dutch-Speaking Live Host – Live & Work in Madrid](https://jobright.ai/jobs/info/69f29a3aecbc8c2f7320b92c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London, United Kingdom | On Site | Apr 29 |
 | **[BuzzFeed](https://www.buzzfeed.com)** | **[Camera Operator (Project-Based)](https://jobright.ai/jobs/info/69f297878feca91f14925d76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Apr 29 |
 | **[Carvana](http://www.carvana.com)** | **[Auto Body Painter](https://jobright.ai/jobs/info/69f28988ecbc8c2f7320b080?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Apr 29 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Legal Content Editor](https://jobright.ai/jobs/info/69f2796a8d8d624381aa107c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | Hybrid | Apr 29 |
-| ↳ | **[Legal Content Editor](https://jobright.ai/jobs/info/69f279688d8d624381aa1079?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, TX | Hybrid | Apr 29 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/69f277e9825a315d7ca3cb4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis–Saint Paul, WI | On Site | Apr 29 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Legal Content Editor](https://jobright.ai/jobs/info/69f292efab4ec4779fff9d0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
