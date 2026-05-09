@@ -74,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Eataly](http://www.eataly.com/)** | **[Cheesemonger/Salumi and Formaggi Artisan - Full Time](https://jobright.ai/jobs/info/69fe6f737714cd50b9101202?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | May 08 |
 | **[IKO North America](https://www.iko.com)** | **[Content Creator – Video Producer](https://jobright.ai/jobs/info/69feb2f21161630dd3b01c53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brampton, ON, CA | On Site | May 08 |
 | **[UNITED COLLECTIVE](https://www.unitedcollective.com)** | **[Jr Social Content Creator](https://jobright.ai/jobs/info/69fe4b3cf363bc4dc339dc60?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huntington Beach Pier, Huntington Beach, CA 92648, USA | On Site | May 08 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fe4b0c6bcf315dc8f56a6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 2020 Cerrillos Road | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[TikTok Content Creator](https://jobright.ai/jobs/info/69fe488c7714cd50b9100006?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA, US | On Site | May 08 |
 | ↳ | **[Beverage & Entertainment Assistant - Summer 2026 Seasonal - Part Time](https://jobright.ai/jobs/info/69fe48744b9bbf21744b046b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Steamboat Springs, CO, US | On Site | May 08 |
 | ↳ | **[Independent Residential Vacancy Reporter](https://jobright.ai/jobs/info/69fe481aad691a11f34eccb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dawsonville, GA, US | On Site | May 08 |
@@ -175,8 +174,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
+| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | **[RamClean Commercial Cleaning & Janitorial Services](https://ramclean.com)** | **[Video & Social Content Creator](https://jobright.ai/jobs/info/69fb823938179b6f1ae78ea3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | Remote | May 06 |
 | **[Brigham Young University](http://www.byu.edu)** | **[Coordinator - The Daily Universe](https://jobright.ai/jobs/info/69fb9dc286d5cd46527d74ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Utah County, UT | On Site | May 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter III](https://jobright.ai/jobs/info/69fb794518b94b2515be2b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
@@ -282,11 +281,11 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69faed10e156000841154dc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ruston, LA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae66d18b94b2515bdd6c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Temple, TX | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae83ad21cf86d1e3cdf8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, AL | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae79fe156000841154a77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | May 04 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae67d18b94b2515bdd6ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oceanside, CA | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae836d21cf86d1e3cdf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff, AZ | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69faf07086d5cd46527d10fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | May 04 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae836d21cf86d1e3cdf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff, AZ | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69f51da212f2811ab5a6303d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salina, KS | On Site | May 04 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Assistant](https://jobright.ai/jobs/info/69fad98f18b94b2515bdc8ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 04 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Entertainment Coordinator](https://jobright.ai/jobs/info/69f8e81d0b36ff035475b730?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kissimmee, FL | On Site | May 04 |
