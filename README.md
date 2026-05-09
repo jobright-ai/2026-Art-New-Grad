@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Café Staff](https://jobright.ai/jobs/info/69fe82a87714cd50b910176e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fayetteville, AR, US | On Site | May 08 |
+| ↳ | **[Representative, Museum Guide](https://jobright.ai/jobs/info/69fe8292f363bc4dc339f1be?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Savannah, GA, US | On Site | May 08 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/69fe7d0fad691a11f34edf6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA (Hayes Valley) | On Site | May 08 |
 | **[Eataly](http://www.eataly.com/)** | **[Cheesemonger/Salumi and Formaggi Artisan - Full Time](https://jobright.ai/jobs/info/69fe6f737714cd50b9101202?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | May 08 |
 | **[UNITED COLLECTIVE](https://www.unitedcollective.com)** | **[Jr Social Content Creator](https://jobright.ai/jobs/info/69fe4b3cf363bc4dc339dc60?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huntington Beach Pier, Huntington Beach, CA 92648, USA | On Site | May 08 |
@@ -152,8 +154,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anchor Production Assistant, MS NOW 9AM](https://jobright.ai/jobs/info/69fb998a86d5cd46527d6f1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
 | ↳ | **[Anchor Production Assistant, MS NOW 11PM](https://jobright.ai/jobs/info/69fb9986ffa73664aeb00eb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
 | ↳ | **[Anchor Production Assistant, MS NOW The Weeknight](https://jobright.ai/jobs/info/69fb9983ffa73664aeb00e95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 400 North Capitol Street NW, Washington, District of Columbia | Hybrid | May 06 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
-| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
+| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
@@ -268,9 +270,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae83ad21cf86d1e3cdf8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, AL | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae79fe156000841154a77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae836d21cf86d1e3cdf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff, AZ | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69faf07086d5cd46527d10fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae67d18b94b2515bdd6ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oceanside, CA | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae836d21cf86d1e3cdf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff, AZ | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69f51da212f2811ab5a6303d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salina, KS | On Site | May 04 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Assistant](https://jobright.ai/jobs/info/69fad98f18b94b2515bdc8ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 04 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Entertainment Coordinator](https://jobright.ai/jobs/info/69f8e81d0b36ff035475b730?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kissimmee, FL | On Site | May 04 |
@@ -331,5 +333,4 @@ For a complete list, click the following sortable link below:
 | **[dentsu](https://www.dentsu.com)** | **[Content Creator, TikTok, Social](https://jobright.ai/jobs/info/69f2ea10ab4ec4779fffda53?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Georgia, United States | Hybrid | May 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Assistant Editor - Watch Team](https://jobright.ai/jobs/info/69f6031e582f810f9c8c7def?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bristol, CT | On Site | May 02 |
 | **[ESPN](http://espncareers.com)** | **[Assistant Editor - Watch Team](https://jobright.ai/jobs/info/69f5fb28b1fc847fc1ae2633?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bristol, CT | On Site | May 02 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, CPAs](https://jobright.ai/jobs/info/69d8e8a4b67cec4f9b09f239?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
