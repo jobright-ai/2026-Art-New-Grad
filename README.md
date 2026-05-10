@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Andrew Wommack Ministries, Inc.](http://www.awmi.net/)** | **[GTN Media Editor I](https://jobright.ai/jobs/info/6a00b6ec74b5407dd4679ceb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charis Bible College Colorado - Woodland Park, CO 80863 | On Site | May 10 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, CPAs](https://jobright.ai/jobs/info/69d935a0f748bc5d08a49d15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 10 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fbf69b3160b250eb1bac06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Vernon, IL | On Site | May 09 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae79fe156000841154a77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Party and host events](https://jobright.ai/jobs/info/69ff9801c2ffb31f4535fa2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Everett, WA, US | On Site | May 09 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party and host events](https://jobright.ai/jobs/info/69ff79d7c2ffb31f4535f076?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Everett-17 Mystic View Rd, US | On Site | May 09 |
 | **[California State University - East Bay](https://www.csueastbay.edu)** | **[Performing Arts Technician Pool (Hourly)](https://jobright.ai/jobs/info/6901862ad5259a1b3cff5cf5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hayward, CA | On Site | May 09 |
@@ -298,7 +299,6 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69faed10e156000841154dc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ruston, LA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae66d18b94b2515bdd6c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Temple, TX | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae83ad21cf86d1e3cdf8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, AL | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae79fe156000841154a77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69faf07086d5cd46527d10fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | May 04 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae67d18b94b2515bdd6ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oceanside, CA | On Site | May 04 |
