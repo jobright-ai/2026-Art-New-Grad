@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Production Assistant, Homepage & Social Media](https://jobright.ai/jobs/info/6a020a10c2ffb31f45369559?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, USA, US | On Site | May 11 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/6a01f40fc4b08448a0b21ba3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wauwatosa, WI | On Site | May 11 |
 | **[Joybyte](https://www.joybyte.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/6a01ce61238f143e8352e22c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, AZ 85251, USA | Remote | May 11 |
 | **[Console](https://www.console.com)** | **[Studio Assistant](https://jobright.ai/jobs/info/6a01b165c2ffb31f45366a71?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Truro, Cornwall, United Kingdom | On Site | May 11 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Community Experience Guide](https://jobright.ai/jobs/info/69fd3030b113035a9f8eed8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrington, NJ, US | On Site | May 07 |
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
-| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| **[BJAK](https://bjak.com)** | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| ↳ | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
@@ -206,8 +207,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
+| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | **[RamClean Commercial Cleaning & Janitorial Services](https://ramclean.com)** | **[Video & Social Content Creator](https://jobright.ai/jobs/info/69fb823938179b6f1ae78ea3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | Remote | May 06 |
 | **[Brigham Young University](http://www.byu.edu)** | **[Coordinator - The Daily Universe](https://jobright.ai/jobs/info/69fb9dc286d5cd46527d74ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Utah County, UT | On Site | May 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter III](https://jobright.ai/jobs/info/69fb794518b94b2515be2b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
@@ -243,7 +244,6 @@ For a complete list, click the following sortable link below:
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69fb618f38179b6f1ae77e63?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 05 |
 | **[Betting Hero](http://bettinghero.com)** | **[Sports Betting Analyst](https://jobright.ai/jobs/info/69fa72500b36ff0354762889?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Calgary, Alberta, Canada | Remote | May 05 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/69fb273a87a4820e6da8577e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | May 05 |
-| **[Lucid Motors](http://lucidmotors.com)** | **[Studio Associate](https://jobright.ai/jobs/info/69fa546ddb88714bcdfc28c6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, TX | On Site | May 05 |
 | **[Sun Communities & Sun Outdoors](http://suninc.com)** | **[Golf Course Marshal - Part Time](https://jobright.ai/jobs/info/69fa51820b36ff0354761dd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ruskin, FL, US | On Site | May 05 |
 | **[Gray Media](https://graymedia.com)** | **[VIDEOJOURNALIST - WCAX](https://jobright.ai/jobs/info/69fb2b9418b94b2515be02c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Burlington, VT | On Site | May 05 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69fa4bd0582f810f9c8d5610?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1 World Trade Center, New York, NY, US | Hybrid | May 05 |
@@ -284,7 +284,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hourly Pooled - Video Production Game Day Workers, Audio & Visual Services](https://jobright.ai/jobs/info/69fc69ad938a651755f92e09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Laramie, WY, US | On Site | May 04 |
 | ↳ | **[Studio Crew, West Village](https://jobright.ai/jobs/info/69fc69aae17071257af19b3b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY, US | On Site | May 04 |
 | ↳ | **[Studio Crew, Seaport](https://jobright.ai/jobs/info/69fc69785cff890b03f2faff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA, US | On Site | May 04 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Production Department Secretary - Disney Television Animation](https://jobright.ai/jobs/info/69f94c990b36ff035475dee8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, CA, USA, US | On Site | May 04 |
-| **[Millan Enterprises, LLC.](https://millanenterprises.com)** | **[Content Creator](https://jobright.ai/jobs/info/69faee30e1560008411550f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarksville, TN | On Site | May 04 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69faed62e156000841154e7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
