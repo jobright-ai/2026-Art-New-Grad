@@ -203,8 +203,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
+| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
 | **[RamClean Commercial Cleaning & Janitorial Services](https://ramclean.com)** | **[Video & Social Content Creator](https://jobright.ai/jobs/info/69fb823938179b6f1ae78ea3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | Remote | May 06 |
 | **[Brigham Young University](http://www.byu.edu)** | **[Coordinator - The Daily Universe](https://jobright.ai/jobs/info/69fb9dc286d5cd46527d74ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Utah County, UT | On Site | May 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter III](https://jobright.ai/jobs/info/69fb794518b94b2515be2b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
@@ -305,12 +305,4 @@ For a complete list, click the following sortable link below:
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Conversion Crew Member](https://jobright.ai/jobs/info/69f90176db88714bcdfbd0d7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | May 04 |
 | **[Country Meadows Retirement Communities](https://www.countrymeadows.com/)** | **[Activities Assistant](https://jobright.ai/jobs/info/69fb5f0f87a4820e6da87999?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wyomissing, PA | On Site | May 04 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69fa3d51a3d34b4f76f64a1d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | May 04 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/69faec17d21cf86d1e3ce25f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | May 04 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69faed10e156000841154dc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ruston, LA | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae66d18b94b2515bdd6c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Temple, TX | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae83ad21cf86d1e3cdf8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, AL | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae67d18b94b2515bdd6ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oceanside, CA | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fae836d21cf86d1e3cdf87?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff, AZ | On Site | May 04 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69faf07086d5cd46527d10fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
