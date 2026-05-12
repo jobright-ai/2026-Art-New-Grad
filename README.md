@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[LOCALiQ_UK](https://localiq.co.uk/)** | **[Magazines and Web Writer](https://jobright.ai/jobs/info/6a026081df52f1450d84a80f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newport | Remote | May 11 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a0269d6fa1aa73213d9a03b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Coon Rapids, Minnesota, United States of America | On Site | May 11 |
 | **[Roswell Park Alliance Foundation](www.roswellpark.org/giving)** | **[Video Producer](https://jobright.ai/jobs/info/6a024e2bc2ffb31f4536c100?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | May 11 |
 | **[CGK Linens](http://cgklinens.com)** | **[TikTok Content Creator & Strategist](https://jobright.ai/jobs/info/6a024de13053db70a1176b05?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clearwater, FL | On Site | May 11 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Venue Experiences Specialist](https://jobright.ai/jobs/info/6a024bc6238f143e83532b2f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | May 11 |
 | **[Joybyte](https://www.joybyte.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/6a02402e238f143e83532412?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, AZ 85251, USA | Remote | May 11 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PART TIME FRAMER ASSOCIATE](https://jobright.ai/jobs/info/6a0232c5df52f1450d8486a2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Thornton, Colorado, United States of America | On Site | May 11 |
+| **[Hasbro](https://shop.hasbro.com)** | **[Associate Technical Producer](https://jobright.ai/jobs/info/69ad33517e1fab39d384b08a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Renton, WA | Hybrid | May 11 |
 | **[The Social Chair](http://thesocialchair.com)** | **[Event Coordinator](https://jobright.ai/jobs/info/6a02183b238f143e835305b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 11 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Production Assistant, Homepage & Social Media](https://jobright.ai/jobs/info/6a020a10c2ffb31f45369559?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, USA, US | On Site | May 11 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Videographer](https://jobright.ai/jobs/info/6a01f40fc4b08448a0b21ba3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wauwatosa, WI | On Site | May 11 |
@@ -154,8 +155,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Community Experience Guide](https://jobright.ai/jobs/info/69fd3030b113035a9f8eed8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrington, NJ, US | On Site | May 07 |
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
-| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| **[BJAK](https://bjak.com)** | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| ↳ | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
@@ -201,6 +202,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Golf Experience Associate](https://jobright.ai/jobs/info/69fc4c38ab1b7e27b9fa31b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY, US | On Site | May 06 |
 | ↳ | **[Golf Experience Associate](https://jobright.ai/jobs/info/69fc4b852e6c421278ddb17c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY, US | On Site | May 06 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fbf67fa5949019c55b20e3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tucson, AZ | On Site | May 06 |
+| **[Evolution](https://www.evolution.com)** | **[Casino Games Host on Camera up to $23/hr. Immediate Openings + Paid Training](https://jobright.ai/jobs/info/6a026aef238f143e83533dae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | May 06 |
 | **[Blueprint](https://bpcs.com/)** | **[Social Content Producer](https://jobright.ai/jobs/info/69fc0fb03160b250eb1bbdad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | Hybrid | May 06 |
 | **[The Ag Center](https://www.theagcenter.com)** | **[Content Creator](https://jobright.ai/jobs/info/69fbed9a3802c7621fd8ddcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madera, CA | On Site | May 06 |
 | **[Crooked Media](https://crooked.com/)** | **[Associate Video Producer](https://jobright.ai/jobs/info/69fbf0f02f9f6b7cf690ff68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | May 06 |
@@ -217,8 +219,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
+| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
 | **[RamClean Commercial Cleaning & Janitorial Services](https://ramclean.com)** | **[Video & Social Content Creator](https://jobright.ai/jobs/info/69fb823938179b6f1ae78ea3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | Remote | May 06 |
 | **[Brigham Young University](http://www.byu.edu)** | **[Coordinator - The Daily Universe](https://jobright.ai/jobs/info/69fb9dc286d5cd46527d74ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Utah County, UT | On Site | May 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter III](https://jobright.ai/jobs/info/69fb794518b94b2515be2b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
@@ -280,7 +282,4 @@ For a complete list, click the following sortable link below:
 | **[Edmunds](https://www.edmunds.com/)** | **[Editor, Vehicle Data](https://jobright.ai/jobs/info/69dd381f61f6ed54321fbbc9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 05 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Detailer- Full Time](https://jobright.ai/jobs/info/69fb8dd4ffa73664aeb00507?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | East Peoria, IL | On Site | May 05 |
 | **[Gracious Hospitality Management](https://www.cotenyc.com)** | **[Model Host](https://jobright.ai/jobs/info/6979eb11a5b9804527dfb8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, Nevada, United States | On Site | May 05 |
-| **[Inversity](https://pairnow.ai)** | **[Video Editor](https://jobright.ai/jobs/info/69f9d35a81706a5bd21723ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | London, England, United Kingdom | On Site | May 05 |
-| **[Endeavor](http://www.endeavorco.com)** | **[Comedy Touring Rotational Assistant](https://jobright.ai/jobs/info/69fafbcee1560008411557b0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 05 |
-| **[WME Group](https://www.linkedin.com/company/108107896)** | **[Comedy Touring Rotational Assistant](https://jobright.ai/jobs/info/69fafce386d5cd46527d1a05?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
