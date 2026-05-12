@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Event Coordinator](https://jobright.ai/jobs/info/6a039f61f3d6cc51d637884e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Fe, New Mexico, United States of America | On Site | May 12 |
+| ↳ | **[Custom Framer Part-Time $15.25/hr](https://jobright.ai/jobs/info/6a039f5fbc4184089f2346c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westminster, Colorado, United States of America | On Site | May 12 |
+| **[Sans](https://livesans.com)** | **[Content Creator (Part-Time)](https://jobright.ai/jobs/info/6a0395b36c07461fe1705b07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | May 12 |
+| **[Certified Collectibles Group](https://www.collectiblesgroup.com)** | **[Receiving Submission Processing Specialist – CGC Comics](https://jobright.ai/jobs/info/6a0393e6f3d6cc51d637840a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 5501 Communications Pkwy., Sarasota, FL | On Site | May 12 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a0390238ecfd93cd9c0fa9a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Redding, CA | On Site | May 12 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a038f0422395b6dc6d95e64?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Bend, WI | On Site | May 12 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a038f03f3d6cc51d6377f77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Matthews, NC | On Site | May 12 |
