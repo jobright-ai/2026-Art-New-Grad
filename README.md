@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Television Scripted - Assistant](https://jobright.ai/jobs/info/69e6b373f8fa2f3ec32a355b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 12 |
+| **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[Writer Editor](https://jobright.ai/jobs/info/6a032e1e7c753c287f6e4557?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | May 12 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Assistant Editor - Watch Team](https://jobright.ai/jobs/info/6a0338c322395b6dc6d924f1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bristol, CT | On Site | May 11 |
+| ↳ | **[Production Department Secretary - Disney Television Animation](https://jobright.ai/jobs/info/6a0338cd22395b6dc6d92518?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, CA | On Site | May 11 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69f18cb8b27fee43e8cd9983?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | May 11 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a02960c7c753c287f6df578?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bend Oregon | On Site | May 11 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a029609f3d6cc51d636f134?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Covington Louisiana | On Site | May 11 |
@@ -252,8 +256,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anchor Production Assistant, MS NOW 9AM](https://jobright.ai/jobs/info/69fb998a86d5cd46527d6f1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
 | ↳ | **[Anchor Production Assistant, MS NOW 11PM](https://jobright.ai/jobs/info/69fb9986ffa73664aeb00eb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
 | ↳ | **[Anchor Production Assistant, MS NOW The Weeknight](https://jobright.ai/jobs/info/69fb9983ffa73664aeb00e95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 400 North Capitol Street NW, Washington, District of Columbia | Hybrid | May 06 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
-| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
+| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
@@ -288,5 +292,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Blog Editorial Coordinator](https://jobright.ai/jobs/info/69fa8bb181706a5bd21763b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA (Hybrid) | Hybrid | May 05 |
 | **[Hilco Global](http://www.hilcoglobal.com)** | **[Writer/Editor](https://jobright.ai/jobs/info/69fb5836ffa73664aeafeef2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | May 05 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69fb618f38179b6f1ae77e63?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 05 |
-| **[Betting Hero](http://bettinghero.com)** | **[Sports Betting Analyst](https://jobright.ai/jobs/info/69fa72500b36ff0354762889?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Calgary, Alberta, Canada | Remote | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
