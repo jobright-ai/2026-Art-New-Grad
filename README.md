@@ -103,6 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a02960c7c753c287f6df578?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bend Oregon | On Site | May 11 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a029609f3d6cc51d636f134?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Covington Louisiana | On Site | May 11 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Cedar Rapids Photo Studio](https://jobright.ai/jobs/info/69c57ce4aa3c2c1995dffa25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Rapids, IA | On Site | May 11 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a040f97f811a043696073c1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Coon Rapids, MN | On Site | May 11 |
+| ↳ | **[Party & Event Host](https://jobright.ai/jobs/info/6a040f32bc4184089f237810?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | May 11 |
+| ↳ | **[Party & Event Host](https://jobright.ai/jobs/info/6a040f136c07461fe17092e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, OH | On Site | May 11 |
 | **[NORY, Inc.](http://www.nory.co)** | **[Studio Production & Materials Lead (Midtown Manhattan)](https://jobright.ai/jobs/info/6a02aed06c07461fe16fc8c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | May 11 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a0269d6fa1aa73213d9a03b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Coon Rapids, Minnesota, United States of America | On Site | May 11 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69faed62e156000841154e7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Framingham, MA | On Site | May 11 |
@@ -296,8 +299,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
 | **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
 | ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
+| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
 | **[RamClean Commercial Cleaning & Janitorial Services](https://ramclean.com)** | **[Video & Social Content Creator](https://jobright.ai/jobs/info/69fb823938179b6f1ae78ea3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | Remote | May 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter III](https://jobright.ai/jobs/info/69fb794518b94b2515be2b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
 | **[Brainlabs](http://www.brainlabsdigital.com/)** | **[Social Video Producer](https://jobright.ai/jobs/info/69fb91a286d5cd46527d66de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | May 06 |
@@ -307,5 +310,4 @@ For a complete list, click the following sortable link below:
 | **[Brainlabs](http://www.brainlabsdigital.com/)** | **[Social Video Producer](https://jobright.ai/jobs/info/69fb589587a4820e6da878a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 06 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69fa3ba2a3d34b4f76f649ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | May 06 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/69a6e69776bbe83d3afa3b10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | May 06 |
-| **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter I](https://jobright.ai/jobs/info/69fb6c2387a4820e6da880fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
