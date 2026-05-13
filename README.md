@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/6a04eff122395b6dc6da200a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cambridge, Ontario, Canada | On Site | May 13 |
+| **[Timpson Group](https://www.timpson.co.uk)** | **[Retail Assistant (A82)](https://jobright.ai/jobs/info/6a04eb5f22395b6dc6da1e2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stockport, United Kingdom | On Site | May 13 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Event & Party Host](https://jobright.ai/jobs/info/6a04db006c07461fe1711206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunnyvale-777 E El Camino Real, US | On Site | May 13 |
 | **[Vera Bradley](http://www.verabradley.com/)** | **[Content Creator](https://jobright.ai/jobs/info/6a04d96622395b6dc6da134e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Field Office (Remote) - Roanoke, IN, US | Remote | May 13 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Video Production Associate (Part Time)](https://jobright.ai/jobs/info/6a04d5e46c07461fe171101e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richland, WA | On Site | May 13 |
@@ -252,8 +254,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Community Experience Guide](https://jobright.ai/jobs/info/69fd3030b113035a9f8eed8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrington, NJ, US | On Site | May 07 |
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
-| **[BJAK](https://bjak.com)** | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
-| ↳ | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
+| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
+| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
