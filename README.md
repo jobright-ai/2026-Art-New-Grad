@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Historic Environment Scotland](https://www.historicenvironment.scot/)** | **[Guide (Part-Year Permanent) - Stirling Castle](https://jobright.ai/jobs/info/6a046f9422395b6dc6d9c9a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stirling Castle, Stirling, FK8 1EJ, GB | On Site | May 13 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/697c41091136d179eef01217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | May 13 |
 | **[Captivate Perspectives](https://www.dccaptivate.com)** | **[Digital Media Arts- Part Time Evenings](https://jobright.ai/jobs/info/6a044e99f3d6cc51d637d7b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC, US | On Site | May 13 |
 | **[Bored Panda](http://www.boredpanda.com/)** | **[Entertainment Writer](https://jobright.ai/jobs/info/6a044e45bc4184089f239588?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Hybrid | May 13 |
@@ -291,7 +292,4 @@ For a complete list, click the following sortable link below:
 | **[Blueprint](https://bpcs.com/)** | **[Social Content Producer](https://jobright.ai/jobs/info/69fc0fb03160b250eb1bbdad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | Hybrid | May 06 |
 | **[The Ag Center](https://www.theagcenter.com)** | **[Content Creator](https://jobright.ai/jobs/info/69fbed9a3802c7621fd8ddcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madera, CA | On Site | May 06 |
 | **[Crooked Media](https://crooked.com/)** | **[Associate Video Producer](https://jobright.ai/jobs/info/69fbf0f02f9f6b7cf690ff68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | May 06 |
-| **[EA SPORTS](http://www.EASports.com)** | **[Assistant Producer - EA SPORTS™ FC](https://jobright.ai/jobs/info/69fbdca818b94b2515be53b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 06 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Producer](https://jobright.ai/jobs/info/69fbf65da5949019c55b2059?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elmira, NY | On Site | May 06 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69fbdf45ffa73664aeb029c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hoffman Estates, IL | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
