@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seattle Seahawks](http://www.seahawks.com)** | **[Producer, Content](https://jobright.ai/jobs/info/6a03e8807c753c287f6eb1bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Renton, WA | On Site | May 12 |
 | **[Dataland](https://www.dataland.art)** | **[Dataland Museum Gallery Docent](https://jobright.ai/jobs/info/6a03e395bc4184089f2365e8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LA Metro Area | On Site | May 12 |
 | **[Daily Mail US](http://www.dailymail.com)** | **[Content Creator (On-Camera Talent)](https://jobright.ai/jobs/info/69c3b888753c101b21579a09?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | May 12 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Video Production Associate (Part Time)](https://jobright.ai/jobs/info/6a03db617c753c287f6eab93?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richland, WA | On Site | May 12 |
@@ -230,8 +231,8 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Community Experience Guide](https://jobright.ai/jobs/info/69fd3030b113035a9f8eed8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrington, NJ, US | On Site | May 07 |
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
-| **[BJAK](https://bjak.com)** | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
-| ↳ | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
+| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
+| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
@@ -306,5 +307,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter I](https://jobright.ai/jobs/info/69fb6c2387a4820e6da880fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
 | **[Envision](https://www.envisionhealth.com)** | **[FULL-TIME SCRIBE - SCOTTSDALE, AZ](https://jobright.ai/jobs/info/69fbabf3d21cf86d1e3d4d0b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, AZ | On Site | May 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital content producer](https://jobright.ai/jobs/info/69a63ef42c0d8b0f5cd04821?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, OH | On Site | May 06 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality (Pipeline)](https://jobright.ai/jobs/info/69ad20857e1fab39d3848a47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
