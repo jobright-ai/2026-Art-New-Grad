@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ministère de la Justice du Québec (MJQ)](www.quebec.ca/emplois-justice)** | **[Auxiliaire](https://jobright.ai/jobs/info/6a04899722395b6dc6d9e126?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Québec, Quebec, Canada | On Site | May 13 |
 | **[People Inc.](https://www.people.inc/)** | **[Video Creator](https://jobright.ai/jobs/info/69cc5151366bb95ba54eedce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 13 |
 | **[Historic Environment Scotland](https://www.historicenvironment.scot/)** | **[Guide (Part-Year Permanent) - Stirling Castle](https://jobright.ai/jobs/info/6a046f9422395b6dc6d9c9a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stirling Castle, Stirling, FK8 1EJ, GB | On Site | May 13 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/697c41091136d179eef01217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | May 13 |
@@ -99,6 +100,8 @@ For a complete list, click the following sortable link below:
 | **[JHS Pedals](http://www.jhspedals.com/)** | **[Video Editor + Creative PA](https://jobright.ai/jobs/info/6a03531a7c753c287f6e5c5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grandview, MO | On Site | May 12 |
 | **[Cleveland Museum of Art](https://www.clevelandart.org)** | **[Curatorial Assistant - Department of Art of the Ancient Mediterranean, Africa, and Europe to 1800, and Decorative Art](https://jobright.ai/jobs/info/6a034a4ef3d6cc51d6375445?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, OH | On Site | May 12 |
 | **[News 12](http://www.news12.com/)** | **[Studio Director - Freelance](https://jobright.ai/jobs/info/6979322b88e2b47213bd5121?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edison, NJ | On Site | May 12 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fc14882f9f6b7cf691123f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 12 |
+| **[SOLSKIN](www.solskin.com)** | **[Freelance Social Content Creator (TikTok & Instagram)](https://jobright.ai/jobs/info/6a047edbf3d6cc51d637fbe2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Surrey, England, United Kingdom | Hybrid | May 12 |
 | **[Circle K](http://www.circlek.com)** | **[CSR- Subway Sandwich Artist](https://jobright.ai/jobs/info/69cc3c1f891d7b11cfcab390?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delhi, ON | On Site | May 12 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Associate Producer - Temp (SFD / Cinematics)](https://jobright.ai/jobs/info/6a033ee722395b6dc6d92b2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irvine, CA | Hybrid | May 12 |
 | **[The Perry Group | REAL](https://theperry.group)** | **[Videographer & Content Producer](https://jobright.ai/jobs/info/6a033ebd7c753c287f6e5261?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salt Lake City, UT | Hybrid | May 12 |
@@ -161,7 +164,6 @@ For a complete list, click the following sortable link below:
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fae83ad21cf86d1e3cdf8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, AL | On Site | May 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector  - 2nd Shift](https://jobright.ai/jobs/info/69a9de959ca4e908ec6517ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | May 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Digital Video Content Associate (Spanish)](https://jobright.ai/jobs/info/6a02cd87ed6a637463f499a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bristol, CT | On Site | May 10 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fc14882f9f6b7cf691123f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 10 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Reporter, CPAs](https://jobright.ai/jobs/info/69d935a0f748bc5d08a49d15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 10 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68ca642b46caff4db51feca6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 10 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fae831d21cf86d1e3cdf74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roseville, CA | On Site | May 10 |
@@ -290,6 +292,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Golf Experience Associate](https://jobright.ai/jobs/info/69fc4b852e6c421278ddb17c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY, US | On Site | May 06 |
 | **[Evolution](https://www.evolution.com)** | **[Casino Games Host on Camera up to $23/hr. Immediate Openings + Paid Training](https://jobright.ai/jobs/info/6a026aef238f143e83533dae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | May 06 |
 | **[Blueprint](https://bpcs.com/)** | **[Social Content Producer](https://jobright.ai/jobs/info/69fc0fb03160b250eb1bbdad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | Hybrid | May 06 |
-| **[The Ag Center](https://www.theagcenter.com)** | **[Content Creator](https://jobright.ai/jobs/info/69fbed9a3802c7621fd8ddcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madera, CA | On Site | May 06 |
-| **[Crooked Media](https://crooked.com/)** | **[Associate Video Producer](https://jobright.ai/jobs/info/69fbf0f02f9f6b7cf690ff68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
