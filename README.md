@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[People Inc.](https://www.people.inc/)** | **[Video Creator](https://jobright.ai/jobs/info/69cc5151366bb95ba54eedce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 13 |
 | **[Historic Environment Scotland](https://www.historicenvironment.scot/)** | **[Guide (Part-Year Permanent) - Stirling Castle](https://jobright.ai/jobs/info/6a046f9422395b6dc6d9c9a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stirling Castle, Stirling, FK8 1EJ, GB | On Site | May 13 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/697c41091136d179eef01217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | May 13 |
 | **[Captivate Perspectives](https://www.dccaptivate.com)** | **[Digital Media Arts- Part Time Evenings](https://jobright.ai/jobs/info/6a044e99f3d6cc51d637d7b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC, US | On Site | May 13 |
@@ -238,12 +239,11 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69fd4cdf7824dc6135beeb7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 07 |
 | ↳ | **[Event Staff / Abeja Winery (Seasonal + Tips!)](https://jobright.ai/jobs/info/69fd4aa0e7252f429d40edf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walla Walla, WA, US | On Site | May 07 |
 | **[Airrack](https://www.youtube.com/c/airrack)** | **[Freelance Assistant Editor](https://jobright.ai/jobs/info/69fd34b5b113035a9f8eef07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | May 07 |
-| **[Pattern Promotions](https://www.patternpromotions.com/)** | **[Event Staff](https://jobright.ai/jobs/info/6a027a63fa1aa73213d9a6dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA, 30312, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Community Experience Guide](https://jobright.ai/jobs/info/69fd3030b113035a9f8eed8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrington, NJ, US | On Site | May 07 |
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
-| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| **[BJAK](https://bjak.com)** | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| ↳ | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
