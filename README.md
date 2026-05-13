@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/69e80b5a58811370cb1202b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | May 13 |
+| ↳ | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/69e7e214e0cd471b2f12e006?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ontario, CA | On Site | May 13 |
+| **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/69a2aca2b600907a9629130f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | May 13 |
 | **[Ministère de la Justice du Québec (MJQ)](www.quebec.ca/emplois-justice)** | **[Auxiliaire](https://jobright.ai/jobs/info/6a04899722395b6dc6d9e126?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Québec, Quebec, Canada | On Site | May 13 |
 | **[People Inc.](https://www.people.inc/)** | **[Video Creator](https://jobright.ai/jobs/info/69cc5151366bb95ba54eedce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 13 |
 | **[Historic Environment Scotland](https://www.historicenvironment.scot/)** | **[Guide (Part-Year Permanent) - Stirling Castle](https://jobright.ai/jobs/info/6a046f9422395b6dc6d9c9a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stirling Castle, Stirling, FK8 1EJ, GB | On Site | May 13 |
@@ -290,6 +293,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Golf Tech](https://jobright.ai/jobs/info/69fc54f6bb117f6b3f2b4619?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY, US | On Site | May 06 |
 | ↳ | **[Golf Experience Associate](https://jobright.ai/jobs/info/69fc4c38ab1b7e27b9fa31b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY, US | On Site | May 06 |
 | ↳ | **[Golf Experience Associate](https://jobright.ai/jobs/info/69fc4b852e6c421278ddb17c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY, US | On Site | May 06 |
-| **[Evolution](https://www.evolution.com)** | **[Casino Games Host on Camera up to $23/hr. Immediate Openings + Paid Training](https://jobright.ai/jobs/info/6a026aef238f143e83533dae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | May 06 |
-| **[Blueprint](https://bpcs.com/)** | **[Social Content Producer](https://jobright.ai/jobs/info/69fc0fb03160b250eb1bbdad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
