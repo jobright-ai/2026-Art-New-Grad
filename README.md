@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Captivate Perspectives](https://www.dccaptivate.com)** | **[Digital Media Arts- Part Time Evenings](https://jobright.ai/jobs/info/6a044e99f3d6cc51d637d7b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC, US | On Site | May 13 |
+| **[Bored Panda](http://www.boredpanda.com/)** | **[Entertainment Writer](https://jobright.ai/jobs/info/6a044e45bc4184089f239588?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Hybrid | May 13 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[Animation - Jedi Academy - ILM Vancouver (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/6a041c51bc4184089f238894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 12 |
 | **[The PCA Companies](https://thepcacompanies.com/)** | **[Content Creator (Beauty)](https://jobright.ai/jobs/info/69fe46bdad691a11f34ecadf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint James, NY | On Site | May 12 |
 | **[8AM Golf](https://8amgolf.com)** | **[Outside Golf Staff - Bounty Club](https://jobright.ai/jobs/info/6a03fb6d6c07461fe1708d07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | May 12 |
@@ -296,10 +298,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Anchor Production Assistant, MS NOW 9AM](https://jobright.ai/jobs/info/69fb998a86d5cd46527d6f1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
 | ↳ | **[Anchor Production Assistant, MS NOW 11PM](https://jobright.ai/jobs/info/69fb9986ffa73664aeb00eb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
 | ↳ | **[Anchor Production Assistant, MS NOW The Weeknight](https://jobright.ai/jobs/info/69fb9983ffa73664aeb00e95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 400 North Capitol Street NW, Washington, District of Columbia | Hybrid | May 06 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbdac2ffa73664aeb02523?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 06 |
-| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/69fbda9fd21cf86d1e3d5431?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 06 |
-| **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/69fb902e87a4820e6da88f6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | Hybrid | May 06 |
-| **[ZeniMax Media](https://www.zenimax.com)** | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbde7238179b6f1ae7b649?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbdc1c86d5cd46527d873e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | May 06 |
-| ↳ | **[Animator (First-Person)](https://jobright.ai/jobs/info/69fbddded21cf86d1e3d57d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
