@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/697c41091136d179eef01217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | May 13 |
 | **[Captivate Perspectives](https://www.dccaptivate.com)** | **[Digital Media Arts- Part Time Evenings](https://jobright.ai/jobs/info/6a044e99f3d6cc51d637d7b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC, US | On Site | May 13 |
 | **[Bored Panda](http://www.boredpanda.com/)** | **[Entertainment Writer](https://jobright.ai/jobs/info/6a044e45bc4184089f239588?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Hybrid | May 13 |
 | **[Industrial Light & Magic](http://ilm.com/)** | **[Animation - Jedi Academy - ILM Vancouver (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/6a041c51bc4184089f238894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 12 |
@@ -293,9 +294,4 @@ For a complete list, click the following sortable link below:
 | **[EA SPORTS](http://www.EASports.com)** | **[Assistant Producer - EA SPORTS™ FC](https://jobright.ai/jobs/info/69fbdca818b94b2515be53b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 06 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Commercial Producer](https://jobright.ai/jobs/info/69fbf65da5949019c55b2059?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elmira, NY | On Site | May 06 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69fbdf45ffa73664aeb029c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hoffman Estates, IL | On Site | May 06 |
-| **[Specialized Bicycle Components](http://specialized.com)** | **[Cycling Specialist - Santa Cruz Experience Center](https://jobright.ai/jobs/info/69fb9c0187a4820e6da89df5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States, CA, Santa Cruz (Santa Cruz Experience Center), US | On Site | May 06 |
-| **[Versant Media](https://versantmedia.com)** | **[Anchor Production Assistant, MS NOW Weekends 10AM](https://jobright.ai/jobs/info/69fb999238179b6f1ae79d6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 10 Universal City Plaza, Universal City, CALIFORNIA | Hybrid | May 06 |
-| ↳ | **[Anchor Production Assistant, MS NOW 9AM](https://jobright.ai/jobs/info/69fb998a86d5cd46527d6f1a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
-| ↳ | **[Anchor Production Assistant, MS NOW 11PM](https://jobright.ai/jobs/info/69fb9986ffa73664aeb00eb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | Hybrid | May 06 |
-| ↳ | **[Anchor Production Assistant, MS NOW The Weeknight](https://jobright.ai/jobs/info/69fb9983ffa73664aeb00e95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 400 North Capitol Street NW, Washington, District of Columbia | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
