@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Light & Magic](http://ilm.com/)** | **[Animation - Jedi Academy - ILM Vancouver (Open to Canadian Citizens & PR only)](https://jobright.ai/jobs/info/6a041c51bc4184089f238894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | May 12 |
 | **[The PCA Companies](https://thepcacompanies.com/)** | **[Content Creator (Beauty)](https://jobright.ai/jobs/info/69fe46bdad691a11f34ecadf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint James, NY | On Site | May 12 |
 | **[8AM Golf](https://8amgolf.com)** | **[Outside Golf Staff - Bounty Club](https://jobright.ai/jobs/info/6a03fb6d6c07461fe1708d07?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | May 12 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Producer, Content](https://jobright.ai/jobs/info/6a03e8807c753c287f6eb1bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Renton, WA | On Site | May 12 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[JHS Pedals](http://www.jhspedals.com/)** | **[Video Editor + Creative PA](https://jobright.ai/jobs/info/6a03531a7c753c287f6e5c5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grandview, MO | On Site | May 12 |
 | **[Cleveland Museum of Art](https://www.clevelandart.org)** | **[Curatorial Assistant - Department of Art of the Ancient Mediterranean, Africa, and Europe to 1800, and Decorative Art](https://jobright.ai/jobs/info/6a034a4ef3d6cc51d6375445?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, OH | On Site | May 12 |
 | **[News 12](http://www.news12.com/)** | **[Studio Director - Freelance](https://jobright.ai/jobs/info/6979322b88e2b47213bd5121?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edison, NJ | On Site | May 12 |
+| **[Circle K](http://www.circlek.com)** | **[CSR- Subway Sandwich Artist](https://jobright.ai/jobs/info/69cc3c1f891d7b11cfcab390?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delhi, ON | On Site | May 12 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Associate Producer - Temp (SFD / Cinematics)](https://jobright.ai/jobs/info/6a033ee722395b6dc6d92b2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irvine, CA | Hybrid | May 12 |
 | **[The Perry Group | REAL](https://theperry.group)** | **[Videographer & Content Producer](https://jobright.ai/jobs/info/6a033ebd7c753c287f6e5261?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salt Lake City, UT | Hybrid | May 12 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Television Scripted - Assistant](https://jobright.ai/jobs/info/69e6b373f8fa2f3ec32a355b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 12 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[CGK Linens](http://cgklinens.com)** | **[TikTok Content Creator & Strategist](https://jobright.ai/jobs/info/6a024de13053db70a1176b05?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clearwater, FL | On Site | May 11 |
 | **[Seattle Art Museum](http://seattleartmuseum.org)** | **[Venue Experiences Specialist](https://jobright.ai/jobs/info/6a024bc6238f143e83532b2f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | May 11 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Staff Writer](https://jobright.ai/jobs/info/69f02bb8a4aa3545d8a5d754?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Thorofare, NJ | Hybrid | May 11 |
-| **[Joybyte](https://www.joybyte.com)** | **[UGC Content Creator](https://jobright.ai/jobs/info/6a02402e238f143e83532412?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, AZ 85251, USA | Remote | May 11 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Gallery Assistant](https://jobright.ai/jobs/info/6a030bba6c07461fe16ffd01?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 11 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Processor](https://jobright.ai/jobs/info/6a031133bc4184089f22ed4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | May 11 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Broadcast Associate / Anchor Assistant, CBS Evening News](https://jobright.ai/jobs/info/6a0311abf3d6cc51d63732e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 11 |
@@ -307,7 +308,4 @@ For a complete list, click the following sortable link below:
 | **[Prime Video & Amazon MGM Studios](http://primevideo.com)** | **[Production Coordinator, Amazon MGM Studios Creative Marketing, A/V Production](https://jobright.ai/jobs/info/69c34365097a024c43d9481b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | May 06 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter IV](https://jobright.ai/jobs/info/69fb9d4118b94b2515be40fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
 | ↳ | **[Court Reporter II](https://jobright.ai/jobs/info/69fb9d3f18b94b2515be40f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brighton, CO | On Site | May 06 |
-| **[Brainlabs](http://www.brainlabsdigital.com/)** | **[Social Video Producer](https://jobright.ai/jobs/info/69fb589587a4820e6da878a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 06 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69fa3ba2a3d34b4f76f649ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | May 06 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/69a6e69776bbe83d3afa3b10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
