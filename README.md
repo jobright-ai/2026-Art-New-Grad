@@ -278,8 +278,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
 | **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Videographer - UK](https://jobright.ai/jobs/info/6a05521cf3d6cc51d6388636?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
 | ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
+| ↳ | **[Videographer - UK](https://jobright.ai/jobs/info/6a05521cf3d6cc51d6388636?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
@@ -299,5 +299,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Writer for Minute Taking](https://jobright.ai/jobs/info/69fcdbb0666f063d3d6d144c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, Canada | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[PT Certified Framer](https://jobright.ai/jobs/info/69fcda7cb113035a9f8ec2f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA, US | On Site | May 07 |
 | **[10Beauty](https://www.10beauty.co)** | **[Licensed Cosmetologist/Nail Tech (Natick, MA)](https://jobright.ai/jobs/info/69fcd961938a651755f97039?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Natick, Massachusetts, United States | On Site | May 07 |
-| **[Michaels Stores](https://teachitpro.com)** | **[PT Certified Framer](https://jobright.ai/jobs/info/69fcd26e666f063d3d6d0ead?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States of America | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
