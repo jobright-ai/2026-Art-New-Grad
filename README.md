@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eko](https://eko.com)** | **[Props Associate](https://jobright.ai/jobs/info/6a062f94320bff2205ea99bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, Arkansas | On Site | May 14 |
 | **[Columbia Hospitality](http://www.columbiahospitality.com)** | **[Golf Marshal](https://jobright.ai/jobs/info/6a062445bc4184089f24c016?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lincoln, CA | On Site | May 14 |
 | **[Hilco Global](http://www.hilcoglobal.com)** | **[Writer/Editor](https://jobright.ai/jobs/info/6a0620cb320bff2205ea87ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | May 14 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Groundskeeper - The Standard at Dinkytown](https://jobright.ai/jobs/info/6a061e94bc4184089f24b4c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN, USA, US | On Site | May 14 |
@@ -66,6 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant, The New Yorker](https://jobright.ai/jobs/info/6a06115aa88ea73abf7f6b7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 14 |
 | ↳ | **[Assistant to the Global Editorial Director, Wired](https://jobright.ai/jobs/info/6a0611446c07461fe171bc99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Party and Events Host Team Member](https://jobright.ai/jobs/info/6a060c386c07461fe171b9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Burlington, Vermont, United States of America | On Site | May 14 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a0628326c07461fe171cf0c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 14 |
+| **[Magic Circle Workshop](https://magiccircleworkshop.com/en)** | **[Production Coordinator](https://jobright.ai/jobs/info/69e90905e0cd471b2f13a0e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a05ff21320bff2205ea6e55?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-MA-Springfield | On Site | May 14 |
 | ↳ | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a05ff21320bff2205ea6e56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MA, US | On Site | May 14 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a05fe986c07461fe171b240?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | May 14 |
