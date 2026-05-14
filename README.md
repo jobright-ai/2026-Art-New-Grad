@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lifetouch](http://lifetouch.com/)** | **[Assistant Studio Manager](https://jobright.ai/jobs/info/69ebc24edc35f7132c4b2e1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA | On Site | May 14 |
+| **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Golf Course Jobs, Seasonal - Sawmill Creek Resort](https://jobright.ai/jobs/info/69b108dadfaeda6ff59bf09b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sandusky, OH | On Site | May 14 |
 | **[Gracious Hospitality Management](https://www.cotenyc.com)** | **[Model Host](https://jobright.ai/jobs/info/6979eb11a5b9804527dfb8f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, Nevada, United States | On Site | May 14 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055879f3d6cc51d6388863?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 13 |
 | ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055878f3d6cc51d6388862?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 13 |
@@ -281,13 +283,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
 | **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
 | ↳ | **[Videographer - UK](https://jobright.ai/jobs/info/6a05521cf3d6cc51d6388636?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
+| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
 | **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69ff4a02fa1aa73213d8b793?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Event Experience Coordinator](https://jobright.ai/jobs/info/69fd15375cff890b03f3610c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, OH, US | On Site | May 07 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd143e432a3c4da8e01b69?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill-60 Gregory Ln, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[PT Framer No Experience Necessary-4](https://jobright.ai/jobs/info/69fd13c8432a3c4da8e01a9d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Warwick, RI, US | On Site | May 07 |
 | ↳ | **[Part time Framer](https://jobright.ai/jobs/info/69fd13315cff890b03f35fa5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sunnyvale, CA, US | On Site | May 07 |
-| **[Michaels Stores](https://teachitpro.com)** | **[PT Framer No Experience Necessary-4](https://jobright.ai/jobs/info/69fd01f5432a3c4da8e00dc3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Warwick-1500 Bald Hill Rd Unit C, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
