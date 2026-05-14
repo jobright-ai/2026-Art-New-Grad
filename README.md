@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mediaite](https://www.mediaite.com/)** | **[Video Content Creator](https://jobright.ai/jobs/info/6a04ffad6c07461fe1712f3a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | Hybrid | May 13 |
+| **[disney](http://books.disney.com)** | **[Entertainment Host - Part Time - Internal](https://jobright.ai/jobs/info/6a04fde84373b07358a3916e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Anaheim | On Site | May 13 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Web Editor](https://jobright.ai/jobs/info/6a04f8d57c753c287f6f5388?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, USA, US | On Site | May 13 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/6a04f301bc4184089f240fa2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | May 13 |
 | **[The Wyanoke Group](http://www.wyanokegroup.com/)** | **[Multimedia Specialist](https://jobright.ai/jobs/info/6a04f2bb22395b6dc6da22df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Thorofare, NJ | Hybrid | May 13 |
@@ -291,5 +293,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 3rd Shift - Up to $21.50/Hour](https://jobright.ai/jobs/info/69a792d92672cb0acb4c07cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | May 07 |
 | **[FACE FOUNDRIÉ®️](https://www.facefoundrie.com/)** | **[Esthetics Manager](https://jobright.ai/jobs/info/69fc9789432a3c4da8dfd6a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Corte Madera, CA | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Framer](https://jobright.ai/jobs/info/69fc6e01e17071257af1a90f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Woodland, CA, US | On Site | May 07 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Framer](https://jobright.ai/jobs/info/69fc6e09666f063d3d6cd6b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Woodland, California, United States of America | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
