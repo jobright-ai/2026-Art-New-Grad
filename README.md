@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Video Truck Assistant](https://jobright.ai/jobs/info/6a06166bf3d6cc51d638eecd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | HIGH SCHOOL - Strongsville, Ohio | On Site | May 14 |
+| **[Condé Nast](http://www.condenast.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/6a0611bb7c753c287f6feae4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 14 |
+| ↳ | **[Editorial Assistant, The New Yorker](https://jobright.ai/jobs/info/6a06115aa88ea73abf7f6b7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 14 |
+| ↳ | **[Assistant to the Global Editorial Director, Wired](https://jobright.ai/jobs/info/6a0611446c07461fe171bc99?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | May 14 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Retail Party and Events Host Team Member](https://jobright.ai/jobs/info/6a060c386c07461fe171b9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Burlington, Vermont, United States of America | On Site | May 14 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a05ff21320bff2205ea6e56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MA, US | On Site | May 14 |
 | ↳ | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a05ff21320bff2205ea6e55?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-MA-Springfield | On Site | May 14 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a05fe986c07461fe171b240?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | May 14 |
@@ -291,6 +296,4 @@ For a complete list, click the following sortable link below:
 | **[Airrack](https://www.youtube.com/c/airrack)** | **[Assistant Editor](https://jobright.ai/jobs/info/6a02e717f3d6cc51d6371774?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | On Site | May 08 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Associate Editor / Editor, Astronomy (Books)](https://jobright.ai/jobs/info/69c31cd6ec22f8310ab142d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | May 08 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/69fd882452e2b44f558abb33?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 6594 Mayfield Rd | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/69fd4cdf7824dc6135beeb7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 07 |
-| ↳ | **[Event Staff / Abeja Winery (Seasonal + Tips!)](https://jobright.ai/jobs/info/69fd4aa0e7252f429d40edf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walla Walla, WA, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
