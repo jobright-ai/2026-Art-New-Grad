@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/6a026bdcc2ffb31f4536d0ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | May 14 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6a05ea456c07461fe171a012?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roberts, WI | On Site | May 14 |
+| **[The PCA Companies](https://thepcacompanies.com/)** | **[CONTENT CREATOR (RONKONKOMA NY)](https://jobright.ai/jobs/info/6a05e2d86c07461fe1719be3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | On Site | May 14 |
+| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Editor-1](https://jobright.ai/jobs/info/6996997bce78e77b4fdabbb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milwaukee, WI | On Site | May 14 |
+| **[Pure Storage](http://www.purestorage.com)** | **[Multimedia Specialist](https://jobright.ai/jobs/info/69e99de90a6e09555303cf73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | May 14 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part Time Producer & Digital Content Creator - KPEL-FM & KPEL-AM](https://jobright.ai/jobs/info/6a05daf06c07461fe1719607?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lafayette, LA | On Site | May 14 |
 | **[Lifetouch](http://lifetouch.com/)** | **[Assistant Studio Manager](https://jobright.ai/jobs/info/69ebc24edc35f7132c4b2e1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA | On Site | May 14 |
 | **[Cedar Point Amusement Park](https://www.cedarpoint.com/)** | **[Golf Course Jobs, Seasonal - Sawmill Creek Resort](https://jobright.ai/jobs/info/69b108dadfaeda6ff59bf09b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sandusky, OH | On Site | May 14 |
@@ -283,8 +288,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Community Experience Guide](https://jobright.ai/jobs/info/69fd3030b113035a9f8eed8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Barrington, NJ, US | On Site | May 07 |
 | ↳ | **[Production Assistant - Part Time](https://jobright.ai/jobs/info/69fd3011666f063d3d6d3a1c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, VA, US | Hybrid | May 07 |
 | ↳ | **[Party & Events & Community Liaison](https://jobright.ai/jobs/info/69fd2feb432a3c4da8e0221c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pleasant Hill, MO, US | On Site | May 07 |
-| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/69fd82e1ad691a11f34e9bdc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Videographer - UK](https://jobright.ai/jobs/info/6a05521cf3d6cc51d6388636?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 07 |
-| ↳ | **[Video Editor (Social Media Content) - UK](https://jobright.ai/jobs/info/69fd82407714cd50b90fb366?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 07 |
-| **[Bethesda Country Club](http://www.bethesdacountryclub.org/)** | **[Event Coordinator](https://jobright.ai/jobs/info/69fd1ed45cff890b03f36327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda,MD,US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
