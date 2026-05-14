@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a05ff21320bff2205ea6e56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MA, US | On Site | May 14 |
+| ↳ | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a05ff21320bff2205ea6e55?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-MA-Springfield | On Site | May 14 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a05fe986c07461fe171b240?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | May 14 |
+| ↳ | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a05fe976c07461fe171b23f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-ON-Toronto | Hybrid | May 14 |
+| **[Freshfields Farm](https://www.freshfieldsfarm.com)** | **[Weekend Warrior Associate / Must be 18 or older](https://jobright.ai/jobs/info/6a05fbbef3d6cc51d638d928?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | FL #3 - Jacksonville, FL 32216 | On Site | May 14 |
+| **[Flighthouse Media](https://www.flighthousemedia.com)** | **[Associate Editor, Brand](https://jobright.ai/jobs/info/6a05f9dbf3d6cc51d638d7db?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote (United States) | Remote | May 14 |
+| **[The PCA Companies](https://thepcacompanies.com/)** | **[Production Assistant (TikTok, WhatNot)](https://jobright.ai/jobs/info/6a05f9a07c753c287f6fda6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ronkonkoma, NY | On Site | May 14 |
 | **[American Retirement Advisors](http://americanretirementadvisors.com/)** | **[Content Creator / Social Media Producer](https://jobright.ai/jobs/info/6a05f168320bff2205ea6247?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amesbury, MA | On Site | May 14 |
 | **[Fever](https://www.feverup.com)** | **[Junior Producer](https://jobright.ai/jobs/info/6a026bdcc2ffb31f4536d0ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | May 14 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6a05ea456c07461fe171a012?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roberts, WI | On Site | May 14 |
