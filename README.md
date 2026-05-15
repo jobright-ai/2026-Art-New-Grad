@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retail Team Member - Party and Event Host](https://jobright.ai/jobs/info/6a066ff4f3d6cc51d63939de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | May 14 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a066ebbbc4184089f24f965?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 4800 US 89, Flagstaff, Arizona | On Site | May 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb7bc4184089f24f962?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yuba City California | On Site | May 14 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb2bc4184089f24f961?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff Arizona | On Site | May 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb2f3d6cc51d63937f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Temple Texas | On Site | May 14 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb2bc4184089f24f961?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff Arizona | On Site | May 14 |
 | **[Atomic Cartoons](http://www.atomiccartoons.com/)** | **[CG Animator](https://jobright.ai/jobs/info/6a066a136c07461fe1720408?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver | Hybrid | May 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framer](https://jobright.ai/jobs/info/6a065dccbc4184089f24efcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | May 14 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Television Scripted - Assistant](https://jobright.ai/jobs/info/6a065ab8320bff2205eabf32?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 14 |
