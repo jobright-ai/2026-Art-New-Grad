@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Michaels Stores](https://teachitpro.com)** | **[PR Retail - Event and Party Host](https://jobright.ai/jobs/info/6a0abca6939a5f01db963d21?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheektowaga, NY | On Site | May 18 |
+| **[Michaels Stores](https://teachitpro.com)** | **[PT. Framer](https://jobright.ai/jobs/info/6a0ae59e963f7a67d95ca501?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Annapolis-2309 B Forest Dr, US | On Site | May 18 |
+| ↳ | **[PR Retail - Event and Party Host](https://jobright.ai/jobs/info/6a0abca6939a5f01db963d21?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheektowaga, NY | On Site | May 18 |
 | **[Goodera](https://goodera.com/)** | **[Kansas City, MO: Freelance Corporate Event Host](https://jobright.ai/jobs/info/6a06f76d9f57175bd581b0b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, Missouri, United States | On Site | May 17 |
 | **[Prometric](https://www.prometric.com)** | **[Freelance Item Writer (English Language Assessment), Assessment Services](https://jobright.ai/jobs/info/6a0a9c66a203b1052e44e3f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | May 17 |
 | **[Steno](https://steno.com)** | **[West Coast Calendar Assistant](https://jobright.ai/jobs/info/6a0a96eba203b1052e44e048?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote (United States) | Remote | May 17 |
@@ -92,10 +93,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Swing Shift](https://jobright.ai/jobs/info/69ebde2058811370cb13d47f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | May 16 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Cleanroom](https://jobright.ai/jobs/info/69b335bfad360c0340a85c6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | May 16 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host Coordinator](https://jobright.ai/jobs/info/6a085ec4939a5f01db95919a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington-34 Cambridge St, Ste 150, US | On Site | May 16 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed83b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | May 16 |
-| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed834?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY-New York | On Site | May 16 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed834?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY-New York | On Site | May 16 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed839?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA-Los Angeles | On Site | May 16 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed832?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY-New York, UNAVAILABLE, USA | On Site | May 16 |
+| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed83b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | May 16 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Managing Editor of Client Content](https://jobright.ai/jobs/info/67eec162357dc4681d864207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | May 16 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/6a08505e403fc339507ecf06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Mt. Pleasant | On Site | May 16 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055878f3d6cc51d6388862?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 16 |
@@ -155,8 +156,8 @@ For a complete list, click the following sortable link below:
 | **[Inizio Evoke](https://www.inizioevoke.com)** | **[Junior Motion Editor](https://jobright.ai/jobs/info/6a07065e1f7fa33581c9b6ba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City | Hybrid | May 15 |
 | **[Prevail.ai](http://prevail.io)** | **[Freelance Digital Court Reporter](https://jobright.ai/jobs/info/6a070642078fec52738a6da2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States - Remote | Remote | May 15 |
 | ↳ | **[Freelance Digital Court Reporter](https://jobright.ai/jobs/info/6a070642078fec52738a6da3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | On Site | May 15 |
-| ↳ | **[Freelance Digital Court Reporter](https://jobright.ai/jobs/info/6a0706374a0a6a7e7d8215e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, Ohio, United States | Hybrid | May 15 |
 | ↳ | **[Freelance Digital Court Reporter](https://jobright.ai/jobs/info/6a0706374a0a6a7e7d8215e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States - Remote | Remote | May 15 |
+| ↳ | **[Freelance Digital Court Reporter](https://jobright.ai/jobs/info/6a0706374a0a6a7e7d8215e7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, Ohio, United States | Hybrid | May 15 |
 | ↳ | **[Freelance Digital Court Reporter](https://jobright.ai/jobs/info/6a07058724dcb03739f1e9b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States - Remote | Remote | May 15 |
 | **[ESL FACEIT Group - EFG](http://www.eslfaceitgroup.com)** | **[DreamHack Atlanta General Festival Crew -  Talent Pool 2026](https://jobright.ai/jobs/info/69b932e83b74eb1e2c872182?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, United States | On Site | May 15 |
 | ↳ | **[DreamHack Atlanta General Festival Crew -  Talent Pool 2026](https://jobright.ai/jobs/info/6a0705851f7fa33581c9b580?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA | On Site | May 15 |
@@ -175,8 +176,8 @@ For a complete list, click the following sortable link below:
 | **[WITHIN](https://within.co/)** | **[Content Creator (Freelancer)](https://jobright.ai/jobs/info/6a06fec424dcb03739f1cb7b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | Remote | May 15 |
 | ↳ | **[Content Creator (Freelancer)](https://jobright.ai/jobs/info/6a06fec324dcb03739f1cb77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 15 |
 | **[Orca Reviews](https://www.linkedin.com/company/107601964)** | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fec04a0a6a7e7d81ecfe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bakersfield, California, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06febe4a0a6a7e7d81ecee?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stockton, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06febe4a0a6a7e7d81eceb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, Florida, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06febe4a0a6a7e7d81ecee?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stockton, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06febc4a0a6a7e7d81ecd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, New Mexico, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06febb4a0a6a7e7d81ecbf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesapeake, Virginia, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fe52078fec52738a43fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Garland, Texas, United States | Remote | May 15 |
@@ -215,8 +216,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fcb0152f493123c4b0db?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, Florida, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fca99f57175bd581c4df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Honolulu, Hawaii, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fca79f57175bd581c4d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | California, California, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fca6152f493123c4b08c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Henderson, Nevada, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fca64a0a6a7e7d81e194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St. Louis, Missouri, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fca6152f493123c4b08c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Henderson, Nevada, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fca5152f493123c4b081?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fresno, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc9c152f493123c4b034?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, Texas, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc9b152f493123c4b02e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, Virginia, United States | Remote | May 15 |
@@ -224,8 +225,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8e24dcb03739f1c070?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chandler, Arizona, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8d24dcb03739f1c06f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Ana, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8424dcb03739f1c052?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, New Jersey, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8224dcb03739f1c03d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8224dcb03739f1c043?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, Indiana, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8224dcb03739f1c03d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8224dcb03739f1c040?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St. Petersburg, Florida, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8124dcb03739f1c03a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, North Carolina, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc8024dcb03739f1c031?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, North Carolina, United States | Remote | May 15 |
@@ -234,8 +235,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc6d24dcb03739f1bfeb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montreal, QC, Canada | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc6b078fec52738a3b02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc5b1f7fa33581c97fe8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, Canada | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc5a1f7fa33581c97fda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | El Paso, Texas, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc5a152f493123c4aef5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, Pennsylvania, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc5a1f7fa33581c97fda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | El Paso, Texas, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc59152f493123c4aeec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc454a0a6a7e7d81df59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, ON, Canada | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc3c4a0a6a7e7d81df32?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orlando, Florida, United States | Remote | May 15 |
@@ -246,8 +247,8 @@ For a complete list, click the following sortable link below:
 | **[Orca Reviews](https://www.linkedin.com/company/107601964)** | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1e152f493123c4ae00?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mesa, Arizona, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1c152f493123c4aded?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensboro, North Carolina, United States | Remote | May 15 |
 | **[CAMP](https://camp.com/)** | **[Guest Experience Host (Actors/Performers)](https://jobright.ai/jobs/info/6a06fc1a24dcb03739f1be5f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL (Aventura) | On Site | May 15 |
-| **[Orca Reviews](https://www.linkedin.com/company/107601964)** | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1a152f493123c4add9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, Ohio, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1a152f493123c4addb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, California, United States | Remote | May 15 |
+| **[Orca Reviews](https://www.linkedin.com/company/107601964)** | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1a152f493123c4addb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, California, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1a152f493123c4add9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, Ohio, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc1a152f493123c4adda?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tulsa, Oklahoma, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a06fc12078fec52738a38d9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Paul, Minnesota, United States | Remote | May 15 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant Post Production](https://jobright.ai/jobs/info/69854bdf348f733a5c399321?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Belton, MO | On Site | May 15 |
@@ -267,15 +268,15 @@ For a complete list, click the following sortable link below:
 | **[Democracy Defenders Action](https://democracydefendersaction.org)** | **[Administrative and Editorial Assistant, The Contrarian](https://jobright.ai/jobs/info/6a06fa44152f493123c4a25c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, District of Columbia, United States | Hybrid | May 15 |
 | ↳ | **[Administrative and Editorial Assistant, The Contrarian](https://jobright.ai/jobs/info/6a06fa43152f493123c4a258?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | U.S. Remote | Remote | May 15 |
 | **[Orca Reviews](https://www.linkedin.com/company/107601964)** | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a07252324dcb03739f229e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, Wisconsin, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a072aea4a0a6a7e7d8256b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a0724fb078fec52738aab1b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, Pennsylvania, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a072aea4a0a6a7e7d8256b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a072a8d4a0a6a7e7d8254de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, Ohio, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a072b134a0a6a7e7d82574f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington D.C., District of Columbia, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a072aeb4a0a6a7e7d8256c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, Maryland, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a072b134a0a6a7e7d82574f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington D.C., District of Columbia, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a0724bb078fec52738aaa49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, Texas, United States | Remote | May 15 |
+| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a07253124dcb03739f22a5b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverside, California, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a07252f24dcb03739f22a41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, Illinois, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a07215624dcb03739f22109?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, Alabama, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a07253124dcb03739f22a5b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverside, California, United States | Remote | May 15 |
-| ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a0724bb078fec52738aaa49?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, Texas, United States | Remote | May 15 |
 | ↳ | **[Content Creator (Model)](https://jobright.ai/jobs/info/6a07215724dcb03739f2210d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Durham, North Carolina, United States | Remote | May 15 |
 | **[State Affairs](https://stateaffairs.com/)** | **[Associate Editor, Daily Briefings](https://jobright.ai/jobs/info/6a06f9bd9f57175bd581b679?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, Florida | On Site | May 15 |
 | ↳ | **[Associate Editor, Daily Briefings](https://jobright.ai/jobs/info/6a06f9bc9f57175bd581b66b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami | On Site | May 15 |
@@ -311,8 +312,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb7bc4184089f24f962?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yuba City California | On Site | May 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb2f3d6cc51d63937f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Temple Texas | On Site | May 14 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a066eb2bc4184089f24f961?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flagstaff Arizona | On Site | May 14 |
-| **[BJAK](https://bjak.com)** | **[Script and Contentwriter - UK](https://jobright.ai/jobs/info/6a0a22c4a203b1052e44bd98?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 14 |
-| ↳ | **[Lead Videographer UK](https://jobright.ai/jobs/info/6a074a06a203b1052e4393a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 14 |
+| **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/6a074a06a203b1052e4393a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 14 |
+| ↳ | **[Script and Contentwriter - UK](https://jobright.ai/jobs/info/6a0a22c4a203b1052e44bd98?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | Remote | May 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framer](https://jobright.ai/jobs/info/6a065dccbc4184089f24efcc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | May 14 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Television Scripted - Assistant](https://jobright.ai/jobs/info/6a065ab8320bff2205eabf32?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | May 14 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/6a03b5fe7c753c287f6e9ddf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Asheville, NC | On Site | May 14 |
@@ -444,5 +445,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a030bbc22395b6dc6d905c6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gardendale, AL | On Site | May 11 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/69fb1ef618b94b2515bdf5f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canton, GA | On Site | May 11 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a030b8d22395b6dc6d90509?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Southern Pines, NC | On Site | May 11 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a030ba36c07461fe16ffc85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
