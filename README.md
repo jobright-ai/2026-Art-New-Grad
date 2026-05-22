@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a1002bd72b52f7225f4145a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington, NJ | On Site | May 22 |
 | **[disney](http://disneymusic.disney.com)** | **[Executive Assistant, Drama Development (ABC)](https://jobright.ai/jobs/info/6a0fe17b619335383fb2f9d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burbank, CA | On Site | May 21 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Host Event](https://jobright.ai/jobs/info/6a0fb4b712f8b43cf3981350?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huntington Beach, California, United States of America | On Site | May 21 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[TikTok Livestream Host](https://jobright.ai/jobs/info/6a0fb49e83d71442898225bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irvine, CA | On Site | May 21 |
@@ -190,8 +191,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/6a0b85ac963f7a67d95d0c8e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roanoke, VA | On Site | May 18 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Beauty Advisor](https://jobright.ai/jobs/info/6a0b7e9d4d93203636871ac9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Traverse City, MI, United States | On Site | May 18 |
 | **[Versant Media](https://versantmedia.com)** | **[DTC Production Assistant, MS NOW DTC Content Strategy](https://jobright.ai/jobs/info/6a0b7a65a235d749afa85d0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | On Site | May 18 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c91?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chester, VA | On Site | May 18 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bay Shore, NY | On Site | May 18 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bay Shore, NY | On Site | May 18 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c91?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chester, VA | On Site | May 18 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a0b8b8822d0d34036c8d9aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | On Site | May 18 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a0b6558a235d749afa84e28?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manhasset, NY | On Site | May 18 |
 | ↳ | **[PT Party and Events Host](https://jobright.ai/jobs/info/6a0b64610411d7417a1b05ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grove City-1614 Stringtown Rd, US | On Site | May 18 |
@@ -235,14 +236,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Swing Shift](https://jobright.ai/jobs/info/69ebde2058811370cb13d47f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | May 16 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Cleanroom](https://jobright.ai/jobs/info/69b335bfad360c0340a85c6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | May 16 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host Coordinator](https://jobright.ai/jobs/info/6a085ec4939a5f01db95919a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington-34 Cambridge St, Ste 150, US | On Site | May 16 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed83b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | May 16 |
-| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed832?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY-New York, UNAVAILABLE, USA | On Site | May 16 |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed832?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY-New York, UNAVAILABLE, USA | On Site | May 16 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed839?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA-Los Angeles | On Site | May 16 |
+| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed83b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | May 16 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed834?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY-New York | On Site | May 16 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Managing Editor of Client Content](https://jobright.ai/jobs/info/67eec162357dc4681d864207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | May 16 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/6a08505e403fc339507ecf06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Mt. Pleasant | On Site | May 16 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055878f3d6cc51d6388862?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 16 |
-| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a08501fa203b1052e44350d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 16 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a08501fa203b1052e44350d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 16 |
+| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055878f3d6cc51d6388862?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 16 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a084ec3a203b1052e4431f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MA, US | On Site | May 16 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a084df0a203b1052e442e8f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | May 16 |
 | ↳ | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a084defa203b1052e442e8a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-ON-Toronto | Hybrid | May 16 |
@@ -275,5 +276,4 @@ For a complete list, click the following sortable link below:
 | **[Tk̓emlúps te Secwépemc](http://tkemlups.ca)** | **[Multimedia Coordinator (Assistant Level)](https://jobright.ai/jobs/info/6a074831939a5f01db94de76?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kamloops, British Columbia, Canada | On Site | May 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Creative Video Producer](https://jobright.ai/jobs/info/6a0745ea8f3e371eb6175193?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ann Arbor Campus, Ann Arbor, MI | On Site | May 15 |
 | ↳ | **[Creative Video Producer](https://jobright.ai/jobs/info/6a0745e28f3e371eb617518f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ann Arbor, MI | On Site | May 15 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/69eb941fdc35f7132c4b1970?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Solon, OH | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
