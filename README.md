@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Timpson Group](https://www.timpson.co.uk)** | **[Retail Assistant A87](https://jobright.ai/jobs/info/6a1059d283d714428982585e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edinburgh, United Kingdom | On Site | May 22 |
 | **[BJAK](https://bjak.com)** | **[Lead Videographer UK](https://jobright.ai/jobs/info/6a101043619335383fb303fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 22 |
 | ↳ | **[Videographer - UK](https://jobright.ai/jobs/info/6a10102912f8b43cf3982b6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United Kingdom | On Site | May 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a1002bd72b52f7225f4145a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington, NJ | On Site | May 22 |
@@ -194,8 +195,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/6a0b85ac963f7a67d95d0c8e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roanoke, VA | On Site | May 18 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Beauty Advisor](https://jobright.ai/jobs/info/6a0b7e9d4d93203636871ac9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Traverse City, MI, United States | On Site | May 18 |
 | **[Versant Media](https://versantmedia.com)** | **[DTC Production Assistant, MS NOW DTC Content Strategy](https://jobright.ai/jobs/info/6a0b7a65a235d749afa85d0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 229 West 43rd Street, New York, NEW YORK | On Site | May 18 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bay Shore, NY | On Site | May 18 |
-| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c91?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chester, VA | On Site | May 18 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c91?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chester, VA | On Site | May 18 |
+| ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a0b71720411d7417a1b0c90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bay Shore, NY | On Site | May 18 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/6a0b8b8822d0d34036c8d9aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | On Site | May 18 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a0b6558a235d749afa84e28?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manhasset, NY | On Site | May 18 |
 | ↳ | **[PT Party and Events Host](https://jobright.ai/jobs/info/6a0b64610411d7417a1b05ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grove City-1614 Stringtown Rd, US | On Site | May 18 |
@@ -238,13 +239,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Cleanroom](https://jobright.ai/jobs/info/69b335bfad360c0340a85c6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | May 16 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host Coordinator](https://jobright.ai/jobs/info/6a085ec4939a5f01db95919a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington-34 Cambridge St, Ste 150, US | On Site | May 16 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed834?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-NY-New York | On Site | May 16 |
-| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed839?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA-Los Angeles | On Site | May 16 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed832?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NY-New York, UNAVAILABLE, USA | On Site | May 16 |
+| ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed839?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | USA-CA-Los Angeles | On Site | May 16 |
 | ↳ | **[Digital Video Content Producer/Editor](https://jobright.ai/jobs/info/6a085315403fc339507ed83b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-Los Angeles, UNAVAILABLE, USA | On Site | May 16 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Managing Editor of Client Content](https://jobright.ai/jobs/info/67eec162357dc4681d864207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisburg, PA | On Site | May 16 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Community Table Coordinator PT](https://jobright.ai/jobs/info/6a08505e403fc339507ecf06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-SC-Mt. Pleasant | On Site | May 16 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a08501fa203b1052e44350d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 16 |
-| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055878f3d6cc51d6388862?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 16 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a055878f3d6cc51d6388862?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY, US | Hybrid | May 16 |
+| ↳ | **[Editorial Assistant (NYC Hybrid)](https://jobright.ai/jobs/info/6a08501fa203b1052e44350d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-NY-New York | Hybrid | May 16 |
 | **[GPM Investments, LLC](http://gpminvestments.com/)** | **[Subway Sandwich Artist](https://jobright.ai/jobs/info/6a084ec3a203b1052e4431f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MA, US | On Site | May 16 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a084df0a203b1052e442e8f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toronto, ON, CA | Hybrid | May 16 |
 | ↳ | **[Editorial Assistant (Toronto Hybrid)](https://jobright.ai/jobs/info/6a084defa203b1052e442e8a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-ON-Toronto | Hybrid | May 16 |
@@ -263,6 +264,4 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Host & Team Member](https://jobright.ai/jobs/info/6a07b5e1a203b1052e43ddc3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rossford-9860 Old US 20, US | On Site | May 15 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Writer/Copy Editor - Part Time](https://jobright.ai/jobs/info/6a0e31d809ecfd704b3e6c1e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ann Arbor, MI | Hybrid | May 15 |
 | **[JUSTIN Vineyards & Winery](http://justinwine.com)** | **[Events Lead (Part-Time)](https://jobright.ai/jobs/info/69ebc380dc35f7132c4b303e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Paso Robles, CA | On Site | May 15 |
-| **[Townsquare Media](http://townsquaremedia.com)** | **[Part Time Producer & Digital Content Creator - KPEL-FM & KPEL-AM](https://jobright.ai/jobs/info/6a0798a8403fc339507e64e8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lafayette, LA | On Site | May 15 |
-| ↳ | **[Part Time Producer & Digital Content Creator - WKXW-FM](https://jobright.ai/jobs/info/6a0798a8a203b1052e43ce83?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, NJ | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
