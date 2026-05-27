@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sports Warehouse, Inc.](http://tennis-warehouse.com)** | **[Web Content Editor 1 - Inline & Ice Warehouse - Alpharetta, GA](https://jobright.ai/jobs/info/6a175d64b091c7417c4fded5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Alpharetta,GA,US | On Site | May 27 |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a17515a1430333075ccfdf8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 27 |
+| ↳ | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a1751501430333075ccfdf0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Plains, NY | Hybrid | May 27 |
+| ↳ | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a17514b1430333075ccfde9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | Hybrid | May 27 |
+| **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a175128b091c7417c4fd48c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | May 27 |
+| ↳ | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a175126b091c7417c4fd487?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | Hybrid | May 27 |
+| ↳ | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a175125b091c7417c4fd483?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Plains, NY | Hybrid | May 27 |
+| ↳ | **[Music Royalty Analyst](https://jobright.ai/jobs/info/6a17511db091c7417c4fd468?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | Hybrid | May 27 |
 | **[Gray Media](https://graymedia.com)** | **[DIGITAL CONTENT NEWS PRODUCER - KHNL](https://jobright.ai/jobs/info/6a174793f45c6530ce9aaeab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Honolulu, HI | On Site | May 27 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a1742bad6a04f21602e4e64?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Reno, NV | On Site | May 27 |
 | **[Planet Depos](http://planetdepos.com)** | **[Digital Court Reporter - Legal Audio / Visual Technician](https://jobright.ai/jobs/info/6a1741f65b0a497d5210a4e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St. Louis,MO,US | On Site | May 27 |
@@ -177,40 +185,40 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094459fdbf21f36caf8ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mesa, Arizona, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094449fdbf21f36caf8cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, Oklahoma, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109443619335383fb33984?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Louisville, Kentucky, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109442619335383fb33982?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, Washington, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094429fdbf21f36caf8cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milwaukee, Wisconsin, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094429fdbf21f36caf8cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, California, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109442619335383fb33983?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portland, Oregon, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094419fdbf21f36caf8ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, North Carolina, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109441619335383fb33980?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, Pennsylvania, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094429fdbf21f36caf8cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milwaukee, Wisconsin, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109442619335383fb33982?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, Washington, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109441619335383fb33981?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Long Beach, California, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a109441619335383fb33980?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, Pennsylvania, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094419fdbf21f36caf8ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, North Carolina, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943c69bd827926aef59c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, District of Columbia, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943a9f654b3359cecdbc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, California, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943a9f654b3359cecdbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, Minnesota, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943a9f654b3359cecdbf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | El Paso, Texas, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943a9f654b3359cecdbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, Minnesota, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943a69bd827926aef59b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, Georgia, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943769bd827926aef599?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, Indiana, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094379f654b3359cecdba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943769bd827926aef598?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, Texas, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094379f654b3359cecdba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943683d7144289827491?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Corpus Christi, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094369f654b3359cecdb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, California, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943569bd827926aef597?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, Illinois, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094359f654b3359cecdb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, Indiana, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943569bd827926aef596?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Ana, California, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943569bd827926aef597?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, Illinois, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, Texas, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943483d714428982748c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, Colorado, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, New Mexico, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, Florida, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943483d714428982748d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tucson, Arizona, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943483d714428982748d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943483d714428982748f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fresno, California, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, Florida, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943483d714428982748e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milwaukee, Wisconsin, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943383d7144289827488?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, Texas, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, New Mexico, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943483d714428982748c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, Colorado, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094349f654b3359cecdb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943383d714428982748a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Louisville, Kentucky, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943383d7144289827483?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Anaheim, California, United States | Remote | May 22 |
-| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094339f654b3359cecdae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, North Carolina, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943383d7144289827488?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, Texas, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094339f654b3359cecdaf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, California, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a10943383d7144289827487?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, Illinois, United States | Remote | May 22 |
+| ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094339f654b3359cecdae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, North Carolina, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094329f654b3359cecdac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, Arizona, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094329f654b3359cecdad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York, United States | Remote | May 22 |
 | ↳ | **[TikTok Content Creator](https://jobright.ai/jobs/info/6a1094329f654b3359cecdab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, Ohio, United States | Remote | May 22 |
@@ -259,8 +267,8 @@ For a complete list, click the following sortable link below:
 | **[MLB NETWORK](https://www.mlb.com/network)** | **[Freelance Broadcast Associate, Graphics](https://jobright.ai/jobs/info/699eb9f0e0bddb6acaceabae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Secaucus, NJ | On Site | May 21 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Editorial Assistant](https://jobright.ai/jobs/info/6a0f573480bf0430c7632c17?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York,NY,US | Hybrid | May 21 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/6a0c7c73a235d749afa8d381?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cumming, GA | On Site | May 21 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a0f8720619335383fb2d94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meriden, CT | On Site | May 21 |
-| ↳ | **[Party & Event Host](https://jobright.ai/jobs/info/6a0f8731619335383fb2d970?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Silver Spring, MD | On Site | May 21 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Party & Event Host](https://jobright.ai/jobs/info/6a0f8731619335383fb2d970?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Silver Spring, MD | On Site | May 21 |
+| ↳ | **[Party & Event Host](https://jobright.ai/jobs/info/6a0f8720619335383fb2d94c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meriden, CT | On Site | May 21 |
 | ↳ | **[Party & Event Host](https://jobright.ai/jobs/info/6a0f86e483d71442898212db?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sparks, NV | On Site | May 21 |
 | **[Businessolver](https://www.businessolver.com)** | **[Content Writer I (Remote)](https://jobright.ai/jobs/info/6a0f43cf9f654b3359ce3f03?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marion County, IN | Remote | May 21 |
 | **[The Salvation Army in Canada](https://salvationarmy.ca)** | **[Event Coordinator](https://jobright.ai/jobs/info/6a0f3d109f654b3359ce3a3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wiarton, Ontario, Canada | On Site | May 21 |
