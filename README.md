@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Event Coordinator- Party Host- Store Enviroment](https://jobright.ai/jobs/info/6a1991326b135014dbc84356?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Princeton-300 Nassau Park Blvd, US | On Site | May 29 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/6a171a16b091c7417c4fab40?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY, US | On Site | May 29 |
+| ↳ | **[Activities Assistant](https://jobright.ai/jobs/info/6a04f978f3d6cc51d6384fe3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ocean View, NJ, US | On Site | May 29 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital content producer](https://jobright.ai/jobs/info/69a65af02c0d8b0f5cd0791d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | OH-Cleveland;5800 South Marginal Road (Tribune-WJW) | On Site | May 29 |
 | **[Howdy](https://heyhowdy.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/6a1970c2547e292ae13925ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver | On Site | May 29 |
 | **[Recommended Place](https://www.recommendedplace.com/)** | **[Video Presenter](https://jobright.ai/jobs/info/6a193486abc8f63abac7f66a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | May 28 |
 | **[CAMP](https://camp.com/)** | **[Guest Experience Host](https://jobright.ai/jobs/info/6a192f1754a441713ae8b018?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edina, MN (Southdale) | On Site | May 28 |
