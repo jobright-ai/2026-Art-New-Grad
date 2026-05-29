@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Michaels Stores](https://teachitpro.com)** | **[Party and Event Host PT](https://jobright.ai/jobs/info/6a19ada0e24ef365258266dd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Holmdel-2130 State Rte 35, US | On Site | May 29 |
-| **[Millan Enterprises, LLC.](https://millanenterprises.com)** | **[Content Creator](https://jobright.ai/jobs/info/6a19a8252b206f3955eaf66e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarksville, TN | On Site | May 29 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6896a3c81b9e81727f192dba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 109450 US-97, Chemult, OR | On Site | May 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital content producer](https://jobright.ai/jobs/info/69a65af02c0d8b0f5cd0791d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | OH-Cleveland;5800 South Marginal Road (Tribune-WJW) | On Site | May 29 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Event Coordinator- Party Host- Store Enviroment](https://jobright.ai/jobs/info/6a1991326b135014dbc84356?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Princeton-300 Nassau Park Blvd, US | On Site | May 29 |
