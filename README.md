@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Related Canada resource
+
+- [Hanzilla Jobs — Canadian arts, humanities, communications, policy, and creative new-grad roles](https://jobs.hanzilla.co/arts/) — free daily-updated Canadian student/recent-grad job board for internships, co-ops, new-grad, junior, and entry-level roles across arts & humanities plus adjacent fields.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 
